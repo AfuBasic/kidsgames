@@ -1,0 +1,114 @@
+/* Homepage: a grid of big game cards. */
+
+.home {
+  position: relative;
+  height: 100%;
+  overflow-y: auto;
+  padding: 5vh 16px 22vh;
+  text-align: center;
+}
+.home h1 {
+  margin: 0;
+  font-size: clamp(40px, 8vh, 72px);
+  letter-spacing: -0.02em;
+}
+.home .tagline { margin: 0.6vh 0 4vh; }
+
+.game-group { max-width: 1000px; margin: 0 auto 4vh; }
+.game-group h2 {
+  margin: 0 0 14px;
+  text-align: left;
+  font-size: clamp(22px, 3.4vh, 30px);
+  letter-spacing: -0.01em;
+}
+
+.games {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 200px), 1fr));
+  gap: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.game-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  padding: 22px 16px 18px;
+  border-radius: 28px;
+  cursor: pointer;
+}
+.game-card .icon { width: min(140px, 60%); aspect-ratio: 1; }
+.game-card .icon svg { overflow: visible; }
+.game-card .name { font-size: clamp(20px, 3vh, 26px); font-weight: 700; }
+.game-card:active { transform: scale(0.97); }
+
+.game-card.soon { cursor: default; opacity: 0.55; filter: saturate(0.5); }
+.game-card.soon:active { transform: none; }
+.game-card .badge {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: var(--ink-soft);
+  color: #fff;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+/* ---------- install and offline panel (install.js) ---------- */
+
+.app-panel {
+  max-width: 560px;
+  margin: 5vh auto 0;
+  padding: 6px 18px;
+  border-radius: 24px;
+  text-align: left;
+}
+.app-row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 0;
+}
+.app-row + .app-row { border-top: 1px solid rgba(34, 49, 77, 0.08); }
+.app-row.hidden { display: none; }
+.app-text { flex: 1; display: flex; flex-direction: column; gap: 3px; }
+.app-text strong { font-size: 16px; }
+.app-text small { font-size: 14px; color: var(--ink-soft); }
+.app-row.done strong { color: #1a6a60; }
+
+.share-icon { display: inline-block; width: 18px; height: 18px; vertical-align: -3px; color: #3d8bd4; }
+
+.pill-button {
+  flex: none;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+  box-shadow: 0 4px 0 var(--accent-dark);
+}
+.pill-button:active { transform: translateY(2px); box-shadow: 0 2px 0 var(--accent-dark); }
+.pill-button:disabled { opacity: 0.5; }
+
+.offline-bar {
+  height: 8px;
+  margin-top: 6px;
+  border-radius: 999px;
+  background: rgba(34, 49, 77, 0.1);
+  overflow: hidden;
+}
+.offline-bar span {
+  display: block;
+  width: 0;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, #2a9d8f, #5fc4b6);
+  transition: width 0.2s;
+}
