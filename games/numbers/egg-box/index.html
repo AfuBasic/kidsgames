@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="manifest" href="../../../manifest.webmanifest">
+  <meta name="theme-color" content="#a9d4ee">
+  <link rel="icon" href="../../../icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="../../../icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Word Games">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <title>Egg Box</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Andika:wght@400;700&family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../../shared/theme.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-home="../../../">
+  <header class="hud">
+    <button class="round-button replay glass" aria-label="Hear the question again"></button>
+    <div class="progress glass" aria-label="Progress to the next star">
+      <div class="dots"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>
+      <div class="star-count"><span class="star-icon"></span><span class="star-number">0</span></div>
+    </div>
+  </header>
+
+    <main class="board">
+    <div id="carton" class="carton" aria-label="Egg box"></div>
+    <div id="numbers" class="numbers" aria-label="Numbers"></div>
+  </main>
+
+  <section id="start" class="overlay start">
+    <div class="card glass">
+      <div id="start-art" class="start-art" aria-hidden="true"></div>
+      <h1>Egg Box</h1>
+      <p class="tagline">How many more eggs to fill the box?</p>
+      <button id="play" class="big-button">Play</button>
+      <details class="settings">
+        <summary>Settings for grown-ups</summary>
+        <fieldset>
+          <legend>Box</legend>
+          <label><input type="radio" name="total" value="5" checked> <strong>Make 5</strong><small>A box of five</small></label>
+          <label><input type="radio" name="total" value="10"> <strong>Make 10</strong><small>A box of ten</small></label>
+        </fieldset>
+        <fieldset>
+          <legend>Start at</legend>
+          <label><input type="radio" name="start-level" value="0" checked> <strong>Level 1</strong><small>Eggs in order (top row full for 10)</small></label>
+          <label><input type="radio" name="start-level" value="1"> <strong>Level 2</strong><small>Eggs in order, any amount</small></label>
+          <label><input type="radio" name="start-level" value="2"> <strong>Level 3</strong><small>Eggs in any holes</small></label>
+        </fieldset>
+        <p class="note">Number bonds: the pairs that make 5 and 10 (7 and 3 make 10). The egg box is a five- or ten-frame, so children can see the empty spaces. After each answer the missing eggs drop in one by one and the voice says the bond. Knowing bonds to 5, and some to 10, is a typical goal by age 5. Three numbers to choose from, never next to each other. Every 5 boxes earns a star, and each star moves up a level.</p>
+      </details>
+    </div>
+  </section>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="../../../shared/pictures.js"></script>
+  <script src="../../../shared/pictures-2.js"></script>
+  <script src="../../../shared/pictures-3.js"></script>
+  <script src="../../../shared/pictures-4.js"></script>
+  <script src="../../../shared/words.js"></script>
+  <script src="../../../shared/numbers.js"></script>
+  <script src="../../../shared/phrases.js"></script>
+  <script src="../../../shared/sounds.js"></script>
+  <script src="../../../shared/voice.js"></script>
+  <script src="../../../shared/scene.js"></script>
+  <script src="../../../shared/effects.js"></script>
+  <script src="../../../shared/deck.js"></script>
+  <script src="game.js"></script>
+</body>
+</html>
