@@ -1,0 +1,92 @@
+/* Word Fishing: a pond of fish, each carrying a word, and the picture clue in the top bar. */
+
+.target {
+  flex: none;
+  width: clamp(80px, 16vh, 140px);
+  height: clamp(80px, 16vh, 140px);
+  padding: 1.6vh;
+  border-radius: 28px;
+}
+.target.blank { visibility: hidden; }
+
+.pond {
+  position: fixed;
+  top: 24vh;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(180deg, #7cc4e4 0%, #4fa3cf 40%, #2f7bb0 100%);
+  box-shadow: inset 0 18px 30px rgba(255, 255, 255, 0.18);
+}
+.waves {
+  position: absolute;
+  left: 0;
+  top: -18px;
+  width: 100%;
+  height: 20px;
+}
+
+.reeds { position: absolute; inset: 0; pointer-events: none; }
+.reed { position: absolute; bottom: 0; width: clamp(60px, 12vw, 120px); height: 34%; }
+
+.bubbles { position: absolute; inset: 0; overflow: hidden; pointer-events: none; }
+.bubble {
+  position: absolute;
+  bottom: -20px;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.55);
+  background: radial-gradient(circle at 30% 30%, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.05) 60%);
+}
+
+.fish-school {
+  position: absolute;
+  inset: 3vh 0 2vh;
+}
+
+.fish {
+  --fish: clamp(130px, min(30vw, 24vh), 230px);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: var(--fish);
+  aspect-ratio: 160 / 100;
+  padding: 0;
+  border: none;
+  background: none;
+  filter: drop-shadow(0 10px 12px rgba(16, 52, 86, 0.3));
+}
+.fish svg { overflow: visible; }
+.fish .word {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 0.05em 0.35em 0.12em;
+  border-radius: 0.4em;
+  background: rgba(255, 255, 255, 0.94);
+  color: var(--ink);
+  font-family: 'Andika', sans-serif;
+  font-size: calc(var(--fish) * 0.17);
+  font-weight: 700;
+  line-height: 1.1;
+  pointer-events: none;
+}
+/* on the parts, since the fish's own opacity is animated by GSAP */
+.fish:disabled svg, .fish:disabled .word { opacity: 0.45; }
+.fish.hint .word { box-shadow: 0 0 0 4px #fff, 0 0 26px 10px #fff59d; }
+.fish.caught .word { background: #2a9d8f; color: #fff; }
+
+.start-fish { width: 28vh; max-width: 70%; aspect-ratio: 160 / 100; margin: 0 auto 1vh; }
+
+/* Phones: the top bar can't fit three items, so the picture gets its own row above the pond. */
+@media (max-width: 560px) {
+  :root { --target: min(15vh, 30vw); }
+  .target {
+    position: absolute;
+    top: 21vh;
+    left: calc(50% - var(--target) / 2);
+    width: var(--target);
+    height: var(--target);
+  }
+  .pond { top: calc(24vh + var(--target)); }
+}
