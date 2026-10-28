@@ -1,0 +1,70 @@
+/* Egg Box: a cardboard egg carton (a five- or ten-frame) and numbers to choose from. */
+
+.board {
+  position: fixed;
+  top: 20vh;
+  bottom: 3vh;
+  left: 0;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 2vh;
+  padding: 0 16px;
+}
+
+.carton {
+  --hole: min(15vw, 13vh, 120px);
+  display: grid;
+  grid-template-columns: repeat(5, var(--hole));
+  gap: calc(var(--hole) * 0.12);
+  padding: calc(var(--hole) * 0.22);
+  border-radius: calc(var(--hole) * 0.28);
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.25), rgba(0, 0, 0, 0.08)),
+    #d9b48a;
+  box-shadow: 0 10px 0 #b98d5f, 0 18px 30px rgba(34, 49, 77, 0.22);
+}
+
+.hole {
+  position: relative;
+  width: var(--hole);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: radial-gradient(circle at 50% 40%, #b98d5f 0%, #c99d6d 60%, #d9b48a 100%);
+  box-shadow: inset 0 6px 10px rgba(80, 50, 20, 0.35);
+}
+.hole .egg { position: absolute; inset: 6% 14% 10%; }
+.hole .egg.ghost { opacity: 0.45; }
+.hole .count {
+  position: absolute;
+  right: -8%;
+  top: -8%;
+  width: 38%;
+  aspect-ratio: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: #2a9d8f;
+  box-shadow: 0 2px 0 #1a6a60, 0 0 0 2px #fff;
+  color: #fff;
+  font-family: 'Andika', sans-serif;
+  font-weight: 700;
+  font-size: calc(var(--hole) * 0.22);
+  z-index: 1;
+}
+
+.numbers {
+  display: flex;
+  justify-content: center;
+  gap: clamp(10px, 2.4vw, 22px);
+  --tile: clamp(64px, min(17vw, 13vh), 116px);
+}
+.numbers .tile { width: auto; min-width: var(--tile); padding: 0 0.22em 6%; }
+.tile.right { box-shadow: 0 6px 0 var(--shade), 0 0 0 5px #fff, 0 0 30px 10px rgba(42, 157, 143, 0.55); }
+.tile:disabled { opacity: 0.35; }
+
+.start-art { display: flex; justify-content: center; margin-bottom: 2vh; }
+.start-art .carton { --hole: 7vh; }
