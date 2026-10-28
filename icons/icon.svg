@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- App icon: the homepage sky with three letter tiles. Full-bleed, with the tiles inside the
+       middle 80% so it also works as a "maskable" icon that phones crop to a circle or squircle. -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a9d4ee"/>
+      <stop offset="0.6" stop-color="#d7ecf6"/>
+      <stop offset="1" stop-color="#f6efe4"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffecbe" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#ffecbe" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.35"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#sky)"/>
+  <circle cx="420" cy="80" r="190" fill="url(#sun)"/>
+  <path d="M60 140 C40 140 36 118 54 112 C52 92 78 84 92 98 C100 78 134 76 144 98 C162 86 190 94 188 114 C212 112 222 140 198 140Z" fill="#fff" opacity="0.85"/>
+  <path d="M0 400 C110 350 230 356 330 384 C420 408 470 372 512 380 V512 H0Z" fill="#b9d8c2"/>
+  <path d="M0 440 C140 400 260 420 380 436 C440 444 480 424 512 430 V512 H0Z" fill="#9cc8ac"/>
+  <g font-family="Andika, 'Arial Rounded MT Bold', sans-serif" font-weight="700" font-size="92" text-anchor="middle" fill="#fff">
+    <g transform="rotate(-7 146 262)">
+      <rect x="94" y="206" width="104" height="116" rx="22" fill="#b03f45"/>
+      <rect x="94" y="194" width="104" height="116" rx="22" fill="#ef6f6c"/>
+      <rect x="94" y="194" width="104" height="116" rx="22" fill="url(#shine)"/>
+      <text x="146" y="278">c</text>
+    </g>
+    <g transform="translate(0 -14)">
+      <rect x="204" y="206" width="104" height="116" rx="22" fill="#383b92"/>
+      <rect x="204" y="194" width="104" height="116" rx="22" fill="#5f63d0"/>
+      <rect x="204" y="194" width="104" height="116" rx="22" fill="url(#shine)"/>
+      <text x="256" y="278">a</text>
+    </g>
+    <g transform="rotate(7 366 262)">
+      <rect x="314" y="206" width="104" height="116" rx="22" fill="#1a6a60"/>
+      <rect x="314" y="194" width="104" height="116" rx="22" fill="#2a9d8f"/>
+      <rect x="314" y="194" width="104" height="116" rx="22" fill="url(#shine)"/>
+      <text x="366" y="282">t</text>
+    </g>
+  </g>
+</svg>
