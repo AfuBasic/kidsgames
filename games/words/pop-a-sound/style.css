@@ -1,0 +1,59 @@
+/* Pop-a-Sound: clue card and balloons. Shared pieces are in shared/theme.css. */
+
+.clue {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6vh;
+  padding: 1.4vh 3vh 1vh;
+  border-radius: 24px;
+}
+.clue-pic { width: clamp(64px, 12vh, 112px); height: clamp(64px, 12vh, 112px); }
+.clue-word {
+  font-family: 'Andika', sans-serif;
+  font-size: clamp(20px, 3.6vh, 34px);
+  letter-spacing: 0.04em;
+  line-height: 1;
+}
+.clue-word b { color: var(--accent); }
+.clue-word:empty { display: none; }
+
+#balloons { position: fixed; inset: 0; }
+
+.balloon {
+  position: absolute;
+  left: var(--x);
+  top: var(--y);
+  width: var(--size);
+  height: calc(var(--size) * 1.43);
+  margin-left: calc(var(--size) / -2);
+  margin-top: calc(var(--size) * -0.62);
+  padding: 0;
+  border: none;
+  background: none;
+  filter: drop-shadow(0 14px 18px rgba(34, 49, 77, 0.18));
+}
+.balloon svg { overflow: visible; transform-origin: 50% 90%; }
+.balloon.hint { filter: drop-shadow(0 0 22px rgba(255, 230, 150, 0.95)) drop-shadow(0 0 6px #fff); }
+
+.glyph {
+  font-family: 'Andika', sans-serif;
+  font-weight: 700;
+  font-size: 68px;
+  fill: #fff;
+  stroke: rgba(0, 0, 0, 0.12);
+  stroke-width: 5px;
+  paint-order: stroke;
+}
+
+#start-balloons {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  height: 18vh;
+  margin-bottom: 1vh;
+}
+#start-balloons svg { width: auto; height: 100%; overflow: visible; transform-origin: 50% 90%; }
+
+/* the letter-group options sit straight in the settings group, as tiles */
+#group-options { display: contents; }
