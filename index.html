@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#a9d4ee">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Word Games">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <title>Word Games</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Andika:wght@400;700&family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="shared/theme.css">
+  <link rel="stylesheet" href="home.css">
+</head>
+<body>
+  <main class="home">
+    <h1>Word Games</h1>
+    <p class="tagline">Pick a game!</p>
+    <nav id="games" class="game-groups"></nav>
+
+    <!-- For grown-ups: install the app, and save the voice clips for playing without internet. -->
+    <section id="app-panel" class="app-panel glass hidden" aria-label="App and offline play">
+      <div id="install-row" class="app-row hidden">
+        <div class="app-text"><strong>Install Word Games</strong><small>Opens full-screen from the home screen</small></div>
+        <button id="install" class="pill-button">Install</button>
+      </div>
+      <div id="ios-row" class="app-row hidden">
+        <div class="app-text"><strong>Install on this iPad or iPhone</strong>
+          <small>Tap <span id="share-icon" class="share-icon"></span> Share, then <b>Add to Home Screen</b></small></div>
+      </div>
+      <div id="offline-row" class="app-row hidden">
+        <div class="app-text"><strong id="offline-title">Play without internet</strong><small id="offline-detail">Save all the voice clips on this device</small>
+          <div id="offline-bar" class="offline-bar hidden"><span></span></div></div>
+        <button id="offline-button" class="pill-button">Download</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="shared/pictures.js"></script>
+  <script src="shared/pictures-2.js"></script>
+  <script src="shared/pictures-3.js"></script>
+  <script src="shared/pictures-4.js"></script>
+  <script src="shared/words.js"></script>
+  <script src="shared/numbers.js"></script>
+  <script src="shared/phrases.js"></script>
+  <script src="shared/sounds.js"></script>
+  <script src="shared/voice.js"></script>
+  <script src="shared/scene.js"></script>
+  <script src="shared/offline.js"></script>
+  <script src="home.js"></script>
+  <script src="install.js"></script>
+</body>
+</html>
