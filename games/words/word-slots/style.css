@@ -1,0 +1,144 @@
+/* Word Slots: picture, slot machine with three reels and a lever, words made, letter choices. */
+
+.board {
+  position: fixed;
+  top: 22vh;
+  bottom: 3vh;
+  left: 0;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 0 16px;
+}
+
+.picture {
+  width: min(20vh, 44vw);
+  height: min(20vh, 44vw);
+  padding: 4%;
+  border-radius: 28px;
+}
+.picture svg { overflow: visible; }
+
+/* ---------- the machine ---------- */
+
+.machine {
+  --rh: clamp(60px, 10vh, 104px);
+  position: relative;
+  width: min(76vw, 400px);
+  padding: 1.4vh 16px 1.8vh;
+  border-radius: 28px;
+  background: linear-gradient(180deg, #d4669f 0%, #b04c88 60%, #9b3f78 100%);
+  box-shadow: 0 10px 0 #6e2a55, 0 22px 32px rgba(34, 49, 77, 0.25);
+}
+
+.marquee {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 4px 1.2vh;
+}
+.bulb {
+  width: clamp(9px, 1.4vh, 13px);
+  height: clamp(9px, 1.4vh, 13px);
+  border-radius: 50%;
+  background: #ffe08a;
+  box-shadow: 0 0 8px #ffd66e;
+}
+
+.window {
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 18px;
+  background: #22314d;
+  box-shadow: inset 0 4px 10px rgba(0, 0, 0, 0.4);
+  transition: box-shadow 0.2s;
+}
+.window.win { box-shadow: inset 0 4px 10px rgba(0, 0, 0, 0.4), 0 0 0 4px #ffd66e, 0 0 36px 8px rgba(255, 214, 110, 0.8); }
+
+.reel {
+  position: relative;
+  flex: 1;
+  height: var(--rh);
+  overflow: hidden;
+  border-radius: 12px;
+  background: linear-gradient(180deg, #d9e1ea 0%, #fff 28%, #fff 72%, #d9e1ea 100%);
+}
+.strip { position: absolute; top: 0; left: 0; right: 0; }
+.strip span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: var(--rh);
+  font-family: 'Andika', sans-serif;
+  font-size: calc(var(--rh) * 0.72);
+  font-weight: 700;
+  line-height: 1;
+  color: var(--ink);
+}
+.reel.first .strip span { color: #c2569a; }
+.window.four { gap: 8px; }
+.window.four .strip span { font-size: calc(var(--rh) * 0.6); }
+
+.lever {
+  position: absolute;
+  right: -24px;
+  top: 22%;
+  width: 22px;
+  height: 46%;
+}
+.lever .base {
+  position: absolute;
+  bottom: -10px;
+  left: -2px;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: #7c8aa5;
+}
+.lever .stick {
+  position: absolute;
+  left: 8px;
+  bottom: 0;
+  width: 7px;
+  height: 100%;
+  border-radius: 4px;
+  background: #b9c3d3;
+  transform-origin: 50% 100%;
+}
+.lever .knob {
+  position: absolute;
+  top: -14px;
+  left: -10px;
+  width: 27px;
+  height: 27px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 30%, #ff9b9b, #e63946 60%, #b02f35);
+}
+
+/* ---------- words made and letter choices ---------- */
+
+.made {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  min-height: clamp(30px, 4.6vh, 42px);
+}
+.chip {
+  padding: 2px 14px 4px;
+  border-radius: 999px;
+  font-family: 'Andika', sans-serif;
+  font-size: clamp(18px, 3.2vh, 28px);
+  line-height: 1.3;
+}
+.chip b { color: #c2569a; }
+
+.choices {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: clamp(10px, 2vh, 18px);
+  min-height: var(--tile);
+}
