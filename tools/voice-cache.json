@@ -1,0 +1,6547 @@
+{
+ "start": {
+  "made": "bf_isabella@0.85|Let's pop some balloons!",
+  "ok": true,
+  "heard": "Let's pop some balloons."
+ },
+ "star": {
+  "made": "bf_isabella@0.85|Hooray! You got a star!",
+  "ok": true,
+  "heard": "Hooray, you got a star!"
+ },
+ "more": {
+  "made": "bf_isabella@0.85|Hooray! More balloons!",
+  "ok": true,
+  "heard": "Hooray, more balloons!"
+ },
+ "ask-f-sun": {
+  "made": "bf_isabella@0.85|Pop the first sound in sun.",
+  "ok": true,
+  "heard": "Pop the first sound in sun."
+ },
+ "ask-m-sun": {
+  "made": "bf_isabella@0.85|Pop the middle sound in sun.",
+  "ok": true,
+  "heard": "Pop the middle sound in sun."
+ },
+ "ask-l-sun": {
+  "made": "bf_isabella@0.85|Pop the last sound in sun.",
+  "ok": true,
+  "heard": "Pop the last sound in sun."
+ },
+ "ask-f-sock": {
+  "made": "bf_isabella@0.85|Pop the first sound in sock.",
+  "ok": true,
+  "heard": "Pop the first sound in sock."
+ },
+ "ask-f-snail": {
+  "made": "bf_isabella@0.85|Pop the first sound in snail.",
+  "ok": true,
+  "heard": "Pop the first sound in snail."
+ },
+ "ask-l-snail": {
+  "made": "bf_isabella@0.85|Pop the last sound in snail.",
+  "ok": true,
+  "heard": "Pop the last sound in snail."
+ },
+ "ask-f-star": {
+  "made": "bf_isabella@0.85|Pop the first sound in star.",
+  "ok": true,
+  "heard": "Pop the first sound in Star."
+ },
+ "ask-f-six": {
+  "made": "bf_isabella@0.85|Pop the first sound in six.",
+  "ok": true,
+  "heard": "Pop the first sound in 6."
+ },
+ "ask-m-six": {
+  "made": "bf_isabella@0.85|Pop the middle sound in six.",
+  "ok": true,
+  "heard": "Pop the middle sound in 6."
+ },
+ "ask-l-six": {
+  "made": "bf_isabella@0.85|Pop the last sound in six.",
+  "ok": true,
+  "heard": "Pop the last sound in 6"
+ },
+ "ask-f-apple": {
+  "made": "bf_isabella@0.85|Pop the first sound in apple.",
+  "ok": true,
+  "heard": "Pop the first sound in Apple."
+ },
+ "ask-f-ant": {
+  "made": "bf_isabella@0.85|Pop the first sound in ant.",
+  "ok": true,
+  "heard": "Pop the first sound in Ant."
+ },
+ "ask-l-ant": {
+  "made": "bf_isabella@0.85|Pop the last sound in ant.",
+  "ok": true,
+  "heard": "Pop the last sound in Ant."
+ },
+ "ask-f-arrow": {
+  "made": "bf_isabella@0.85|Pop the first sound in arrow.",
+  "ok": true,
+  "heard": "Pop the first sound in arrow."
+ },
+ "ask-f-axe": {
+  "made": "bf_isabella@0.85|Pop the first sound in axe.",
+  "ok": true,
+  "heard": "Pop the first sound in Axe."
+ },
+ "ask-f-tiger": {
+  "made": "bf_isabella@0.85|Pop the first sound in tiger.",
+  "ok": true,
+  "heard": "Pop the first sound in Tiger."
+ },
+ "ask-f-tent": {
+  "made": "bf_isabella@0.85|Pop the first sound in tent.",
+  "ok": true,
+  "heard": "Pop the first sound intent."
+ },
+ "ask-l-tent": {
+  "made": "bf_isabella@0.85|Pop the last sound in tent.",
+  "ok": true,
+  "heard": "Pop the last sound intent."
+ },
+ "ask-f-tomato": {
+  "made": "bf_isabella@0.85|Pop the first sound in tomato.",
+  "ok": true,
+  "heard": "Pop the first sound in tomato."
+ },
+ "ask-f-tree": {
+  "made": "bf_isabella@0.85|Pop the first sound in tree.",
+  "ok": true,
+  "heard": "Pop the first sound in tree."
+ },
+ "ask-f-tap": {
+  "made": "bf_isabella@0.85|Pop the first sound in tap.",
+  "ok": true,
+  "heard": "Pop the first sound in tap"
+ },
+ "ask-m-tap": {
+  "made": "bf_isabella@0.85|Pop the middle sound in tap.",
+  "ok": true,
+  "heard": "Pop the middle sound in tap."
+ },
+ "ask-l-tap": {
+  "made": "bf_isabella@0.85|Pop the last sound in tap.",
+  "ok": true,
+  "heard": "Pop the last sound in tap."
+ },
+ "ask-f-ten": {
+  "made": "bf_isabella@0.85|Pop the first sound in ten.",
+  "ok": true,
+  "heard": "Pop the first sound in 10."
+ },
+ "ask-m-ten": {
+  "made": "bf_isabella@0.85|Pop the middle sound in ten.",
+  "ok": true,
+  "heard": "Pop the middle sound in 10."
+ },
+ "ask-l-ten": {
+  "made": "bf_isabella@0.85|Pop the last sound in ten.",
+  "ok": true,
+  "heard": "Pop the last sound in 10."
+ },
+ "ask-f-tub": {
+  "made": "bf_isabella@0.85|Pop the first sound in tub.",
+  "ok": true,
+  "heard": "Pop the first sound in TUB."
+ },
+ "ask-m-tub": {
+  "made": "bf_isabella@0.85|Pop the middle sound in tub.",
+  "ok": true,
+  "heard": "Pop the middle sound in tub."
+ },
+ "ask-l-tub": {
+  "made": "bf_isabella@0.85|Pop the last sound in tub.",
+  "ok": true,
+  "heard": "Pop the last sound in TUB."
+ },
+ "ask-f-pig": {
+  "made": "bf_isabella@0.85|Pop the first sound in pig.",
+  "ok": true,
+  "heard": "Pop the first sound in pig"
+ },
+ "ask-m-pig": {
+  "made": "bf_isabella@0.85|Pop the middle sound in pig.",
+  "ok": true,
+  "heard": "pop the middle sound in pig"
+ },
+ "ask-l-pig": {
+  "made": "bf_isabella@0.85|Pop the last sound in pig.",
+  "ok": true,
+  "heard": "Pop the last sound in pig."
+ },
+ "ask-f-pear": {
+  "made": "bf_isabella@0.85|Pop the first sound in pear.",
+  "ok": true,
+  "heard": "Pop the first sound in pair."
+ },
+ "ask-f-pencil": {
+  "made": "bf_isabella@0.85|Pop the first sound in pencil.",
+  "ok": true,
+  "heard": "Pop the first sound in pencil."
+ },
+ "ask-l-pencil": {
+  "made": "bf_isabella@0.85|Pop the last sound in pencil.",
+  "ok": true,
+  "heard": "Pop the last sound in pencil."
+ },
+ "ask-f-penguin": {
+  "made": "bf_isabella@0.85|Pop the first sound in penguin.",
+  "ok": true,
+  "heard": "Pop the first sound in Penguin."
+ },
+ "ask-l-penguin": {
+  "made": "bf_isabella@0.85|Pop the last sound in penguin.",
+  "ok": true,
+  "heard": "Pop the last sound in Penguin."
+ },
+ "ask-f-pan": {
+  "made": "bf_isabella@0.85|Pop the first sound in pan.",
+  "ok": true,
+  "heard": "Pop the first sound in pan."
+ },
+ "ask-m-pan": {
+  "made": "bf_isabella@0.85|Pop the middle sound in pan.",
+  "ok": true,
+  "heard": "Pop the middle sound in pan."
+ },
+ "ask-l-pan": {
+  "made": "bf_isabella@0.85|Pop the last sound in pan.",
+  "ok": true,
+  "heard": "Pop the last sound in pan."
+ },
+ "ask-f-pen": {
+  "made": "bf_isabella@0.85|Pop the first sound in pen.",
+  "ok": true,
+  "heard": "Pop the first sound in pen."
+ },
+ "ask-m-pen": {
+  "made": "bf_isabella@0.85|Pop the middle sound in pen.",
+  "ok": true,
+  "heard": "Pop the middle sound in pen."
+ },
+ "ask-l-pen": {
+  "made": "bf_isabella@0.85|Pop the last sound in pen.",
+  "ok": true,
+  "heard": "Pop the last sound in pen."
+ },
+ "ask-f-pin": {
+  "made": "bf_isabella@0.85|Pop the first sound in pin.",
+  "ok": true,
+  "heard": "Pop the first sound in pin."
+ },
+ "ask-m-pin": {
+  "made": "bf_isabella@0.85|Pop the middle sound in pin.",
+  "ok": true,
+  "heard": "Pop the middle sound in pin."
+ },
+ "ask-l-pin": {
+  "made": "bf_isabella@0.85|Pop the last sound in pin.",
+  "ok": true,
+  "heard": "Pop the last sound in pin."
+ },
+ "ask-f-pot": {
+  "made": "bf_isabella@0.85|Pop the first sound in pot.",
+  "ok": true,
+  "heard": "Pop the first sound in pot."
+ },
+ "ask-m-pot": {
+  "made": "bf_isabella@0.85|Pop the middle sound in pot.",
+  "ok": true,
+  "heard": "Pop the middle sound in pot."
+ },
+ "ask-l-pot": {
+  "made": "bf_isabella@0.85|Pop the last sound in pot.",
+  "ok": true,
+  "heard": "Pop the last sound in pot."
+ },
+ "ask-f-peg": {
+  "made": "bf_isabella@0.85|Pop the first sound in peg.",
+  "ok": true,
+  "heard": "Pop the first sound in peg."
+ },
+ "ask-m-peg": {
+  "made": "bf_isabella@0.85|Pop the middle sound in peg.",
+  "ok": true,
+  "heard": "Pop the middle sound in peg."
+ },
+ "ask-l-peg": {
+  "made": "bf_isabella@0.85|Pop the last sound in peg.",
+  "ok": true,
+  "heard": "Pop the last sound in peg."
+ },
+ "ask-f-pup": {
+  "made": "bf_isabella@0.85|Pop the first sound in pup.",
+  "ok": true,
+  "heard": "Pop the first sound in PUP"
+ },
+ "ask-m-pup": {
+  "made": "bf_isabella@0.85|Pop the middle sound in pup.",
+  "ok": true,
+  "heard": "Pop the middle sound in pup."
+ },
+ "ask-l-pup": {
+  "made": "bf_isabella@0.85|Pop the last sound in pup.",
+  "ok": true,
+  "heard": "Pop the last sound in PUP"
+ },
+ "ask-f-insect": {
+  "made": "bf_isabella@0.85|Pop the first sound in insect.",
+  "ok": true,
+  "heard": "Pop the first sound in insect."
+ },
+ "ask-l-insect": {
+  "made": "bf_isabella@0.85|Pop the last sound in insect.",
+  "ok": true,
+  "heard": "Pop the last sound in insect."
+ },
+ "ask-f-igloo": {
+  "made": "bf_isabella@0.85|Pop the first sound in igloo.",
+  "ok": true,
+  "heard": "Pop the first sound in Igloo."
+ },
+ "ask-f-ink": {
+  "made": "bf_isabella@0.85|Pop the first sound in ink.",
+  "ok": true,
+  "heard": "Pop the first sound in ink."
+ },
+ "ask-l-ink": {
+  "made": "bf_isabella@0.85|Pop the last sound in ink.",
+  "ok": true,
+  "heard": "Pop the last sound in ink."
+ },
+ "ask-f-nest": {
+  "made": "bf_isabella@0.85|Pop the first sound in nest.",
+  "ok": true,
+  "heard": "Pop the first sound in Nest."
+ },
+ "ask-l-nest": {
+  "made": "bf_isabella@0.85|Pop the last sound in nest.",
+  "ok": true,
+  "heard": "Pop the last sound in Nest."
+ },
+ "ask-f-nut": {
+  "made": "bf_isabella@0.85|Pop the first sound in nut.",
+  "ok": true,
+  "heard": "Pop the first sound in nut."
+ },
+ "ask-m-nut": {
+  "made": "bf_isabella@0.85|Pop the middle sound in nut.",
+  "ok": true,
+  "heard": "Pop the middle sound in nut."
+ },
+ "ask-l-nut": {
+  "made": "bf_isabella@0.85|Pop the last sound in nut.",
+  "ok": true,
+  "heard": "Pop the last sound in nut."
+ },
+ "ask-f-net": {
+  "made": "bf_isabella@0.85|Pop the first sound in net.",
+  "ok": true,
+  "heard": "Pop the first sound in net."
+ },
+ "ask-m-net": {
+  "made": "bf_isabella@0.85|Pop the middle sound in net.",
+  "ok": true,
+  "heard": "Pop the middle sound in net."
+ },
+ "ask-l-net": {
+  "made": "bf_isabella@0.85|Pop the last sound in net.",
+  "ok": true,
+  "heard": "Pop the last sound in net."
+ },
+ "ask-f-moon": {
+  "made": "bf_isabella@0.85|Pop the first sound in moon.",
+  "ok": true,
+  "heard": "Pop the first sound in moon."
+ },
+ "ask-l-moon": {
+  "made": "bf_isabella@0.85|Pop the last sound in moon.",
+  "ok": true,
+  "heard": "Pop the last sound in moon."
+ },
+ "ask-f-mouse": {
+  "made": "bf_isabella@0.85|Pop the first sound in mouse.",
+  "ok": true,
+  "heard": "Pop the first sound in mouse."
+ },
+ "ask-f-mug": {
+  "made": "bf_isabella@0.85|Pop the first sound in mug.",
+  "ok": true,
+  "heard": "Pop the first sound in mug."
+ },
+ "ask-m-mug": {
+  "made": "bf_isabella@0.85|Pop the middle sound in mug.",
+  "ok": true,
+  "heard": "Pop the middle sound in mug."
+ },
+ "ask-l-mug": {
+  "made": "bf_isabella@0.85|Pop the last sound in mug.",
+  "ok": true,
+  "heard": "Pop the last sound in mug."
+ },
+ "ask-f-mitten": {
+  "made": "bf_isabella@0.85|Pop the first sound in mitten.",
+  "ok": true,
+  "heard": "Pop the first sound in mitten."
+ },
+ "ask-l-mitten": {
+  "made": "bf_isabella@0.85|Pop the last sound in mitten.",
+  "ok": true,
+  "heard": "Pop the last sound in mitten."
+ },
+ "ask-f-map": {
+  "made": "bf_isabella@0.85|Pop the first sound in map.",
+  "ok": true,
+  "heard": "Pop the first sound in map"
+ },
+ "ask-m-map": {
+  "made": "bf_isabella@0.85|Pop the middle sound in map.",
+  "ok": true,
+  "heard": "Pop the middle sound in map."
+ },
+ "ask-l-map": {
+  "made": "bf_isabella@0.85|Pop the last sound in map.",
+  "ok": true,
+  "heard": "Pop the last sound in map."
+ },
+ "ask-f-mop": {
+  "made": "bf_isabella@0.85|Pop the first sound in mop.",
+  "ok": true,
+  "heard": "Pop the first sound in mop"
+ },
+ "ask-m-mop": {
+  "made": "bf_isabella@0.85|Pop the middle sound in mop.",
+  "ok": true,
+  "heard": "Pop the middle sound in mop."
+ },
+ "ask-l-mop": {
+  "made": "bf_isabella@0.85|Pop the last sound in mop.",
+  "ok": true,
+  "heard": "Pop the last sound in mop."
+ },
+ "ask-f-dog": {
+  "made": "bf_isabella@0.85|Pop the first sound in dog.",
+  "ok": true,
+  "heard": "Pop the first sound in DOG"
+ },
+ "ask-m-dog": {
+  "made": "bf_isabella@0.85|Pop the middle sound in dog.",
+  "ok": true,
+  "heard": "Pop the middle sound in dog."
+ },
+ "ask-l-dog": {
+  "made": "bf_isabella@0.85|Pop the last sound in dog.",
+  "ok": true,
+  "heard": "Pop the last sound in dog."
+ },
+ "ask-f-duck": {
+  "made": "bf_isabella@0.85|Pop the first sound in duck.",
+  "ok": true,
+  "heard": "Pop the first sound in duck"
+ },
+ "ask-f-drum": {
+  "made": "bf_isabella@0.85|Pop the first sound in drum.",
+  "ok": true,
+  "heard": "Pop the first sound in drum."
+ },
+ "ask-l-drum": {
+  "made": "bf_isabella@0.85|Pop the last sound in drum.",
+  "ok": true,
+  "heard": "Pop the last sound in drum."
+ },
+ "ask-f-door": {
+  "made": "bf_isabella@0.85|Pop the first sound in door.",
+  "ok": true,
+  "heard": "Pop the first sound in DAW."
+ },
+ "ask-f-goat": {
+  "made": "bf_isabella@0.85|Pop the first sound in goat.",
+  "ok": true,
+  "heard": "Pop the first sound in goat."
+ },
+ "ask-l-goat": {
+  "made": "bf_isabella@0.85|Pop the last sound in goat.",
+  "ok": true,
+  "heard": "Pop the last sound in goat."
+ },
+ "ask-f-gift": {
+  "made": "bf_isabella@0.85|Pop the first sound in gift.",
+  "ok": true,
+  "heard": "Pop the first sound in gift."
+ },
+ "ask-l-gift": {
+  "made": "bf_isabella@0.85|Pop the last sound in gift.",
+  "ok": true,
+  "heard": "Pop the last sound in gift."
+ },
+ "ask-f-grapes": {
+  "made": "bf_isabella@0.85|Pop the first sound in grapes.",
+  "ok": true,
+  "heard": "Pop the first sound in grapes."
+ },
+ "ask-f-guitar": {
+  "made": "bf_isabella@0.85|Pop the first sound in guitar.",
+  "ok": true,
+  "heard": "Pop the first sound in guitar."
+ },
+ "ask-f-octopus": {
+  "made": "bf_isabella@0.85|Pop the first sound in octopus.",
+  "ok": true,
+  "heard": "Pop the first sound in octopus."
+ },
+ "ask-l-octopus": {
+  "made": "bf_isabella@0.85|Pop the last sound in octopus.",
+  "ok": true,
+  "heard": "Pop the last sound in octopus."
+ },
+ "ask-f-olive": {
+  "made": "bf_isabella@0.85|Pop the first sound in olive.",
+  "ok": true,
+  "heard": "Pop the first sound in olive."
+ },
+ "ask-f-ox": {
+  "made": "bf_isabella@0.85|Pop the first sound in ox.",
+  "ok": true,
+  "heard": "Pop the first sound in OX."
+ },
+ "ask-l-ox": {
+  "made": "bf_isabella@0.85|Pop the last sound in ox.",
+  "ok": true,
+  "heard": "Pop the last sound in Ox."
+ },
+ "ask-f-cat": {
+  "made": "bf_isabella@0.85|Pop the first sound in cat.",
+  "ok": true,
+  "heard": "Pop the first sound in cat."
+ },
+ "ask-m-cat": {
+  "made": "bf_isabella@0.85|Pop the middle sound in cat.",
+  "ok": true,
+  "heard": "Pop the middle sound in cat."
+ },
+ "ask-l-cat": {
+  "made": "bf_isabella@0.85|Pop the last sound in cat.",
+  "ok": true,
+  "heard": "Pop the last sound in cat."
+ },
+ "ask-f-cup": {
+  "made": "bf_isabella@0.85|Pop the first sound in cup.",
+  "ok": true,
+  "heard": "Pop the first sound in cup."
+ },
+ "ask-m-cup": {
+  "made": "bf_isabella@0.85|Pop the middle sound in cup.",
+  "ok": true,
+  "heard": "Pop the middle sound in cup."
+ },
+ "ask-l-cup": {
+  "made": "bf_isabella@0.85|Pop the last sound in cup.",
+  "ok": true,
+  "heard": "Pop the last sound in cup."
+ },
+ "ask-f-car": {
+  "made": "bf_isabella@0.85|Pop the first sound in car.",
+  "ok": true,
+  "heard": "Pop the first sound in Kai."
+ },
+ "ask-f-cake": {
+  "made": "bf_isabella@0.85|Pop the first sound in cake.",
+  "ok": true,
+  "heard": "Pop the first sound in cake."
+ },
+ "ask-f-cap": {
+  "made": "bf_isabella@0.85|Pop the first sound in cap.",
+  "ok": true,
+  "heard": "Pop the first sound in cap."
+ },
+ "ask-m-cap": {
+  "made": "bf_isabella@0.85|Pop the middle sound in cap.",
+  "ok": true,
+  "heard": "Pop the middle sound in cap."
+ },
+ "ask-l-cap": {
+  "made": "bf_isabella@0.85|Pop the last sound in cap.",
+  "ok": true,
+  "heard": "Pop the last sound in cap."
+ },
+ "ask-f-can": {
+  "made": "bf_isabella@0.85|Pop the first sound in can.",
+  "ok": true,
+  "heard": "Pop the first sound in CAN."
+ },
+ "ask-m-can": {
+  "made": "bf_isabella@0.85|Pop the middle sound in can.",
+  "ok": true,
+  "heard": "Pop the middle sound in can."
+ },
+ "ask-l-can": {
+  "made": "bf_isabella@0.85|Pop the last sound in can.",
+  "ok": true,
+  "heard": "Pop the last sound in CAN."
+ },
+ "ask-f-cot": {
+  "made": "bf_isabella@0.85|Pop the first sound in cot.",
+  "ok": true,
+  "heard": "Pop the first sound in cot."
+ },
+ "ask-m-cot": {
+  "made": "bf_isabella@0.85|Pop the middle sound in cot.",
+  "ok": true,
+  "heard": "Pop the middle sound in cot."
+ },
+ "ask-l-cot": {
+  "made": "bf_isabella@0.85|Pop the last sound in cot.",
+  "ok": true,
+  "heard": "Pop the last sound in cot."
+ },
+ "ask-f-kite": {
+  "made": "bf_isabella@0.85|Pop the first sound in kite.",
+  "ok": true,
+  "heard": "Pop the first sound in kite."
+ },
+ "ask-f-key": {
+  "made": "bf_isabella@0.85|Pop the first sound in key.",
+  "ok": true,
+  "heard": "Pop the first sound in key."
+ },
+ "ask-f-king": {
+  "made": "bf_isabella@0.85|Pop the first sound in king.",
+  "ok": true,
+  "heard": "Pop the first sound in King."
+ },
+ "ask-f-egg": {
+  "made": "bf_isabella@0.85|Pop the first sound in egg.",
+  "ok": true,
+  "heard": "Pop the first sound in egg."
+ },
+ "ask-f-umbrella": {
+  "made": "bf_isabella@0.85|Pop the first sound in umbrella.",
+  "ok": true,
+  "heard": "Pop the first sound in Umbrella."
+ },
+ "ask-f-rat": {
+  "made": "bf_isabella@0.85|Pop the first sound in rat.",
+  "ok": true,
+  "heard": "Pop the first sound in Rat."
+ },
+ "ask-m-rat": {
+  "made": "bf_isabella@0.85|Pop the middle sound in rat.",
+  "ok": true,
+  "heard": "Pop the middle sound in rat."
+ },
+ "ask-l-rat": {
+  "made": "bf_isabella@0.85|Pop the last sound in rat.",
+  "ok": true,
+  "heard": "Pop the last sound in Rat."
+ },
+ "ask-f-rug": {
+  "made": "bf_isabella@0.85|Pop the first sound in rug.",
+  "ok": true,
+  "heard": "Pop the first sound in Rug"
+ },
+ "ask-m-rug": {
+  "made": "bf_isabella@0.85|Pop the middle sound in rug.",
+  "ok": true,
+  "heard": "Pop the middle sound in rug."
+ },
+ "ask-l-rug": {
+  "made": "bf_isabella@0.85|Pop the last sound in rug.",
+  "ok": true,
+  "heard": "Pop the last sound in Rug."
+ },
+ "ask-f-rocket": {
+  "made": "bf_isabella@0.85|Pop the first sound in rocket.",
+  "ok": true,
+  "heard": "Pop the first sound in Rocket."
+ },
+ "ask-l-rocket": {
+  "made": "bf_isabella@0.85|Pop the last sound in rocket.",
+  "ok": true,
+  "heard": "Pop the last sound in Rocket."
+ },
+ "ask-f-robot": {
+  "made": "bf_isabella@0.85|Pop the first sound in robot.",
+  "ok": true,
+  "heard": "Pop the first sound in Robot."
+ },
+ "ask-l-robot": {
+  "made": "bf_isabella@0.85|Pop the last sound in robot.",
+  "ok": true,
+  "heard": "Pop the last sound in Robot"
+ },
+ "ask-f-rabbit": {
+  "made": "bf_isabella@0.85|Pop the first sound in rabbit.",
+  "ok": true,
+  "heard": "Pop the first sound in Rabbit."
+ },
+ "ask-l-rabbit": {
+  "made": "bf_isabella@0.85|Pop the last sound in rabbit.",
+  "ok": true,
+  "heard": "Pop the last sound in Rabbit."
+ },
+ "ask-f-hat": {
+  "made": "bf_isabella@0.85|Pop the first sound in hat.",
+  "ok": true,
+  "heard": "Pop the first sound in hat."
+ },
+ "ask-m-hat": {
+  "made": "bf_isabella@0.85|Pop the middle sound in hat.",
+  "ok": true,
+  "heard": "Pop the middle sound in hat."
+ },
+ "ask-l-hat": {
+  "made": "bf_isabella@0.85|Pop the last sound in hat.",
+  "ok": true,
+  "heard": "Pop the last sound in hat."
+ },
+ "ask-f-hen": {
+  "made": "bf_isabella@0.85|Pop the first sound in hen.",
+  "ok": true,
+  "heard": "Pop the first sound in Hen."
+ },
+ "ask-m-hen": {
+  "made": "bf_isabella@0.85|Pop the middle sound in hen.",
+  "ok": true,
+  "heard": "Pop the middle sound in Hen."
+ },
+ "ask-l-hen": {
+  "made": "bf_isabella@0.85|Pop the last sound in hen.",
+  "ok": true,
+  "heard": "Pop the last sound in Hen."
+ },
+ "ask-f-hut": {
+  "made": "bf_isabella@0.85|Pop the first sound in hut.",
+  "ok": true,
+  "heard": "Pop the first sound in Hutt."
+ },
+ "ask-m-hut": {
+  "made": "bf_isabella@0.85|Pop the middle sound in hut.",
+  "ok": true,
+  "heard": "Pop the middle sound in Hutt."
+ },
+ "ask-l-hut": {
+  "made": "bf_isabella@0.85|Pop the last sound in hut.",
+  "ok": true,
+  "heard": "Pop the last sound in Hutt."
+ },
+ "ask-f-hand": {
+  "made": "bf_isabella@0.85|Pop the first sound in hand.",
+  "ok": true,
+  "heard": "Pop the first sound in hand."
+ },
+ "ask-l-hand": {
+  "made": "bf_isabella@0.85|Pop the last sound in hand.",
+  "ok": true,
+  "heard": "Pop the last sound in hand."
+ },
+ "ask-f-bus": {
+  "made": "bf_isabella@0.85|Pop the first sound in bus.",
+  "ok": true,
+  "heard": "Pop the first sound in bus."
+ },
+ "ask-m-bus": {
+  "made": "bf_isabella@0.85|Pop the middle sound in bus.",
+  "ok": true,
+  "heard": "Pop the middle sound in bus."
+ },
+ "ask-l-bus": {
+  "made": "bf_isabella@0.85|Pop the last sound in bus.",
+  "ok": true,
+  "heard": "Pop the last sound in bus."
+ },
+ "ask-f-bed": {
+  "made": "bf_isabella@0.85|Pop the first sound in bed.",
+  "ok": true,
+  "heard": "Pop the first sound in bed."
+ },
+ "ask-m-bed": {
+  "made": "bf_isabella@0.85|Pop the middle sound in bed.",
+  "ok": true,
+  "heard": "Pop the middle sound in bed."
+ },
+ "ask-l-bed": {
+  "made": "bf_isabella@0.85|Pop the last sound in bed.",
+  "ok": true,
+  "heard": "Pop the last sound in bed."
+ },
+ "ask-f-bag": {
+  "made": "bf_isabella@0.85|Pop the first sound in bag.",
+  "ok": true,
+  "heard": "Pop the first sound in bag."
+ },
+ "ask-m-bag": {
+  "made": "bf_isabella@0.85|Pop the middle sound in bag.",
+  "ok": true,
+  "heard": "Pop the middle sound in bag."
+ },
+ "ask-l-bag": {
+  "made": "bf_isabella@0.85|Pop the last sound in bag.",
+  "ok": true,
+  "heard": "Pop the last sound in bag."
+ },
+ "ask-f-box": {
+  "made": "bf_isabella@0.85|Pop the first sound in box.",
+  "ok": true,
+  "heard": "Pop the first sound in box"
+ },
+ "ask-m-box": {
+  "made": "bf_isabella@0.85|Pop the middle sound in box.",
+  "ok": true,
+  "heard": "Pop the middle sound in box."
+ },
+ "ask-l-box": {
+  "made": "bf_isabella@0.85|Pop the last sound in box.",
+  "ok": true,
+  "heard": "Pop the last sound in box."
+ },
+ "ask-f-bat": {
+  "made": "bf_isabella@0.85|Pop the first sound in bat.",
+  "ok": true,
+  "heard": "Pop the first sound in bat."
+ },
+ "ask-m-bat": {
+  "made": "bf_isabella@0.85|Pop the middle sound in bat.",
+  "ok": true,
+  "heard": "Pop the middle sound in bat."
+ },
+ "ask-l-bat": {
+  "made": "bf_isabella@0.85|Pop the last sound in bat.",
+  "ok": true,
+  "heard": "Pop the last sound in bat."
+ },
+ "ask-f-bun": {
+  "made": "bf_isabella@0.85|Pop the first sound in bun.",
+  "ok": true,
+  "heard": "Pop the first sound in bun."
+ },
+ "ask-m-bun": {
+  "made": "bf_isabella@0.85|Pop the middle sound in bun.",
+  "ok": true,
+  "heard": "Pop the middle sound in bun."
+ },
+ "ask-l-bun": {
+  "made": "bf_isabella@0.85|Pop the last sound in bun.",
+  "ok": true,
+  "heard": "Pop the last sound in bun."
+ },
+ "ask-f-bug": {
+  "made": "bf_isabella@0.85|Pop the first sound in bug.",
+  "ok": true,
+  "heard": "Pop the first sound in bug."
+ },
+ "ask-m-bug": {
+  "made": "bf_isabella@0.85|Pop the middle sound in bug.",
+  "ok": true,
+  "heard": "Pop the middle sound in bug."
+ },
+ "ask-l-bug": {
+  "made": "bf_isabella@0.85|Pop the last sound in bug.",
+  "ok": true,
+  "heard": "Pop the last sound in bug."
+ },
+ "ask-f-bin": {
+  "made": "bf_isabella@0.85|Pop the first sound in bin.",
+  "ok": true,
+  "heard": "Pop the first sound in bin."
+ },
+ "ask-m-bin": {
+  "made": "bf_isabella@0.85|Pop the middle sound in bin.",
+  "ok": true,
+  "heard": "Pop the middle sound in bin."
+ },
+ "ask-l-bin": {
+  "made": "bf_isabella@0.85|Pop the last sound in bin.",
+  "ok": true,
+  "heard": "Pop the last sound in bin."
+ },
+ "ask-f-bell": {
+  "made": "bf_isabella@0.85|Pop the first sound in bell.",
+  "ok": true,
+  "heard": "Pop the first sound in Bell."
+ },
+ "ask-f-ball": {
+  "made": "bf_isabella@0.85|Pop the first sound in ball.",
+  "ok": true,
+  "heard": "Pop the first sound in ball."
+ },
+ "ask-f-banana": {
+  "made": "bf_isabella@0.85|Pop the first sound in banana.",
+  "ok": true,
+  "heard": "Pop the first sound in banana."
+ },
+ "ask-f-fan": {
+  "made": "bf_isabella@0.85|Pop the first sound in fan.",
+  "ok": true,
+  "heard": "Pop the first sound in fan."
+ },
+ "ask-m-fan": {
+  "made": "bf_isabella@0.85|Pop the middle sound in fan.",
+  "ok": true,
+  "heard": "Pop the middle sound in fan."
+ },
+ "ask-l-fan": {
+  "made": "bf_isabella@0.85|Pop the last sound in fan.",
+  "ok": true,
+  "heard": "Pop the last sound in fan."
+ },
+ "ask-f-fox": {
+  "made": "bf_isabella@0.85|Pop the first sound in fox.",
+  "ok": true,
+  "heard": "pop the first sound in fox"
+ },
+ "ask-m-fox": {
+  "made": "bf_isabella@0.85|Pop the middle sound in fox.",
+  "ok": true,
+  "heard": "Pop the middle sound in Fox."
+ },
+ "ask-l-fox": {
+  "made": "bf_isabella@0.85|Pop the last sound in fox.",
+  "ok": true,
+  "heard": "Pop the last sound in Fox."
+ },
+ "ask-f-fig": {
+  "made": "bf_isabella@0.85|Pop the first sound in fig.",
+  "ok": true,
+  "heard": "Pop the first sound in Fig."
+ },
+ "ask-m-fig": {
+  "made": "bf_isabella@0.85|Pop the middle sound in fig.",
+  "ok": true,
+  "heard": "Pop the middle sound in Fig."
+ },
+ "ask-l-fig": {
+  "made": "bf_isabella@0.85|Pop the last sound in fig.",
+  "ok": true,
+  "heard": "Pop the last sound in Fig."
+ },
+ "ask-f-frog": {
+  "made": "bf_isabella@0.85|Pop the first sound in frog.",
+  "ok": true,
+  "heard": "Pop the first sound in Frog"
+ },
+ "ask-l-frog": {
+  "made": "bf_isabella@0.85|Pop the last sound in frog.",
+  "ok": true,
+  "heard": "Pop the last sound in frog."
+ },
+ "ask-f-fish": {
+  "made": "bf_isabella@0.85|Pop the first sound in fish.",
+  "ok": true,
+  "heard": "pop the first sound in fish"
+ },
+ "ask-f-flag": {
+  "made": "bf_isabella@0.85|Pop the first sound in flag.",
+  "ok": true,
+  "heard": "Pop the first sound in flag."
+ },
+ "ask-l-flag": {
+  "made": "bf_isabella@0.85|Pop the last sound in flag.",
+  "ok": true,
+  "heard": "Pop the last sound in flag."
+ },
+ "ask-f-leg": {
+  "made": "bf_isabella@0.85|Pop the first sound in leg.",
+  "ok": true,
+  "heard": "Pop the first sound in leg."
+ },
+ "ask-m-leg": {
+  "made": "bf_isabella@0.85|Pop the middle sound in leg.",
+  "ok": true,
+  "heard": "Pop the middle sound in leg."
+ },
+ "ask-l-leg": {
+  "made": "bf_isabella@0.85|Pop the last sound in leg.",
+  "ok": true,
+  "heard": "Pop the last sound in leg."
+ },
+ "ask-f-lid": {
+  "made": "bf_isabella@0.85|Pop the first sound in lid.",
+  "ok": true,
+  "heard": "Pop the first sound in Lid."
+ },
+ "ask-m-lid": {
+  "made": "bf_isabella@0.85|Pop the middle sound in lid.",
+  "ok": true,
+  "heard": "Pop the middle sound in lid."
+ },
+ "ask-l-lid": {
+  "made": "bf_isabella@0.85|Pop the last sound in lid.",
+  "ok": true,
+  "heard": "Pop the last sound in Lid."
+ },
+ "ask-f-log": {
+  "made": "bf_isabella@0.85|Pop the first sound in log.",
+  "ok": true,
+  "heard": "Pop the first sound in log."
+ },
+ "ask-m-log": {
+  "made": "bf_isabella@0.85|Pop the middle sound in log.",
+  "ok": true,
+  "heard": "Pop the middle sound in log."
+ },
+ "ask-l-log": {
+  "made": "bf_isabella@0.85|Pop the last sound in log.",
+  "ok": true,
+  "heard": "Pop the last sound in log."
+ },
+ "ask-f-lamp": {
+  "made": "bf_isabella@0.85|Pop the first sound in lamp.",
+  "ok": true,
+  "heard": "Pop the first sound in lamp"
+ },
+ "ask-l-lamp": {
+  "made": "bf_isabella@0.85|Pop the last sound in lamp.",
+  "ok": true,
+  "heard": "Pop the last sound in lamp."
+ },
+ "ask-f-lemon": {
+  "made": "bf_isabella@0.85|Pop the first sound in lemon.",
+  "ok": true,
+  "heard": "Pop the first sound in lemon."
+ },
+ "ask-l-lemon": {
+  "made": "bf_isabella@0.85|Pop the last sound in lemon.",
+  "ok": true,
+  "heard": "Pop the last sound in lemon."
+ },
+ "ask-f-jam": {
+  "made": "bf_isabella@0.85|Pop the first sound in jam.",
+  "ok": true,
+  "heard": "Pop the first sound in jam."
+ },
+ "ask-m-jam": {
+  "made": "bf_isabella@0.85|Pop the middle sound in jam.",
+  "ok": true,
+  "heard": "Pop the middle sound in jam."
+ },
+ "ask-l-jam": {
+  "made": "bf_isabella@0.85|Pop the last sound in jam.",
+  "ok": true,
+  "heard": "Pop the last sound in jam."
+ },
+ "ask-f-jet": {
+  "made": "bf_isabella@0.85|Pop the first sound in jet.",
+  "ok": true,
+  "heard": "Pop the first sound in JET."
+ },
+ "ask-m-jet": {
+  "made": "bf_isabella@0.85|Pop the middle sound in jet.",
+  "ok": true,
+  "heard": "Pop the middle sound in jet."
+ },
+ "ask-l-jet": {
+  "made": "bf_isabella@0.85|Pop the last sound in jet.",
+  "ok": true,
+  "heard": "Pop the last sound in JET."
+ },
+ "ask-f-jug": {
+  "made": "bf_isabella@0.85|Pop the first sound in jug.",
+  "ok": true,
+  "heard": "Pop the first sound in Jug."
+ },
+ "ask-m-jug": {
+  "made": "bf_isabella@0.85|Pop the middle sound in jug.",
+  "ok": true,
+  "heard": "Pop the middle sound in JUG."
+ },
+ "ask-l-jug": {
+  "made": "bf_isabella@0.85|Pop the last sound in jug.",
+  "ok": true,
+  "heard": "Pop the last sound in JUG"
+ },
+ "ask-f-van": {
+  "made": "bf_isabella@0.85|Pop the first sound in van.",
+  "ok": true,
+  "heard": "Pop the first sound in Van."
+ },
+ "ask-m-van": {
+  "made": "bf_isabella@0.85|Pop the middle sound in van.",
+  "ok": true,
+  "heard": "Pop the middle sound in Van."
+ },
+ "ask-l-van": {
+  "made": "bf_isabella@0.85|Pop the last sound in van.",
+  "ok": true,
+  "heard": "Pop the last sound in Van."
+ },
+ "ask-f-web": {
+  "made": "bf_isabella@0.85|Pop the first sound in web.",
+  "ok": true,
+  "heard": "Pop the first sound in web."
+ },
+ "ask-m-web": {
+  "made": "bf_isabella@0.85|Pop the middle sound in web.",
+  "ok": true,
+  "heard": "Pop the middle sound in web."
+ },
+ "ask-l-web": {
+  "made": "bf_isabella@0.85|Pop the last sound in web.",
+  "ok": true,
+  "heard": "Pop the last sound in web."
+ },
+ "ask-f-wig": {
+  "made": "bf_isabella@0.85|Pop the first sound in wig.",
+  "ok": true,
+  "heard": "Pop the first sound in Wig."
+ },
+ "ask-m-wig": {
+  "made": "bf_isabella@0.85|Pop the middle sound in wig.",
+  "ok": true,
+  "heard": "Pop the middle sound in Wig."
+ },
+ "ask-l-wig": {
+  "made": "bf_isabella@0.85|Pop the last sound in wig.",
+  "ok": true,
+  "heard": "Pop the last sound in Wig."
+ },
+ "ask-f-yak": {
+  "made": "bf_isabella@0.85|Pop the first sound in yak.",
+  "ok": true,
+  "heard": "pop the first sound in yak"
+ },
+ "ask-m-yak": {
+  "made": "bf_isabella@0.85|Pop the middle sound in yak.",
+  "ok": true,
+  "heard": "Pop the middle sound in yak."
+ },
+ "ask-l-yak": {
+  "made": "bf_isabella@0.85|Pop the last sound in yak.",
+  "ok": true,
+  "heard": "Pop the last sound in Yak."
+ },
+ "ask-f-zip": {
+  "made": "bf_isabella@0.85|Pop the first sound in zip.",
+  "ok": true,
+  "heard": "Pop the first sound in zip"
+ },
+ "ask-m-zip": {
+  "made": "bf_isabella@0.85|Pop the middle sound in zip.",
+  "ok": true,
+  "heard": "Pop the middle sound in zip."
+ },
+ "ask-l-zip": {
+  "made": "bf_isabella@0.85|Pop the last sound in zip.",
+  "ok": true,
+  "heard": "Pop the last sound in zip."
+ },
+ "ask-f-zebra": {
+  "made": "bf_isabella@0.85|Pop the first sound in zebra.",
+  "ok": true,
+  "heard": "Pop the first sound in Zebra."
+ },
+ "ask-l-ship": {
+  "made": "bf_isabella@0.85|Pop the last sound in ship.",
+  "ok": true,
+  "heard": "Pop the last sound in ship."
+ },
+ "ask-f-crab": {
+  "made": "bf_isabella@0.85|Pop the first sound in crab.",
+  "ok": true,
+  "heard": "Pop the first sound in crab."
+ },
+ "ask-l-crab": {
+  "made": "bf_isabella@0.85|Pop the last sound in crab.",
+  "ok": true,
+  "heard": "Pop the last sound in crab."
+ },
+ "try-again": {
+  "made": "bf_isabella@0.85|Try again.",
+  "ok": true,
+  "heard": "Try again."
+ },
+ "correct-0": {
+  "made": "bf_isabella@0.85|Correct!",
+  "ok": true,
+  "heard": "Correct."
+ },
+ "correct-1": {
+  "made": "bf_isabella@0.85|Good job!",
+  "ok": true,
+  "heard": "Good job."
+ },
+ "correct-2": {
+  "made": "bf_isabella@0.85|Nice!",
+  "ok": true,
+  "heard": "Nice."
+ },
+ "correct-3": {
+  "made": "bf_isabella@0.85|Well done!",
+  "ok": true,
+  "heard": "Well done."
+ },
+ "correct-4": {
+  "made": "bf_isabella@0.85|Great!",
+  "ok": true,
+  "heard": "Great."
+ },
+ "correct-5": {
+  "made": "bf_isabella@0.85|Brilliant!",
+  "ok": true,
+  "heard": "Brilliant."
+ },
+ "wrong-0": {
+  "made": "bf_isabella@0.85|Wrong.",
+  "ok": true,
+  "heard": "Wrong."
+ },
+ "wrong-1": {
+  "made": "bf_isabella@0.85|Incorrect.",
+  "ok": true,
+  "heard": "incorrect"
+ },
+ "start-build": {
+  "made": "bf_isabella@0.85|Let's build some words!",
+  "ok": true,
+  "heard": "Let's build some words."
+ },
+ "harder": {
+  "made": "bf_isabella@0.85|Hooray! Now a bit harder!",
+  "ok": true,
+  "heard": "Hooray now a bit harder."
+ },
+ "go-home": {
+  "made": "bf_isabella@0.85|Go home?",
+  "ok": true,
+  "heard": "Go Home"
+ },
+ "game-pop-a-sound": {
+  "made": "bf_isabella@0.85|Pop a Sound!",
+  "ok": true,
+  "heard": "Pop a sound."
+ },
+ "game-build-a-word": {
+  "made": "bf_isabella@0.85|Build a Word!",
+  "ok": true,
+  "heard": "Build a word."
+ },
+ "ask-f-ham": {
+  "made": "bf_isabella@0.85|Pop the first sound in ham.",
+  "ok": true,
+  "heard": "Pop the first sound in ham."
+ },
+ "ask-m-ham": {
+  "made": "bf_isabella@0.85|Pop the middle sound in ham.",
+  "ok": true,
+  "heard": "Pop the middle sound in ham."
+ },
+ "ask-l-ham": {
+  "made": "bf_isabella@0.85|Pop the last sound in ham.",
+  "ok": true,
+  "heard": "Pop the last sound in ham."
+ },
+ "ask-f-cub": {
+  "made": "bf_isabella@0.85|Pop the first sound in cub.",
+  "ok": true,
+  "heard": "Pop the first sound in Cub."
+ },
+ "ask-m-cub": {
+  "made": "bf_isabella@0.85|Pop the middle sound in cub.",
+  "ok": true,
+  "heard": "Pop the middle sound in Cub."
+ },
+ "ask-l-cub": {
+  "made": "bf_isabella@0.85|Pop the last sound in cub.",
+  "ok": true,
+  "heard": "Pop the last sound in Cub."
+ },
+ "ask-f-sad": {
+  "made": "bf_isabella@0.85|Pop the first sound in sad.",
+  "ok": true,
+  "heard": "Pop the first sound in sad."
+ },
+ "ask-m-sad": {
+  "made": "bf_isabella@0.85|Pop the middle sound in sad.",
+  "ok": true,
+  "heard": "Pop the middle sound in sad."
+ },
+ "ask-l-sad": {
+  "made": "bf_isabella@0.85|Pop the last sound in sad.",
+  "ok": true,
+  "heard": "Pop the last sound in sad."
+ },
+ "ask-f-mud": {
+  "made": "bf_isabella@0.85|Pop the first sound in mud.",
+  "ok": true,
+  "heard": "Pop the first sound in mud."
+ },
+ "ask-m-mud": {
+  "made": "bf_isabella@0.85|Pop the middle sound in mud.",
+  "ok": true,
+  "heard": "Pop the middle sound in mud."
+ },
+ "ask-l-mud": {
+  "made": "bf_isabella@0.85|Pop the last sound in mud.",
+  "ok": true,
+  "heard": "Pop the last sound in mud."
+ },
+ "ask-f-gum": {
+  "made": "bf_isabella@0.85|Pop the first sound in gum.",
+  "ok": true,
+  "heard": "Pop the first sound in gum."
+ },
+ "ask-m-gum": {
+  "made": "bf_isabella@0.85|Pop the middle sound in gum.",
+  "ok": true,
+  "heard": "Pop the middle sound in gum."
+ },
+ "ask-l-gum": {
+  "made": "bf_isabella@0.85|Pop the last sound in gum.",
+  "ok": true,
+  "heard": "Pop the last sound in gum."
+ },
+ "ask-f-ram": {
+  "made": "bf_isabella@0.85|Pop the first sound in ram.",
+  "ok": true,
+  "heard": "Pop the first sound in RAM."
+ },
+ "ask-m-ram": {
+  "made": "bf_isabella@0.85|Pop the middle sound in ram.",
+  "ok": true,
+  "heard": "Pop the middle sound in RAM."
+ },
+ "ask-l-ram": {
+  "made": "bf_isabella@0.85|Pop the last sound in ram.",
+  "ok": true,
+  "heard": "Pop the last sound in RAM."
+ },
+ "ask-f-red": {
+  "made": "bf_isabella@0.85|Pop the first sound in red.",
+  "ok": true,
+  "heard": "Pop the first sound in red."
+ },
+ "ask-m-red": {
+  "made": "bf_isabella@0.85|Pop the middle sound in red.",
+  "ok": true,
+  "heard": "Pop the middle sound in red."
+ },
+ "ask-l-red": {
+  "made": "bf_isabella@0.85|Pop the last sound in red.",
+  "ok": true,
+  "heard": "Pop the last sound in red."
+ },
+ "ask-f-dot": {
+  "made": "bf_isabella@0.85|Pop the first sound in dot.",
+  "ok": true,
+  "heard": "Pop the first sound in dot."
+ },
+ "ask-m-dot": {
+  "made": "bf_isabella@0.85|Pop the middle sound in dot.",
+  "ok": true,
+  "heard": "Pop the middle sound in dot."
+ },
+ "ask-l-dot": {
+  "made": "bf_isabella@0.85|Pop the last sound in dot.",
+  "ok": true,
+  "heard": "Pop the last sound in dot."
+ },
+ "ask-f-pod": {
+  "made": "bf_isabella@0.85|Pop the first sound in pod.",
+  "ok": true,
+  "heard": "Pop the first sound in pod."
+ },
+ "ask-m-pod": {
+  "made": "bf_isabella@0.85|Pop the middle sound in pod.",
+  "ok": true,
+  "heard": "Pop the middle sound in pod."
+ },
+ "ask-l-pod": {
+  "made": "bf_isabella@0.85|Pop the last sound in pod.",
+  "ok": true,
+  "heard": "Pop the last sound in pod."
+ },
+ "ask-f-cod": {
+  "made": "bf_isabella@0.85|Pop the first sound in cod.",
+  "ok": true,
+  "heard": "Pop the first sound in COD."
+ },
+ "ask-m-cod": {
+  "made": "bf_isabella@0.85|Pop the middle sound in cod.",
+  "ok": true,
+  "heard": "Pop the middle sound in COD."
+ },
+ "ask-l-cod": {
+  "made": "bf_isabella@0.85|Pop the last sound in cod.",
+  "ok": true,
+  "heard": "Pop the last sound in COD."
+ },
+ "ask-f-tag": {
+  "made": "bf_isabella@0.85|Pop the first sound in tag.",
+  "ok": true,
+  "heard": "Pop the first sound in tag."
+ },
+ "ask-m-tag": {
+  "made": "bf_isabella@0.85|Pop the middle sound in tag.",
+  "ok": true,
+  "heard": "Pop the middle sound in tag."
+ },
+ "ask-l-tag": {
+  "made": "bf_isabella@0.85|Pop the last sound in tag.",
+  "ok": true,
+  "heard": "Pop the last sound in tag."
+ },
+ "ask-f-sub": {
+  "made": "bf_isabella@0.85|Pop the first sound in sub.",
+  "ok": true,
+  "heard": "Pop the first sound in sub"
+ },
+ "ask-m-sub": {
+  "made": "bf_isabella@0.85|Pop the middle sound in sub.",
+  "ok": true,
+  "heard": "pop the middle sound in sub"
+ },
+ "ask-l-sub": {
+  "made": "bf_isabella@0.85|Pop the last sound in sub.",
+  "ok": true,
+  "heard": "Pop the last sound in sub."
+ },
+ "ask-f-tug": {
+  "made": "bf_isabella@0.85|Pop the first sound in tug.",
+  "ok": true,
+  "heard": "Pop the first sound in TUG."
+ },
+ "ask-m-tug": {
+  "made": "bf_isabella@0.85|Pop the middle sound in tug.",
+  "ok": true,
+  "heard": "Pop the middle sound in Tug."
+ },
+ "ask-l-tug": {
+  "made": "bf_isabella@0.85|Pop the last sound in tug.",
+  "ok": true,
+  "heard": "Pop the last sound in TUG."
+ },
+ "ask-f-mat": {
+  "made": "bf_isabella@0.85|Pop the first sound in mat.",
+  "ok": true,
+  "heard": "Pop the first sound in matte."
+ },
+ "ask-m-mat": {
+  "made": "bf_isabella@0.85|Pop the middle sound in mat.",
+  "ok": true,
+  "heard": "Pop the middle sound in Matt."
+ },
+ "ask-l-mat": {
+  "made": "bf_isabella@0.85|Pop the last sound in mat.",
+  "ok": true,
+  "heard": "Pop the last sound in matte."
+ },
+ "ask-f-lip": {
+  "made": "bf_isabella@0.85|Pop the first sound in lip.",
+  "ok": true,
+  "heard": "Pop the first sound in lip"
+ },
+ "ask-m-lip": {
+  "made": "bf_isabella@0.85|Pop the middle sound in lip.",
+  "ok": true,
+  "heard": "Pop the middle sound in lip."
+ },
+ "ask-l-lip": {
+  "made": "bf_isabella@0.85|Pop the last sound in lip.",
+  "ok": true,
+  "heard": "Pop the last sound in lip."
+ },
+ "ask-f-mum": {
+  "made": "bf_isabella@0.85|Pop the first sound in mum.",
+  "ok": true,
+  "heard": "Pop the first sound in Mum."
+ },
+ "ask-m-mum": {
+  "made": "bf_isabella@0.85|Pop the middle sound in mum.",
+  "ok": true,
+  "heard": "Pop the middle sound in mum."
+ },
+ "ask-l-mum": {
+  "made": "bf_isabella@0.85|Pop the last sound in mum.",
+  "ok": true,
+  "heard": "Pop the last sound in mum."
+ },
+ "ask-f-dad": {
+  "made": "bf_isabella@0.85|Pop the first sound in dad.",
+  "ok": true,
+  "heard": "Pop the first sound in Dad."
+ },
+ "ask-m-dad": {
+  "made": "bf_isabella@0.85|Pop the middle sound in dad.",
+  "ok": true,
+  "heard": "Pop the middle sound in Dad."
+ },
+ "ask-l-dad": {
+  "made": "bf_isabella@0.85|Pop the last sound in dad.",
+  "ok": true,
+  "heard": "Pop the last sound in Dad."
+ },
+ "ask-f-rod": {
+  "made": "bf_isabella@0.85|Pop the first sound in rod.",
+  "ok": true,
+  "heard": "Pop the first sound in Rod."
+ },
+ "ask-m-rod": {
+  "made": "bf_isabella@0.85|Pop the middle sound in rod.",
+  "ok": true,
+  "heard": "Pop the middle sound in Rod."
+ },
+ "ask-l-rod": {
+  "made": "bf_isabella@0.85|Pop the last sound in rod.",
+  "ok": true,
+  "heard": "Pop the last sound in Rod."
+ },
+ "ask-f-bud": {
+  "made": "bf_isabella@0.85|Pop the first sound in bud.",
+  "ok": true,
+  "heard": "Pop the first sound in bud."
+ },
+ "ask-m-bud": {
+  "made": "bf_isabella@0.85|Pop the middle sound in bud.",
+  "ok": true,
+  "heard": "Pop the middle sound in bud."
+ },
+ "ask-l-bud": {
+  "made": "bf_isabella@0.85|Pop the last sound in bud.",
+  "ok": true,
+  "heard": "Pop the last sound in bud."
+ },
+ "ask-f-cab": {
+  "made": "bf_isabella@0.85|Pop the first sound in cab.",
+  "ok": true,
+  "heard": "Pop the first sound in cab."
+ },
+ "ask-m-cab": {
+  "made": "bf_isabella@0.85|Pop the middle sound in cab.",
+  "ok": true,
+  "heard": "Pop the middle sound in cab."
+ },
+ "ask-l-cab": {
+  "made": "bf_isabella@0.85|Pop the last sound in cab.",
+  "ok": true,
+  "heard": "Pop the last sound in cab."
+ },
+ "ask-f-pad": {
+  "made": "bf_isabella@0.85|Pop the first sound in pad.",
+  "ok": true,
+  "heard": "Pop the first sound in pad."
+ },
+ "ask-m-pad": {
+  "made": "bf_isabella@0.85|Pop the middle sound in pad.",
+  "ok": true,
+  "heard": "Pop the middle sound in pad."
+ },
+ "ask-l-pad": {
+  "made": "bf_isabella@0.85|Pop the last sound in pad.",
+  "ok": true,
+  "heard": "Pop the last sound in pad."
+ },
+ "ask-f-fin": {
+  "made": "bf_isabella@0.85|Pop the first sound in fin.",
+  "ok": true,
+  "heard": "Pop the first sound in Finn."
+ },
+ "ask-m-fin": {
+  "made": "bf_isabella@0.85|Pop the middle sound in fin.",
+  "ok": true,
+  "heard": "Pop the middle sound in Finn."
+ },
+ "ask-l-fin": {
+  "made": "bf_isabella@0.85|Pop the last sound in fin.",
+  "ok": true,
+  "heard": "Pop the last sound in Finn."
+ },
+ "ask-f-bib": {
+  "made": "bf_isabella@0.85|Pop the first sound in bib.",
+  "ok": false,
+  "heard": "Pop the first sound in Bibi."
+ },
+ "ask-m-bib": {
+  "made": "bf_isabella@0.85|Pop the middle sound in bib.",
+  "ok": true,
+  "heard": "pop the middle sound in bib"
+ },
+ "ask-l-bib": {
+  "made": "bf_isabella@0.85|Pop the last sound in bib.",
+  "ok": true,
+  "heard": "pop the last sound in bib"
+ },
+ "ask-f-cob": {
+  "made": "bf_isabella@0.85|Pop the first sound in cob.",
+  "ok": true,
+  "heard": "Pop the first sound in cob."
+ },
+ "ask-m-cob": {
+  "made": "bf_isabella@0.85|Pop the middle sound in cob.",
+  "ok": true,
+  "heard": "Pop the middle sound in cob."
+ },
+ "ask-l-cob": {
+  "made": "bf_isabella@0.85|Pop the last sound in cob.",
+  "ok": true,
+  "heard": "Pop the last sound in cob."
+ },
+ "ask-f-yam": {
+  "made": "bf_isabella@0.85|Pop the first sound in yam.",
+  "ok": true,
+  "heard": "Pop the first sound in YAM."
+ },
+ "ask-m-yam": {
+  "made": "bf_isabella@0.85|Pop the middle sound in yam.",
+  "ok": true,
+  "heard": "Pop the middle sound in YAM."
+ },
+ "ask-l-yam": {
+  "made": "bf_isabella@0.85|Pop the last sound in yam.",
+  "ok": true,
+  "heard": "Pop the last sound in YAM."
+ },
+ "ask-f-wok": {
+  "made": "bf_isabella@0.85|Pop the first sound in wok.",
+  "ok": true,
+  "heard": "Pop the first sound in Wok"
+ },
+ "ask-m-wok": {
+  "made": "bf_isabella@0.85|Pop the middle sound in wok.",
+  "ok": true,
+  "heard": "Pop the middle sound in Wok."
+ },
+ "ask-l-wok": {
+  "made": "bf_isabella@0.85|Pop the last sound in wok.",
+  "ok": true,
+  "heard": "Pop the last sound in Wok."
+ },
+ "ask-f-kid": {
+  "made": "bf_isabella@0.85|Pop the first sound in kid.",
+  "ok": true,
+  "heard": "Pop the first sound in Kid."
+ },
+ "ask-m-kid": {
+  "made": "bf_isabella@0.85|Pop the middle sound in kid.",
+  "ok": true,
+  "heard": "Pop the middle sound in kid"
+ },
+ "ask-l-kid": {
+  "made": "bf_isabella@0.85|Pop the last sound in kid.",
+  "ok": true,
+  "heard": "Pop the last sound in Kid."
+ },
+ "ask-f-nap": {
+  "made": "bf_isabella@0.85|Pop the first sound in nap.",
+  "ok": true,
+  "heard": "Pop the first sound in nap"
+ },
+ "ask-m-nap": {
+  "made": "bf_isabella@0.85|Pop the middle sound in nap.",
+  "ok": true,
+  "heard": "Pop the middle sound in nap."
+ },
+ "ask-l-nap": {
+  "made": "bf_isabella@0.85|Pop the last sound in nap.",
+  "ok": true,
+  "heard": "Pop the last sound in nap."
+ },
+ "ask-f-dig": {
+  "made": "bf_isabella@0.85|Pop the first sound in dig.",
+  "ok": true,
+  "heard": "Pop the first sound in DIG."
+ },
+ "ask-m-dig": {
+  "made": "bf_isabella@0.85|Pop the middle sound in dig.",
+  "ok": true,
+  "heard": "Pop the middle sound in DIG"
+ },
+ "ask-l-dig": {
+  "made": "bf_isabella@0.85|Pop the last sound in dig.",
+  "ok": true,
+  "heard": "Pop the last sound in DIG"
+ },
+ "ask-f-milk": {
+  "made": "bf_isabella@0.85|Pop the first sound in milk.",
+  "ok": true,
+  "heard": "Pop the first sound in milk."
+ },
+ "ask-l-milk": {
+  "made": "bf_isabella@0.85|Pop the last sound in milk.",
+  "ok": true,
+  "heard": "Pop the last sound in milk."
+ },
+ "ask-f-belt": {
+  "made": "bf_isabella@0.85|Pop the first sound in belt.",
+  "ok": true,
+  "heard": "Pop the first sound in belt."
+ },
+ "ask-l-belt": {
+  "made": "bf_isabella@0.85|Pop the last sound in belt.",
+  "ok": true,
+  "heard": "Pop the last sound in belt."
+ },
+ "ask-f-desk": {
+  "made": "bf_isabella@0.85|Pop the first sound in desk.",
+  "ok": true,
+  "heard": "Pop the first sound in desk."
+ },
+ "ask-l-desk": {
+  "made": "bf_isabella@0.85|Pop the last sound in desk.",
+  "ok": true,
+  "heard": "Pop the last sound in desk."
+ },
+ "ask-f-plum": {
+  "made": "bf_isabella@0.85|Pop the first sound in plum.",
+  "ok": true,
+  "heard": "Pop the first sound in Plum"
+ },
+ "ask-l-plum": {
+  "made": "bf_isabella@0.85|Pop the last sound in plum.",
+  "ok": true,
+  "heard": "Pop the last sound in Plum."
+ },
+ "ask-f-twig": {
+  "made": "bf_isabella@0.85|Pop the first sound in twig.",
+  "ok": true,
+  "heard": "Pop the first sound in Twig."
+ },
+ "ask-l-twig": {
+  "made": "bf_isabella@0.85|Pop the last sound in twig.",
+  "ok": true,
+  "heard": "Pop the last sound in Twig."
+ },
+ "ask-f-slug": {
+  "made": "bf_isabella@0.85|Pop the first sound in slug.",
+  "ok": true,
+  "heard": "Pop the first sound in slug."
+ },
+ "ask-l-slug": {
+  "made": "bf_isabella@0.85|Pop the last sound in slug.",
+  "ok": true,
+  "heard": "Pop the last sound in slug."
+ },
+ "ask-f-pond": {
+  "made": "bf_isabella@0.85|Pop the first sound in pond.",
+  "ok": true,
+  "heard": "Pop the first sound in pond."
+ },
+ "ask-l-pond": {
+  "made": "bf_isabella@0.85|Pop the last sound in pond.",
+  "ok": true,
+  "heard": "Pop the last sound in pond."
+ },
+ "ask-f-sand": {
+  "made": "bf_isabella@0.85|Pop the first sound in sand.",
+  "ok": true,
+  "heard": "Pop the first sound in sand."
+ },
+ "ask-l-sand": {
+  "made": "bf_isabella@0.85|Pop the last sound in sand.",
+  "ok": true,
+  "heard": "Pop the last sound in sand."
+ },
+ "ask-f-vest": {
+  "made": "bf_isabella@0.85|Pop the first sound in vest.",
+  "ok": true,
+  "heard": "Pop the first sound in vest."
+ },
+ "ask-l-vest": {
+  "made": "bf_isabella@0.85|Pop the last sound in vest.",
+  "ok": true,
+  "heard": "Pop the last sound in vest."
+ },
+ "ask-f-mint": {
+  "made": "bf_isabella@0.85|Pop the first sound in mint.",
+  "ok": true,
+  "heard": "Pop the first sound in mint."
+ },
+ "ask-l-mint": {
+  "made": "bf_isabella@0.85|Pop the last sound in mint.",
+  "ok": true,
+  "heard": "Pop the last sound in mint."
+ },
+ "spell-sun": {
+  "made": "bf_isabella@0.85|Can you spell sun?",
+  "ok": true,
+  "heard": "Can you spell sun?"
+ },
+ "word-sun": {
+  "made": "bf_isabella@0.85|Sun is right!",
+  "ok": true,
+  "heard": "Sun is right."
+ },
+ "spell-six": {
+  "made": "bf_isabella@0.85|Can you spell six for me?",
+  "ok": true,
+  "heard": "Can you spell 6 for me?"
+ },
+ "word-six": {
+  "made": "bf_isabella@0.85|Six is right!",
+  "ok": true,
+  "heard": "6 is right."
+ },
+ "spell-tap": {
+  "made": "bf_isabella@0.85|Can you spell tap?",
+  "ok": true,
+  "heard": "Can you spell tap?"
+ },
+ "word-tap": {
+  "made": "bf_isabella@0.85|Tap is right!",
+  "ok": true,
+  "heard": "Tap is right."
+ },
+ "spell-ten": {
+  "made": "bf_isabella@0.85|Can you spell ten?",
+  "ok": true,
+  "heard": "Can you spell ten?"
+ },
+ "word-ten": {
+  "made": "bf_isabella@0.85|Ten is right!",
+  "ok": true,
+  "heard": "10 is right."
+ },
+ "spell-tub": {
+  "made": "bf_isabella@0.85|Can you spell tub?",
+  "ok": true,
+  "heard": "Can you spell tub?"
+ },
+ "word-tub": {
+  "made": "bf_isabella@0.85|Tub is right!",
+  "ok": true,
+  "heard": "Tub is right."
+ },
+ "spell-pig": {
+  "made": "bf_isabella@0.85|Can you spell pig?",
+  "ok": true,
+  "heard": "Can you spell pig?"
+ },
+ "word-pig": {
+  "made": "bf_isabella@0.85|Pig is right!",
+  "ok": true,
+  "heard": "Pig is right."
+ },
+ "spell-pan": {
+  "made": "bf_isabella@0.85|Can you spell pan?",
+  "ok": true,
+  "heard": "Can you spell pan?"
+ },
+ "word-pan": {
+  "made": "bf_isabella@0.85|Pan is right!",
+  "ok": true,
+  "heard": "Pan is right."
+ },
+ "spell-pen": {
+  "made": "bf_isabella@0.85|Can you spell pen?",
+  "ok": true,
+  "heard": "Can you spell pen?"
+ },
+ "word-pen": {
+  "made": "bf_isabella@0.85|Pen is right!",
+  "ok": true,
+  "heard": "Penn is right."
+ },
+ "spell-pin": {
+  "made": "bf_isabella@0.85|Can you spell pin?",
+  "ok": true,
+  "heard": "Can you spell pin?"
+ },
+ "word-pin": {
+  "made": "bf_isabella@0.85|Pin is right!",
+  "ok": true,
+  "heard": "Pin is right."
+ },
+ "spell-pot": {
+  "made": "bf_isabella@0.85|Can you spell pot?",
+  "ok": true,
+  "heard": "Can you spell pot?"
+ },
+ "word-pot": {
+  "made": "bf_isabella@0.85|Pot is right!",
+  "ok": true,
+  "heard": "Pot is right."
+ },
+ "spell-peg": {
+  "made": "bf_isabella@0.85|Can you spell peg?",
+  "ok": true,
+  "heard": "Can you spell peg?"
+ },
+ "word-peg": {
+  "made": "bf_isabella@0.85|Peg is right!",
+  "ok": true,
+  "heard": "PEG is right."
+ },
+ "spell-pup": {
+  "made": "bf_isabella@0.85|Can you spell pup?",
+  "ok": true,
+  "heard": "Can you spell pup?"
+ },
+ "word-pup": {
+  "made": "bf_isabella@0.85|Pup is right!",
+  "ok": true,
+  "heard": "PUP is right."
+ },
+ "spell-nut": {
+  "made": "bf_isabella@0.85|Can you spell nut?",
+  "ok": true,
+  "heard": "Can you spell nut?"
+ },
+ "word-nut": {
+  "made": "bf_isabella@0.85|Nut is right!",
+  "ok": true,
+  "heard": "Nut is right."
+ },
+ "spell-net": {
+  "made": "bf_isabella@0.85|Can you spell net?",
+  "ok": true,
+  "heard": "Can you spell net?"
+ },
+ "word-net": {
+  "made": "bf_isabella@0.85|Net is right!",
+  "ok": true,
+  "heard": "Net is right."
+ },
+ "spell-mug": {
+  "made": "bf_isabella@0.85|Can you spell mug?",
+  "ok": true,
+  "heard": "Can you spell mug?"
+ },
+ "word-mug": {
+  "made": "bf_isabella@0.85|Mug is right!",
+  "ok": true,
+  "heard": "Mug is right."
+ },
+ "spell-map": {
+  "made": "bf_isabella@0.85|Can you spell map?",
+  "ok": true,
+  "heard": "Can you spell map?"
+ },
+ "word-map": {
+  "made": "bf_isabella@0.85|Map is right!",
+  "ok": true,
+  "heard": "Map is right."
+ },
+ "spell-mop": {
+  "made": "bf_isabella@0.85|Can you spell mop?",
+  "ok": true,
+  "heard": "Can you spell mop?"
+ },
+ "word-mop": {
+  "made": "bf_isabella@0.85|Mop is right!",
+  "ok": true,
+  "heard": "Mop is right."
+ },
+ "spell-dog": {
+  "made": "bf_isabella@0.85|Can you spell dog?",
+  "ok": true,
+  "heard": "Can you spell dog?"
+ },
+ "word-dog": {
+  "made": "bf_isabella@0.85|Dog is right!",
+  "ok": true,
+  "heard": "Dog is right."
+ },
+ "spell-cat": {
+  "made": "bf_isabella@0.85|Can you spell cat?",
+  "ok": true,
+  "heard": "Can you spell cat?"
+ },
+ "word-cat": {
+  "made": "bf_isabella@0.85|Cat is right!",
+  "ok": true,
+  "heard": "Cat is right."
+ },
+ "spell-cup": {
+  "made": "bf_isabella@0.85|Can you spell cup?",
+  "ok": true,
+  "heard": "Can you spell cup?"
+ },
+ "word-cup": {
+  "made": "bf_isabella@0.85|Cup is right!",
+  "ok": true,
+  "heard": "Cup is right."
+ },
+ "spell-cap": {
+  "made": "bf_isabella@0.85|Can you spell cap?",
+  "ok": true,
+  "heard": "Can you spell cap?"
+ },
+ "word-cap": {
+  "made": "bf_isabella@0.85|Cap is right!",
+  "ok": true,
+  "heard": "Cap is right."
+ },
+ "spell-can": {
+  "made": "bf_isabella@0.85|Can you spell can?",
+  "ok": true,
+  "heard": "Can you spell can?"
+ },
+ "word-can": {
+  "made": "bf_isabella@0.85|Can is right!",
+  "ok": true,
+  "heard": "Can is right."
+ },
+ "spell-cot": {
+  "made": "bf_isabella@0.85|Can you spell cot?",
+  "ok": true,
+  "heard": "Can you spell cot?"
+ },
+ "word-cot": {
+  "made": "bf_isabella@0.85|Cot is right!",
+  "ok": true,
+  "heard": "Caught is right."
+ },
+ "spell-rat": {
+  "made": "bf_isabella@0.85|Can you spell rat?",
+  "ok": true,
+  "heard": "Can you spell rat?"
+ },
+ "word-rat": {
+  "made": "bf_isabella@0.85|Rat is right!",
+  "ok": true,
+  "heard": "Rat is right."
+ },
+ "spell-rug": {
+  "made": "bf_isabella@0.85|Can you spell rug?",
+  "ok": true,
+  "heard": "Can you spell rug?"
+ },
+ "word-rug": {
+  "made": "bf_isabella@0.85|Rug is right!",
+  "ok": true,
+  "heard": "Rug is right."
+ },
+ "spell-hat": {
+  "made": "bf_isabella@0.85|Can you spell hat?",
+  "ok": true,
+  "heard": "Can you spell hat?"
+ },
+ "word-hat": {
+  "made": "bf_isabella@0.85|Hat is right!",
+  "ok": true,
+  "heard": "Hat is right."
+ },
+ "spell-hen": {
+  "made": "bf_isabella@0.85|Can you spell hen?",
+  "ok": true,
+  "heard": "Can you spell hen?"
+ },
+ "word-hen": {
+  "made": "bf_isabella@0.85|Hen is right!",
+  "ok": true,
+  "heard": "Hen is right."
+ },
+ "spell-hut": {
+  "made": "bf_isabella@0.85|Can you spell hut?",
+  "ok": true,
+  "heard": "Can you spell hut?"
+ },
+ "word-hut": {
+  "made": "bf_isabella@0.85|Hut is right!",
+  "ok": true,
+  "heard": "Hutt is right."
+ },
+ "spell-bus": {
+  "made": "bf_isabella@0.85|Can you spell bus?",
+  "ok": true,
+  "heard": "Can you spell bus?"
+ },
+ "word-bus": {
+  "made": "bf_isabella@0.85|Bus is right!",
+  "ok": true,
+  "heard": "Bus is right."
+ },
+ "spell-bed": {
+  "made": "bf_isabella@0.85|Can you spell bed?",
+  "ok": true,
+  "heard": "Can you spell bed?"
+ },
+ "word-bed": {
+  "made": "bf_isabella@0.85|Bed is right!",
+  "ok": true,
+  "heard": "Bed is right."
+ },
+ "spell-bag": {
+  "made": "bf_isabella@0.85|Can you spell bag?",
+  "ok": true,
+  "heard": "Can you spell bag?"
+ },
+ "word-bag": {
+  "made": "bf_isabella@0.85|Bag is right!",
+  "ok": true,
+  "heard": "Bag is right."
+ },
+ "spell-box": {
+  "made": "bf_isabella@0.85|Can you spell box for me?",
+  "ok": true,
+  "heard": "Can you spell box for me?"
+ },
+ "word-box": {
+  "made": "bf_isabella@0.85|Box is right!",
+  "ok": true,
+  "heard": "Box is right."
+ },
+ "spell-bat": {
+  "made": "bf_isabella@0.85|Can you spell bat?",
+  "ok": true,
+  "heard": "Can you spell bat?"
+ },
+ "word-bat": {
+  "made": "bf_isabella@0.85|Bat is right!",
+  "ok": true,
+  "heard": "Bat is right."
+ },
+ "spell-bun": {
+  "made": "bf_isabella@0.85|Can you spell bun?",
+  "ok": true,
+  "heard": "Can you spell bun?"
+ },
+ "word-bun": {
+  "made": "bf_isabella@0.85|Bun is right!",
+  "ok": true,
+  "heard": "Bun is right."
+ },
+ "spell-bug": {
+  "made": "bf_isabella@0.85|Can you spell bug?",
+  "ok": true,
+  "heard": "Can you spell bug?"
+ },
+ "word-bug": {
+  "made": "bf_isabella@0.85|Bug is right!",
+  "ok": true,
+  "heard": "Bug is right."
+ },
+ "spell-bin": {
+  "made": "bf_isabella@0.85|Can you spell bin?",
+  "ok": true,
+  "heard": "Can you spell bin?"
+ },
+ "word-bin": {
+  "made": "bf_isabella@0.85|Bin is right!",
+  "ok": true,
+  "heard": "Bin is right."
+ },
+ "spell-fan": {
+  "made": "bf_isabella@0.85|Can you spell fan?",
+  "ok": true,
+  "heard": "Can you spell fan?"
+ },
+ "word-fan": {
+  "made": "bf_isabella@0.85|Fan is right!",
+  "ok": true,
+  "heard": "Fan is right."
+ },
+ "spell-fox": {
+  "made": "bf_isabella@0.85|Can you spell fox for me?",
+  "ok": true,
+  "heard": "Can you spell fox for me?"
+ },
+ "word-fox": {
+  "made": "bf_isabella@0.85|Fox is right!",
+  "ok": true,
+  "heard": "Fox is right."
+ },
+ "spell-fig": {
+  "made": "bf_isabella@0.85|Can you spell fig?",
+  "ok": true,
+  "heard": "Can you spell fig?"
+ },
+ "word-fig": {
+  "made": "bf_isabella@0.85|Fig is right!",
+  "ok": true,
+  "heard": "Fig is right."
+ },
+ "spell-leg": {
+  "made": "bf_isabella@0.85|Can you spell leg?",
+  "ok": true,
+  "heard": "Can you spell leg?"
+ },
+ "word-leg": {
+  "made": "bf_isabella@0.85|Leg is right!",
+  "ok": true,
+  "heard": "Leg is right."
+ },
+ "spell-lid": {
+  "made": "bf_isabella@0.85|Can you spell lid?",
+  "ok": true,
+  "heard": "Can you spell Lid?"
+ },
+ "word-lid": {
+  "made": "bf_isabella@0.85|Lid is right!",
+  "ok": true,
+  "heard": "Lid is right."
+ },
+ "spell-log": {
+  "made": "bf_isabella@0.85|Can you spell log?",
+  "ok": true,
+  "heard": "Can you spell log?"
+ },
+ "word-log": {
+  "made": "bf_isabella@0.85|Log is right!",
+  "ok": true,
+  "heard": "Log is right."
+ },
+ "spell-jam": {
+  "made": "bf_isabella@0.85|Can you spell jam?",
+  "ok": true,
+  "heard": "Can you spell jam?"
+ },
+ "word-jam": {
+  "made": "bf_isabella@0.85|Jam is right!",
+  "ok": true,
+  "heard": "Jam is right."
+ },
+ "spell-jet": {
+  "made": "bf_isabella@0.85|Can you spell jet?",
+  "ok": true,
+  "heard": "Can you spell jet?"
+ },
+ "word-jet": {
+  "made": "bf_isabella@0.85|Jet is right!",
+  "ok": true,
+  "heard": "Jet is right."
+ },
+ "spell-jug": {
+  "made": "bf_isabella@0.85|Can you spell jug?",
+  "ok": true,
+  "heard": "Can you spell Jug?"
+ },
+ "word-jug": {
+  "made": "bf_isabella@0.85|Jug is right!",
+  "ok": true,
+  "heard": "Jug is right."
+ },
+ "spell-van": {
+  "made": "bf_isabella@0.85|Can you spell van?",
+  "ok": true,
+  "heard": "Can you spell van?"
+ },
+ "word-van": {
+  "made": "bf_isabella@0.85|Van is right!",
+  "ok": true,
+  "heard": "Van is right."
+ },
+ "spell-web": {
+  "made": "bf_isabella@0.85|Can you spell web?",
+  "ok": true,
+  "heard": "Can you spell web?"
+ },
+ "word-web": {
+  "made": "bf_isabella@0.85|Web is right!",
+  "ok": true,
+  "heard": "Web is right."
+ },
+ "spell-wig": {
+  "made": "bf_isabella@0.85|Can you spell wig?",
+  "ok": true,
+  "heard": "Can you spell wig?"
+ },
+ "word-wig": {
+  "made": "bf_isabella@0.85|Wig is right!",
+  "ok": true,
+  "heard": "Wig is right."
+ },
+ "spell-yak": {
+  "made": "bf_isabella@0.85|Can you spell yak?",
+  "ok": true,
+  "heard": "Can you spell yak?"
+ },
+ "word-yak": {
+  "made": "bf_isabella@0.85|Yak is right!",
+  "ok": true,
+  "heard": "Yak is right."
+ },
+ "spell-zip": {
+  "made": "bf_isabella@0.85|Can you spell zip?",
+  "ok": true,
+  "heard": "Can you spell zip?"
+ },
+ "word-zip": {
+  "made": "bf_isabella@0.85|Zip is right!",
+  "ok": true,
+  "heard": "Zip is right."
+ },
+ "spell-ham": {
+  "made": "bf_isabella@0.85|Can you spell ham?",
+  "ok": true,
+  "heard": "Can you spell ham?"
+ },
+ "word-ham": {
+  "made": "bf_isabella@0.85|Ham is right!",
+  "ok": true,
+  "heard": "Ham is right."
+ },
+ "spell-cub": {
+  "made": "bf_isabella@0.85|Can you spell cub?",
+  "ok": true,
+  "heard": "Can you spell cub?"
+ },
+ "word-cub": {
+  "made": "bf_isabella@0.85|Cub is right!",
+  "ok": true,
+  "heard": "Cub is right."
+ },
+ "spell-sad": {
+  "made": "bf_isabella@0.85|Can you spell sad?",
+  "ok": true,
+  "heard": "Can you spell sad?"
+ },
+ "word-sad": {
+  "made": "bf_isabella@0.85|Sad is right!",
+  "ok": true,
+  "heard": "Sad is right."
+ },
+ "spell-mud": {
+  "made": "bf_isabella@0.85|Can you spell mud?",
+  "ok": true,
+  "heard": "Can you spell mud?"
+ },
+ "word-mud": {
+  "made": "bf_isabella@0.85|Mud is right!",
+  "ok": true,
+  "heard": "Mud is right."
+ },
+ "spell-gum": {
+  "made": "bf_isabella@0.85|Can you spell gum?",
+  "ok": true,
+  "heard": "Can you spell gum?"
+ },
+ "word-gum": {
+  "made": "bf_isabella@0.85|Gum is right!",
+  "ok": true,
+  "heard": "Gum is right."
+ },
+ "spell-ram": {
+  "made": "bf_isabella@0.85|Can you spell ram?",
+  "ok": true,
+  "heard": "Can you spell Ram?"
+ },
+ "word-ram": {
+  "made": "bf_isabella@0.85|Ram is right!",
+  "ok": true,
+  "heard": "Ram is right."
+ },
+ "spell-red": {
+  "made": "bf_isabella@0.85|Can you spell red?",
+  "ok": true,
+  "heard": "Can you spell red?"
+ },
+ "word-red": {
+  "made": "bf_isabella@0.85|Red is right!",
+  "ok": true,
+  "heard": "Red is right."
+ },
+ "spell-dot": {
+  "made": "bf_isabella@0.85|Can you spell dot?",
+  "ok": true,
+  "heard": "Can you spell dot?"
+ },
+ "word-dot": {
+  "made": "bf_isabella@0.85|Dot is right!",
+  "ok": true,
+  "heard": "Dot is right."
+ },
+ "spell-pod": {
+  "made": "bf_isabella@0.85|Can you spell pod?",
+  "ok": true,
+  "heard": "Can you spell pod?"
+ },
+ "word-pod": {
+  "made": "bf_isabella@0.85|Pod is right!",
+  "ok": true,
+  "heard": "Pod is right."
+ },
+ "spell-cod": {
+  "made": "bf_isabella@0.85|Can you spell cod?",
+  "ok": true,
+  "heard": "Can you spell COD?"
+ },
+ "word-cod": {
+  "made": "bf_isabella@0.85|Cod is right!",
+  "ok": true,
+  "heard": "COD is right."
+ },
+ "spell-tag": {
+  "made": "bf_isabella@0.85|Can you spell tag?",
+  "ok": true,
+  "heard": "Can you spell tag?"
+ },
+ "word-tag": {
+  "made": "bf_isabella@0.85|Tag is right!",
+  "ok": true,
+  "heard": "Tag is right."
+ },
+ "spell-sub": {
+  "made": "bf_isabella@0.85|Can you spell sub?",
+  "ok": true,
+  "heard": "Can you spell sub?"
+ },
+ "word-sub": {
+  "made": "bf_isabella@0.85|Sub is right!",
+  "ok": true,
+  "heard": "Sub is right."
+ },
+ "spell-tug": {
+  "made": "bf_isabella@0.85|Can you spell tug?",
+  "ok": true,
+  "heard": "Can you spell tug?"
+ },
+ "word-tug": {
+  "made": "bf_isabella@0.85|Tug is right!",
+  "ok": true,
+  "heard": "Tug is right."
+ },
+ "spell-mat": {
+  "made": "bf_isabella@0.85|Can you spell mat?",
+  "ok": true,
+  "heard": "Can you spell Matt?"
+ },
+ "word-mat": {
+  "made": "bf_isabella@0.85|Mat is right!",
+  "ok": true,
+  "heard": "Matt is right."
+ },
+ "spell-lip": {
+  "made": "bf_isabella@0.85|Can you spell lip?",
+  "ok": true,
+  "heard": "Can you spell lip?"
+ },
+ "word-lip": {
+  "made": "bf_isabella@0.85|Lip is right!",
+  "ok": true,
+  "heard": "Lip is right."
+ },
+ "spell-mum": {
+  "made": "bf_isabella@0.85|Can you spell mum?",
+  "ok": true,
+  "heard": "Can you spell mum?"
+ },
+ "word-mum": {
+  "made": "bf_isabella@0.85|Mum is right!",
+  "ok": true,
+  "heard": "Mum is right."
+ },
+ "spell-dad": {
+  "made": "bf_isabella@0.85|Can you spell dad?",
+  "ok": true,
+  "heard": "Can you spell dad?"
+ },
+ "word-dad": {
+  "made": "bf_isabella@0.85|Dad is right!",
+  "ok": true,
+  "heard": "Dad is right."
+ },
+ "spell-rod": {
+  "made": "bf_isabella@0.85|Can you spell rod?",
+  "ok": true,
+  "heard": "Can you spell Rod?"
+ },
+ "word-rod": {
+  "made": "bf_isabella@0.85|Rod is right!",
+  "ok": true,
+  "heard": "Rod is right."
+ },
+ "spell-bud": {
+  "made": "bf_isabella@0.85|Can you spell bud?",
+  "ok": true,
+  "heard": "Can you spell bud?"
+ },
+ "word-bud": {
+  "made": "bf_isabella@0.85|Bud is right!",
+  "ok": true,
+  "heard": "Bud is right."
+ },
+ "spell-cab": {
+  "made": "bf_isabella@0.85|Can you spell cab?",
+  "ok": true,
+  "heard": "Can you spell cab?"
+ },
+ "word-cab": {
+  "made": "bf_isabella@0.85|Cab is right!",
+  "ok": true,
+  "heard": "CAB is right."
+ },
+ "spell-pad": {
+  "made": "bf_isabella@0.85|Can you spell pad?",
+  "ok": true,
+  "heard": "Can you spell pad?"
+ },
+ "word-pad": {
+  "made": "bf_isabella@0.85|Pad is right!",
+  "ok": true,
+  "heard": "Pad is right."
+ },
+ "spell-fin": {
+  "made": "bf_isabella@0.85|Can you spell fin?",
+  "ok": true,
+  "heard": "Can you spell Finn?"
+ },
+ "word-fin": {
+  "made": "bf_isabella@0.85|Fin is right!",
+  "ok": true,
+  "heard": "Finn is right."
+ },
+ "spell-bib": {
+  "made": "bf_isabella@0.85|Can you spell bib?",
+  "ok": true,
+  "heard": "Can you spell bib?"
+ },
+ "word-bib": {
+  "made": "bf_isabella@0.85|Bib is right!",
+  "ok": true,
+  "heard": "Bibb is right."
+ },
+ "spell-cob": {
+  "made": "bf_isabella@0.85|Can you spell cob?",
+  "ok": true,
+  "heard": "Can you spell cob?"
+ },
+ "word-cob": {
+  "made": "bf_isabella@0.85|Cob is right!",
+  "ok": true,
+  "heard": "Cobb is right."
+ },
+ "spell-yam": {
+  "made": "bf_isabella@0.85|Can you spell yam?",
+  "ok": true,
+  "heard": "Can you spell yam?"
+ },
+ "word-yam": {
+  "made": "bf_isabella@0.85|Yam is right!",
+  "ok": true,
+  "heard": "Yam is right."
+ },
+ "spell-wok": {
+  "made": "bf_isabella@0.85|Can you spell wok?",
+  "ok": true,
+  "heard": "Can you spell wok?"
+ },
+ "word-wok": {
+  "made": "bf_isabella@0.85|Wok is right!",
+  "ok": true,
+  "heard": "Wok is right."
+ },
+ "spell-kid": {
+  "made": "bf_isabella@0.85|Can you spell kid?",
+  "ok": true,
+  "heard": "Can you spell kid?"
+ },
+ "word-kid": {
+  "made": "bf_isabella@0.85|Kid is right!",
+  "ok": true,
+  "heard": "Kid is right."
+ },
+ "spell-nap": {
+  "made": "bf_isabella@0.85|Can you spell nap?",
+  "ok": true,
+  "heard": "Can you spell nap?"
+ },
+ "word-nap": {
+  "made": "bf_isabella@0.85|Nap is right!",
+  "ok": true,
+  "heard": "NAP is right."
+ },
+ "spell-dig": {
+  "made": "bf_isabella@0.85|Can you spell dig?",
+  "ok": true,
+  "heard": "Can you spell dig?"
+ },
+ "word-dig": {
+  "made": "bf_isabella@0.85|Dig is right!",
+  "ok": true,
+  "heard": "Dig is right."
+ },
+ "spell-tent": {
+  "made": "bf_isabella@0.85|Can you spell tent?",
+  "ok": true,
+  "heard": "Can you spell tent?"
+ },
+ "word-tent": {
+  "made": "bf_isabella@0.85|Tent is right!",
+  "ok": true,
+  "heard": "Tent is right."
+ },
+ "spell-nest": {
+  "made": "bf_isabella@0.85|Can you spell nest?",
+  "ok": true,
+  "heard": "Can you spell nest?"
+ },
+ "word-nest": {
+  "made": "bf_isabella@0.85|Nest is right!",
+  "ok": true,
+  "heard": "Nest is right."
+ },
+ "spell-drum": {
+  "made": "bf_isabella@0.85|Can you spell drum?",
+  "ok": true,
+  "heard": "Can you spell drum?"
+ },
+ "word-drum": {
+  "made": "bf_isabella@0.85|Drum is right!",
+  "ok": true,
+  "heard": "Drum is right."
+ },
+ "spell-gift": {
+  "made": "bf_isabella@0.85|Can you spell gift?",
+  "ok": true,
+  "heard": "Can you spell gift?"
+ },
+ "word-gift": {
+  "made": "bf_isabella@0.85|Gift is right!",
+  "ok": true,
+  "heard": "Gift is right."
+ },
+ "spell-hand": {
+  "made": "bf_isabella@0.85|Can you spell hand?",
+  "ok": true,
+  "heard": "Can you spell hand?"
+ },
+ "word-hand": {
+  "made": "bf_isabella@0.85|Hand is right!",
+  "ok": true,
+  "heard": "Hand is right."
+ },
+ "spell-lamp": {
+  "made": "bf_isabella@0.85|Can you spell lamp?",
+  "ok": true,
+  "heard": "Can you spell lamp?"
+ },
+ "word-lamp": {
+  "made": "bf_isabella@0.85|Lamp is right!",
+  "ok": true,
+  "heard": "Lamp is right."
+ },
+ "spell-frog": {
+  "made": "bf_isabella@0.85|Can you spell frog?",
+  "ok": true,
+  "heard": "Can you spell frog?"
+ },
+ "word-frog": {
+  "made": "bf_isabella@0.85|Frog is right!",
+  "ok": true,
+  "heard": "Frog is right."
+ },
+ "spell-flag": {
+  "made": "bf_isabella@0.85|Can you spell flag?",
+  "ok": true,
+  "heard": "Can you spell flag?"
+ },
+ "word-flag": {
+  "made": "bf_isabella@0.85|Flag is right!",
+  "ok": true,
+  "heard": "Flag is right."
+ },
+ "spell-crab": {
+  "made": "bf_isabella@0.85|Can you spell crab?",
+  "ok": true,
+  "heard": "Can you spell crab?"
+ },
+ "word-crab": {
+  "made": "bf_isabella@0.85|Crab is right!",
+  "ok": true,
+  "heard": "Crab is right."
+ },
+ "spell-milk": {
+  "made": "bf_isabella@0.85|Can you spell milk?",
+  "ok": true,
+  "heard": "Can you spell milk?"
+ },
+ "word-milk": {
+  "made": "bf_isabella@0.85|Milk is right!",
+  "ok": true,
+  "heard": "Milk is right."
+ },
+ "spell-belt": {
+  "made": "bf_isabella@0.85|Can you spell belt?",
+  "ok": true,
+  "heard": "Can you spell belt?"
+ },
+ "word-belt": {
+  "made": "bf_isabella@0.85|Belt is right!",
+  "ok": true,
+  "heard": "Belt is right."
+ },
+ "spell-desk": {
+  "made": "bf_isabella@0.85|Can you spell desk?",
+  "ok": true,
+  "heard": "Can you spell desk?"
+ },
+ "word-desk": {
+  "made": "bf_isabella@0.85|Desk is right!",
+  "ok": true,
+  "heard": "Desk is right."
+ },
+ "spell-plum": {
+  "made": "bf_isabella@0.85|Can you spell plum?",
+  "ok": true,
+  "heard": "Can you spell plumb?"
+ },
+ "word-plum": {
+  "made": "bf_isabella@0.85|Plum is right!",
+  "ok": true,
+  "heard": "Plum is right."
+ },
+ "spell-twig": {
+  "made": "bf_isabella@0.85|Can you spell twig?",
+  "ok": true,
+  "heard": "Can you spell Twig?"
+ },
+ "word-twig": {
+  "made": "bf_isabella@0.85|Twig is right!",
+  "ok": true,
+  "heard": "Twig is right."
+ },
+ "spell-slug": {
+  "made": "bf_isabella@0.85|Can you spell slug?",
+  "ok": true,
+  "heard": "Can you spell slug?"
+ },
+ "word-slug": {
+  "made": "bf_isabella@0.85|Slug is right!",
+  "ok": true,
+  "heard": "Slug is right."
+ },
+ "spell-pond": {
+  "made": "bf_isabella@0.85|Can you spell pond?",
+  "ok": true,
+  "heard": "Can you spell pond?"
+ },
+ "word-pond": {
+  "made": "bf_isabella@0.85|Pond is right!",
+  "ok": true,
+  "heard": "Pond is right."
+ },
+ "spell-sand": {
+  "made": "bf_isabella@0.85|Can you spell sand?",
+  "ok": true,
+  "heard": "Can you spell sand?"
+ },
+ "word-sand": {
+  "made": "bf_isabella@0.85|Sand is right!",
+  "ok": true,
+  "heard": "Sand is right."
+ },
+ "spell-vest": {
+  "made": "bf_isabella@0.85|Can you spell vest?",
+  "ok": true,
+  "heard": "Can you spell vest?"
+ },
+ "word-vest": {
+  "made": "bf_isabella@0.85|Vest is right!",
+  "ok": true,
+  "heard": "Vest is right."
+ },
+ "spell-mint": {
+  "made": "bf_isabella@0.85|Can you spell mint?",
+  "ok": true,
+  "heard": "Can you spell Mint?"
+ },
+ "word-mint": {
+  "made": "bf_isabella@0.85|Mint is right!",
+  "ok": true,
+  "heard": "Mint is right."
+ },
+ "start-slots": {
+  "made": "bf_isabella@0.85|Let's make some words!",
+  "ok": true,
+  "heard": "Let's make some words."
+ },
+ "game-word-slots": {
+  "made": "bf_isabella@0.85|Word Slots!",
+  "ok": true,
+  "heard": "word slots"
+ },
+ "make-sun": {
+  "made": "bf_isabella@0.85|Can you make the word sun?",
+  "ok": true,
+  "heard": "Can you make the word sun?"
+ },
+ "make-bun": {
+  "made": "bf_isabella@0.85|Can you make the word bun?",
+  "ok": true,
+  "heard": "Can you make the word bun?"
+ },
+ "make-tap": {
+  "made": "bf_isabella@0.85|Can you make the word tap?",
+  "ok": true,
+  "heard": "Can you make the word tap?"
+ },
+ "make-map": {
+  "made": "bf_isabella@0.85|Can you make the word map?",
+  "ok": true,
+  "heard": "Can you make the word map?"
+ },
+ "make-cap": {
+  "made": "bf_isabella@0.85|Can you make the word cap?",
+  "ok": true,
+  "heard": "Can you make the word cap?"
+ },
+ "make-nap": {
+  "made": "bf_isabella@0.85|Can you make the word nap?",
+  "ok": true,
+  "heard": "Can you make the word nap?"
+ },
+ "make-ten": {
+  "made": "bf_isabella@0.85|Can you make the word ten?",
+  "ok": true,
+  "heard": "Can you make the word ten?"
+ },
+ "make-pen": {
+  "made": "bf_isabella@0.85|Can you make the word pen?",
+  "ok": true,
+  "heard": "Can you make the word pen?"
+ },
+ "make-hen": {
+  "made": "bf_isabella@0.85|Can you make the word hen?",
+  "ok": true,
+  "heard": "Can you make the word hen?"
+ },
+ "make-tub": {
+  "made": "bf_isabella@0.85|Can you make the word tub?",
+  "ok": true,
+  "heard": "Can you make the word tub?"
+ },
+ "make-cub": {
+  "made": "bf_isabella@0.85|Can you make the word cub?",
+  "ok": true,
+  "heard": "Can you make the word cub?"
+ },
+ "make-sub": {
+  "made": "bf_isabella@0.85|Can you make the word sub?",
+  "ok": true,
+  "heard": "Can you make the word sub?"
+ },
+ "make-pig": {
+  "made": "bf_isabella@0.85|Can you make the word pig?",
+  "ok": true,
+  "heard": "Can you make the word pig?"
+ },
+ "make-fig": {
+  "made": "bf_isabella@0.85|Can you make the word fig?",
+  "ok": true,
+  "heard": "Can you make the word fig?"
+ },
+ "make-wig": {
+  "made": "bf_isabella@0.85|Can you make the word wig?",
+  "ok": true,
+  "heard": "Can you make the word wig?"
+ },
+ "make-dig": {
+  "made": "bf_isabella@0.85|Can you make the word dig?",
+  "ok": true,
+  "heard": "Can you make the word dig?"
+ },
+ "make-pan": {
+  "made": "bf_isabella@0.85|Can you make the word pan?",
+  "ok": true,
+  "heard": "Can you make the word pan?"
+ },
+ "make-can": {
+  "made": "bf_isabella@0.85|Can you make the word can?",
+  "ok": true,
+  "heard": "Can you make the word can?"
+ },
+ "make-fan": {
+  "made": "bf_isabella@0.85|Can you make the word fan?",
+  "ok": true,
+  "heard": "Can you make the word fan?"
+ },
+ "make-van": {
+  "made": "bf_isabella@0.85|Can you make the word van?",
+  "ok": true,
+  "heard": "Can you make the word van?"
+ },
+ "make-pin": {
+  "made": "bf_isabella@0.85|Can you make the word pin?",
+  "ok": true,
+  "heard": "Can you make the word pin?"
+ },
+ "make-bin": {
+  "made": "bf_isabella@0.85|Can you make the word bin?",
+  "ok": true,
+  "heard": "Can you make the word bin?"
+ },
+ "make-fin": {
+  "made": "bf_isabella@0.85|Can you make the word fin?",
+  "ok": true,
+  "heard": "Can you make the word Finn?"
+ },
+ "make-pot": {
+  "made": "bf_isabella@0.85|Can you make the word pot?",
+  "ok": true,
+  "heard": "Can you make the word pot?"
+ },
+ "make-cot": {
+  "made": "bf_isabella@0.85|Can you make the word cot?",
+  "ok": true,
+  "heard": "Can you make the word cot?"
+ },
+ "make-dot": {
+  "made": "bf_isabella@0.85|Can you make the word dot?",
+  "ok": true,
+  "heard": "Can you make the word dot?"
+ },
+ "make-peg": {
+  "made": "bf_isabella@0.85|Can you make the word peg?",
+  "ok": true,
+  "heard": "Can you make the word peg?"
+ },
+ "make-leg": {
+  "made": "bf_isabella@0.85|Can you make the word leg?",
+  "ok": true,
+  "heard": "Can you make the word leg?"
+ },
+ "make-pup": {
+  "made": "bf_isabella@0.85|Can you make the word pup?",
+  "ok": true,
+  "heard": "Can you make the word pup?"
+ },
+ "make-cup": {
+  "made": "bf_isabella@0.85|Can you make the word cup?",
+  "ok": true,
+  "heard": "Can you make the word cup?"
+ },
+ "make-nut": {
+  "made": "bf_isabella@0.85|Can you make the word nut?",
+  "ok": true,
+  "heard": "Can you make the word nut?"
+ },
+ "make-hut": {
+  "made": "bf_isabella@0.85|Can you make the word hut?",
+  "ok": true,
+  "heard": "Can you make the word HUT?"
+ },
+ "make-net": {
+  "made": "bf_isabella@0.85|Can you make the word net?",
+  "ok": true,
+  "heard": "Can you make the word net?"
+ },
+ "make-jet": {
+  "made": "bf_isabella@0.85|Can you make the word jet?",
+  "ok": true,
+  "heard": "Can you make the word jet?"
+ },
+ "make-mug": {
+  "made": "bf_isabella@0.85|Can you make the word mug?",
+  "ok": true,
+  "heard": "Can you make the word mug?"
+ },
+ "make-rug": {
+  "made": "bf_isabella@0.85|Can you make the word rug?",
+  "ok": true,
+  "heard": "Can you make the word rug?"
+ },
+ "make-bug": {
+  "made": "bf_isabella@0.85|Can you make the word bug?",
+  "ok": true,
+  "heard": "Can you make the word bug?"
+ },
+ "make-jug": {
+  "made": "bf_isabella@0.85|Can you make the word jug?",
+  "ok": true,
+  "heard": "Can you make the word JUG?"
+ },
+ "make-tug": {
+  "made": "bf_isabella@0.85|Can you make the word tug?",
+  "ok": true,
+  "heard": "Can you make the word tug?"
+ },
+ "make-dog": {
+  "made": "bf_isabella@0.85|Can you make the word dog?",
+  "ok": true,
+  "heard": "Can you make the word dog?"
+ },
+ "make-log": {
+  "made": "bf_isabella@0.85|Can you make the word log?",
+  "ok": true,
+  "heard": "Can you make the word log?"
+ },
+ "make-cat": {
+  "made": "bf_isabella@0.85|Can you make the word cat?",
+  "ok": true,
+  "heard": "Can you make the word cat?"
+ },
+ "make-rat": {
+  "made": "bf_isabella@0.85|Can you make the word rat?",
+  "ok": true,
+  "heard": "Can you make the word rat?"
+ },
+ "make-hat": {
+  "made": "bf_isabella@0.85|Can you make the word hat?",
+  "ok": true,
+  "heard": "Can you make the word hat?"
+ },
+ "make-bat": {
+  "made": "bf_isabella@0.85|Can you make the word bat?",
+  "ok": true,
+  "heard": "Can you make the word bat?"
+ },
+ "make-mat": {
+  "made": "bf_isabella@0.85|Can you make the word mat?",
+  "ok": true,
+  "heard": "Can you make the word Matt?"
+ },
+ "make-bed": {
+  "made": "bf_isabella@0.85|Can you make the word bed?",
+  "ok": true,
+  "heard": "Can you make the word bed?"
+ },
+ "make-red": {
+  "made": "bf_isabella@0.85|Can you make the word red?",
+  "ok": true,
+  "heard": "Can you make the word red?"
+ },
+ "make-bag": {
+  "made": "bf_isabella@0.85|Can you make the word bag?",
+  "ok": true,
+  "heard": "Can you make the word bag?"
+ },
+ "make-tag": {
+  "made": "bf_isabella@0.85|Can you make the word tag?",
+  "ok": true,
+  "heard": "Can you make the word tag?"
+ },
+ "make-box": {
+  "made": "bf_isabella@0.85|Can you make the word box?",
+  "ok": true,
+  "heard": "Can you make the word box?"
+ },
+ "make-fox": {
+  "made": "bf_isabella@0.85|Can you make the word fox?",
+  "ok": true,
+  "heard": "Can you make the word fox?"
+ },
+ "make-lid": {
+  "made": "bf_isabella@0.85|Can you make the word lid?",
+  "ok": true,
+  "heard": "Can you make the word LID?"
+ },
+ "make-kid": {
+  "made": "bf_isabella@0.85|Can you make the word kid?",
+  "ok": true,
+  "heard": "Can you make the word kid?"
+ },
+ "make-jam": {
+  "made": "bf_isabella@0.85|Can you make the word jam?",
+  "ok": true,
+  "heard": "Can you make the word jam?"
+ },
+ "make-ham": {
+  "made": "bf_isabella@0.85|Can you make the word ham?",
+  "ok": true,
+  "heard": "Can you make the word ham?"
+ },
+ "make-ram": {
+  "made": "bf_isabella@0.85|Can you make the word ram?",
+  "ok": true,
+  "heard": "Can you make the word RAM?"
+ },
+ "make-yam": {
+  "made": "bf_isabella@0.85|Can you make the word yam?",
+  "ok": true,
+  "heard": "Can you make the word yam?"
+ },
+ "make-zip": {
+  "made": "bf_isabella@0.85|Can you make the word zip?",
+  "ok": true,
+  "heard": "Can you make the word zip?"
+ },
+ "make-lip": {
+  "made": "bf_isabella@0.85|Can you make the word lip?",
+  "ok": true,
+  "heard": "Can you make the word lip?"
+ },
+ "make-sad": {
+  "made": "bf_isabella@0.85|Can you make the word sad?",
+  "ok": true,
+  "heard": "Can you make the word sad?"
+ },
+ "make-dad": {
+  "made": "bf_isabella@0.85|Can you make the word dad?",
+  "ok": true,
+  "heard": "Can you make the word dad?"
+ },
+ "make-pad": {
+  "made": "bf_isabella@0.85|Can you make the word pad?",
+  "ok": true,
+  "heard": "Can you make the word pad?"
+ },
+ "make-mud": {
+  "made": "bf_isabella@0.85|Can you make the word mud?",
+  "ok": true,
+  "heard": "Can you make the word mud?"
+ },
+ "make-bud": {
+  "made": "bf_isabella@0.85|Can you make the word bud?",
+  "ok": true,
+  "heard": "Can you make the word bud?"
+ },
+ "make-gum": {
+  "made": "bf_isabella@0.85|Can you make the word gum?",
+  "ok": true,
+  "heard": "Can you make the word gum?"
+ },
+ "make-mum": {
+  "made": "bf_isabella@0.85|Can you make the word mum?",
+  "ok": true,
+  "heard": "Can you make the word mum?"
+ },
+ "make-pod": {
+  "made": "bf_isabella@0.85|Can you make the word pod?",
+  "ok": true,
+  "heard": "Can you make the word pod?"
+ },
+ "make-cod": {
+  "made": "bf_isabella@0.85|Can you make the word cod?",
+  "ok": true,
+  "heard": "Can you make the word cod?"
+ },
+ "make-rod": {
+  "made": "bf_isabella@0.85|Can you make the word rod?",
+  "ok": true,
+  "heard": "Can you make the word rod?"
+ },
+ "ask-f-run": {
+  "made": "bf_isabella@0.85|Pop the first sound in run.",
+  "ok": true,
+  "heard": "Pop the first sound in Run."
+ },
+ "ask-m-run": {
+  "made": "bf_isabella@0.85|Pop the middle sound in run.",
+  "ok": true,
+  "heard": "Pop the middle sound in Run."
+ },
+ "ask-l-run": {
+  "made": "bf_isabella@0.85|Pop the last sound in run.",
+  "ok": true,
+  "heard": "Pop the last sound in Run."
+ },
+ "ask-f-sip": {
+  "made": "bf_isabella@0.85|Pop the first sound in sip.",
+  "ok": true,
+  "heard": "Pop the first sound in Sip"
+ },
+ "ask-m-sip": {
+  "made": "bf_isabella@0.85|Pop the middle sound in sip.",
+  "ok": true,
+  "heard": "Pop the middle sound in sip."
+ },
+ "ask-l-sip": {
+  "made": "bf_isabella@0.85|Pop the last sound in sip.",
+  "ok": true,
+  "heard": "Pop the last sound in sip."
+ },
+ "ask-f-wet": {
+  "made": "bf_isabella@0.85|Pop the first sound in wet.",
+  "ok": true,
+  "heard": "Pop the first sound in wet."
+ },
+ "ask-m-wet": {
+  "made": "bf_isabella@0.85|Pop the middle sound in wet.",
+  "ok": true,
+  "heard": "Pop the middle sound in wet."
+ },
+ "ask-l-wet": {
+  "made": "bf_isabella@0.85|Pop the last sound in wet.",
+  "ok": true,
+  "heard": "Pop the last sound in wet."
+ },
+ "ask-f-fog": {
+  "made": "bf_isabella@0.85|Pop the first sound in fog.",
+  "ok": true,
+  "heard": "Pop the first sound in fog."
+ },
+ "ask-m-fog": {
+  "made": "bf_isabella@0.85|Pop the middle sound in fog.",
+  "ok": true,
+  "heard": "Pop the middle sound in fog."
+ },
+ "ask-l-fog": {
+  "made": "bf_isabella@0.85|Pop the last sound in fog.",
+  "ok": true,
+  "heard": "Pop the last sound in fog."
+ },
+ "ask-f-keg": {
+  "made": "bf_isabella@0.85|Pop the first sound in keg.",
+  "ok": true,
+  "heard": "pop the first sound in keg"
+ },
+ "ask-m-keg": {
+  "made": "bf_isabella@0.85|Pop the middle sound in keg.",
+  "ok": true,
+  "heard": "pop the middle sound in keg"
+ },
+ "ask-l-keg": {
+  "made": "bf_isabella@0.85|Pop the last sound in keg.",
+  "ok": true,
+  "heard": "Pop the last sound in keg"
+ },
+ "ask-f-cut": {
+  "made": "bf_isabella@0.85|Pop the first sound in cut.",
+  "ok": true,
+  "heard": "Pop the first sound in cut."
+ },
+ "ask-m-cut": {
+  "made": "bf_isabella@0.85|Pop the middle sound in cut.",
+  "ok": true,
+  "heard": "Pop the middle sound in cut."
+ },
+ "ask-l-cut": {
+  "made": "bf_isabella@0.85|Pop the last sound in cut.",
+  "ok": true,
+  "heard": "Pop the last sound in cut."
+ },
+ "ask-f-wag": {
+  "made": "bf_isabella@0.85|Pop the first sound in wag.",
+  "ok": true,
+  "heard": "Pop the first sound in WAG."
+ },
+ "ask-m-wag": {
+  "made": "bf_isabella@0.85|Pop the middle sound in wag.",
+  "ok": true,
+  "heard": "Pop the middle sound in WAG."
+ },
+ "ask-l-wag": {
+  "made": "bf_isabella@0.85|Pop the last sound in wag.",
+  "ok": true,
+  "heard": "Pop the last sound in WAG."
+ },
+ "ask-f-mad": {
+  "made": "bf_isabella@0.85|Pop the first sound in mad.",
+  "ok": true,
+  "heard": "Pop the first sound in mad."
+ },
+ "ask-m-mad": {
+  "made": "bf_isabella@0.85|Pop the middle sound in mad.",
+  "ok": true,
+  "heard": "Pop the middle sound in mad."
+ },
+ "ask-l-mad": {
+  "made": "bf_isabella@0.85|Pop the last sound in mad.",
+  "ok": true,
+  "heard": "Pop the last sound in mad."
+ },
+ "ask-f-top": {
+  "made": "bf_isabella@0.85|Pop the first sound in top.",
+  "ok": true,
+  "heard": "Pop the first sound in top."
+ },
+ "ask-m-top": {
+  "made": "bf_isabella@0.85|Pop the middle sound in top.",
+  "ok": true,
+  "heard": "Pop the middle sound in top."
+ },
+ "ask-l-top": {
+  "made": "bf_isabella@0.85|Pop the last sound in top.",
+  "ok": true,
+  "heard": "Pop the last sound in top."
+ },
+ "ask-f-hop": {
+  "made": "bf_isabella@0.85|Pop the first sound in hop.",
+  "ok": true,
+  "heard": "Pop the first sound in Hop"
+ },
+ "ask-m-hop": {
+  "made": "bf_isabella@0.85|Pop the middle sound in hop.",
+  "ok": true,
+  "heard": "Pop the middle sound in hop."
+ },
+ "ask-l-hop": {
+  "made": "bf_isabella@0.85|Pop the last sound in hop.",
+  "ok": true,
+  "heard": "Pop the last sound in hop."
+ },
+ "ask-f-mix": {
+  "made": "bf_isabella@0.85|Pop the first sound in mix.",
+  "ok": true,
+  "heard": "pop the first sound in Mix"
+ },
+ "ask-m-mix": {
+  "made": "bf_isabella@0.85|Pop the middle sound in mix.",
+  "ok": true,
+  "heard": "Pop the middle sound in mix."
+ },
+ "ask-l-mix": {
+  "made": "bf_isabella@0.85|Pop the last sound in mix.",
+  "ok": true,
+  "heard": "Pop the last sound in mix"
+ },
+ "ask-f-fix": {
+  "made": "bf_isabella@0.85|Pop the first sound in fix.",
+  "ok": true,
+  "heard": "pop the first sound in fix"
+ },
+ "ask-m-fix": {
+  "made": "bf_isabella@0.85|Pop the middle sound in fix.",
+  "ok": true,
+  "heard": "Pop the middle sound in fix."
+ },
+ "ask-l-fix": {
+  "made": "bf_isabella@0.85|Pop the last sound in fix.",
+  "ok": true,
+  "heard": "Pop the last sound in fix"
+ },
+ "ask-f-hug": {
+  "made": "bf_isabella@0.85|Pop the first sound in hug.",
+  "ok": true,
+  "heard": "pop the first sound in hug"
+ },
+ "ask-m-hug": {
+  "made": "bf_isabella@0.85|Pop the middle sound in hug.",
+  "ok": true,
+  "heard": "Pop the middle sound in hug."
+ },
+ "ask-l-hug": {
+  "made": "bf_isabella@0.85|Pop the last sound in hug.",
+  "ok": true,
+  "heard": "Pop the last sound in hug."
+ },
+ "ask-f-win": {
+  "made": "bf_isabella@0.85|Pop the first sound in win.",
+  "ok": true,
+  "heard": "Pop the first sound in Win."
+ },
+ "ask-m-win": {
+  "made": "bf_isabella@0.85|Pop the middle sound in win.",
+  "ok": true,
+  "heard": "Pop the middle sound in Win."
+ },
+ "ask-l-win": {
+  "made": "bf_isabella@0.85|Pop the last sound in win.",
+  "ok": true,
+  "heard": "Pop the last sound in Win."
+ },
+ "ask-f-well": {
+  "made": "bf_isabella@0.85|Pop the first sound in well.",
+  "ok": true,
+  "heard": "Pop the first sound in well."
+ },
+ "ask-f-rock": {
+  "made": "bf_isabella@0.85|Pop the first sound in rock.",
+  "ok": true,
+  "heard": "pop the first sound in rock"
+ },
+ "ask-f-lock": {
+  "made": "bf_isabella@0.85|Pop the first sound in lock.",
+  "ok": true,
+  "heard": "Pop the first sound in lock."
+ },
+ "ask-f-ring": {
+  "made": "bf_isabella@0.85|Pop the first sound in ring.",
+  "ok": true,
+  "heard": "Pop the first sound in ring."
+ },
+ "ask-f-wing": {
+  "made": "bf_isabella@0.85|Pop the first sound in wing.",
+  "ok": true,
+  "heard": "Pop the first sound in Wing."
+ },
+ "ask-f-dish": {
+  "made": "bf_isabella@0.85|Pop the first sound in dish.",
+  "ok": true,
+  "heard": "Pop the first sound in dish"
+ },
+ "ask-f-rake": {
+  "made": "bf_isabella@0.85|Pop the first sound in rake.",
+  "ok": true,
+  "heard": "Pop the first sound in rake."
+ },
+ "ask-f-lake": {
+  "made": "bf_isabella@0.85|Pop the first sound in lake.",
+  "ok": true,
+  "heard": "Pop the first sound in Lake."
+ },
+ "ask-f-nail": {
+  "made": "bf_isabella@0.85|Pop the first sound in nail.",
+  "ok": true,
+  "heard": "Pop the first sound in nail."
+ },
+ "ask-l-nail": {
+  "made": "bf_isabella@0.85|Pop the last sound in nail.",
+  "ok": true,
+  "heard": "Pop the last sound in nail."
+ },
+ "ask-f-tail": {
+  "made": "bf_isabella@0.85|Pop the first sound in tail.",
+  "ok": true,
+  "heard": "Pop the first sound in tail."
+ },
+ "ask-l-tail": {
+  "made": "bf_isabella@0.85|Pop the last sound in tail.",
+  "ok": true,
+  "heard": "Pop the last sound in tail."
+ },
+ "ask-f-sail": {
+  "made": "bf_isabella@0.85|Pop the first sound in sail.",
+  "ok": true,
+  "heard": "Pop the first sound in sale."
+ },
+ "ask-l-sail": {
+  "made": "bf_isabella@0.85|Pop the last sound in sail.",
+  "ok": true,
+  "heard": "Pop the last sound in sale."
+ },
+ "ask-f-mail": {
+  "made": "bf_isabella@0.85|Pop the first sound in mail.",
+  "ok": true,
+  "heard": "Pop the first sound in male."
+ },
+ "ask-l-mail": {
+  "made": "bf_isabella@0.85|Pop the last sound in mail.",
+  "ok": true,
+  "heard": "Pop the last sound in mail."
+ },
+ "ask-f-boat": {
+  "made": "bf_isabella@0.85|Pop the first sound in boat.",
+  "ok": true,
+  "heard": "Pop the first sound in Boat."
+ },
+ "ask-l-boat": {
+  "made": "bf_isabella@0.85|Pop the last sound in boat.",
+  "ok": true,
+  "heard": "Pop the last sound in boat."
+ },
+ "ask-f-coat": {
+  "made": "bf_isabella@0.85|Pop the first sound in coat.",
+  "ok": true,
+  "heard": "Pop the first sound in coat."
+ },
+ "ask-l-coat": {
+  "made": "bf_isabella@0.85|Pop the last sound in coat.",
+  "ok": true,
+  "heard": "Pop the last sound in coat."
+ },
+ "ask-f-hill": {
+  "made": "bf_isabella@0.85|Pop the first sound in hill.",
+  "ok": true,
+  "heard": "Pop the first sound in Hill."
+ },
+ "ask-f-pill": {
+  "made": "bf_isabella@0.85|Pop the first sound in pill.",
+  "ok": true,
+  "heard": "Pop the first sound in Pill."
+ },
+ "ask-f-mill": {
+  "made": "bf_isabella@0.85|Pop the first sound in mill.",
+  "ok": true,
+  "heard": "Pop the first sound in Mill."
+ },
+ "ask-f-wall": {
+  "made": "bf_isabella@0.85|Pop the first sound in wall.",
+  "ok": true,
+  "heard": "Pop the first sound in wall."
+ },
+ "ask-f-pump": {
+  "made": "bf_isabella@0.85|Pop the first sound in pump.",
+  "ok": true,
+  "heard": "Pop the first sound in pump"
+ },
+ "ask-l-pump": {
+  "made": "bf_isabella@0.85|Pop the last sound in pump.",
+  "ok": true,
+  "heard": "Pop the last sound in pump"
+ },
+ "ask-f-jump": {
+  "made": "bf_isabella@0.85|Pop the first sound in jump.",
+  "ok": true,
+  "heard": "Pop the first sound in jump"
+ },
+ "ask-l-jump": {
+  "made": "bf_isabella@0.85|Pop the last sound in jump.",
+  "ok": true,
+  "heard": "Pop the last sound in jump."
+ },
+ "ask-f-sink": {
+  "made": "bf_isabella@0.85|Pop the first sound in sink.",
+  "ok": true,
+  "heard": "Pop the first sound in sync."
+ },
+ "ask-l-sink": {
+  "made": "bf_isabella@0.85|Pop the last sound in sink.",
+  "ok": true,
+  "heard": "Pop the last sound in sync."
+ },
+ "ask-f-pink": {
+  "made": "bf_isabella@0.85|Pop the first sound in pink.",
+  "ok": true,
+  "heard": "Pop the first sound in pink."
+ },
+ "ask-l-pink": {
+  "made": "bf_isabella@0.85|Pop the last sound in pink.",
+  "ok": true,
+  "heard": "Pop the last sound in pink."
+ },
+ "ask-f-wink": {
+  "made": "bf_isabella@0.85|Pop the first sound in wink.",
+  "ok": true,
+  "heard": "pop the first sound in wink"
+ },
+ "ask-l-wink": {
+  "made": "bf_isabella@0.85|Pop the last sound in wink.",
+  "ok": true,
+  "heard": "Pop the last sound in wink."
+ },
+ "ask-f-book": {
+  "made": "bf_isabella@0.85|Pop the first sound in book.",
+  "ok": true,
+  "heard": "pop the first sound in book"
+ },
+ "ask-l-book": {
+  "made": "bf_isabella@0.85|Pop the last sound in book.",
+  "ok": true,
+  "heard": "pop the last sound in book"
+ },
+ "ask-f-hook": {
+  "made": "bf_isabella@0.85|Pop the first sound in hook.",
+  "ok": true,
+  "heard": "pop the first sound in hook"
+ },
+ "ask-l-hook": {
+  "made": "bf_isabella@0.85|Pop the last sound in hook.",
+  "ok": true,
+  "heard": "pop the last sound in hook"
+ },
+ "ask-f-cook": {
+  "made": "bf_isabella@0.85|Pop the first sound in cook.",
+  "ok": true,
+  "heard": "pop the first sound in cook"
+ },
+ "ask-l-cook": {
+  "made": "bf_isabella@0.85|Pop the last sound in cook.",
+  "ok": true,
+  "heard": "Pop the last sound in cook."
+ },
+ "ask-f-pool": {
+  "made": "bf_isabella@0.85|Pop the first sound in pool.",
+  "ok": true,
+  "heard": "Pop the first sound in pool."
+ },
+ "ask-l-pool": {
+  "made": "bf_isabella@0.85|Pop the last sound in pool.",
+  "ok": true,
+  "heard": "Pop the last sound in pool."
+ },
+ "ask-f-tool": {
+  "made": "bf_isabella@0.85|Pop the first sound in tool.",
+  "ok": true,
+  "heard": "Pop the first sound in tool."
+ },
+ "ask-l-tool": {
+  "made": "bf_isabella@0.85|Pop the last sound in tool.",
+  "ok": true,
+  "heard": "Pop the last sound in tool."
+ },
+ "ask-f-rose": {
+  "made": "bf_isabella@0.85|Pop the first sound in rose.",
+  "ok": true,
+  "heard": "Pop the first sound in Rose."
+ },
+ "ask-f-hose": {
+  "made": "bf_isabella@0.85|Pop the first sound in hose.",
+  "ok": true,
+  "heard": "Pop the first sound in hose."
+ },
+ "ask-f-cone": {
+  "made": "bf_isabella@0.85|Pop the first sound in cone.",
+  "ok": true,
+  "heard": "Pop the first sound in Cone."
+ },
+ "ask-f-bone": {
+  "made": "bf_isabella@0.85|Pop the first sound in bone.",
+  "ok": true,
+  "heard": "Pop the first sound in bone."
+ },
+ "ask-f-bear": {
+  "made": "bf_isabella@0.85|Pop the first sound in bear.",
+  "ok": true,
+  "heard": "Pop the first sound in Bear"
+ },
+ "ask-f-nose": {
+  "made": "bf_isabella@0.85|Pop the first sound in nose.",
+  "ok": true,
+  "heard": "Pop the first sound in nose."
+ },
+ "spell-run": {
+  "made": "bf_isabella@0.85|Can you spell run?",
+  "ok": true,
+  "heard": "Can you spell run?"
+ },
+ "word-run": {
+  "made": "bf_isabella@0.85|Run is right!",
+  "ok": true,
+  "heard": "Run is right."
+ },
+ "spell-sip": {
+  "made": "bf_isabella@0.85|Can you spell sip?",
+  "ok": true,
+  "heard": "Can you spell sip?"
+ },
+ "word-sip": {
+  "made": "bf_isabella@0.85|Sip is right!",
+  "ok": true,
+  "heard": "Sip is right."
+ },
+ "spell-wet": {
+  "made": "bf_isabella@0.85|Can you spell wet?",
+  "ok": true,
+  "heard": "Can you spell wet?"
+ },
+ "word-wet": {
+  "made": "bf_isabella@0.85|Wet is right!",
+  "ok": true,
+  "heard": "Wet is right."
+ },
+ "spell-fog": {
+  "made": "bf_isabella@0.85|Can you spell fog?",
+  "ok": true,
+  "heard": "Can you spell fog?"
+ },
+ "word-fog": {
+  "made": "bf_isabella@0.85|Fog is right!",
+  "ok": true,
+  "heard": "Fog is right."
+ },
+ "spell-keg": {
+  "made": "bf_isabella@0.85|Can you spell keg?",
+  "ok": true,
+  "heard": "Can you spell keg?"
+ },
+ "word-keg": {
+  "made": "bf_isabella@0.85|Keg is right!",
+  "ok": true,
+  "heard": "Keg is right."
+ },
+ "spell-cut": {
+  "made": "bf_isabella@0.85|Can you spell cut?",
+  "ok": true,
+  "heard": "Can you spell cut?"
+ },
+ "word-cut": {
+  "made": "bf_isabella@0.85|Cut is right!",
+  "ok": true,
+  "heard": "Cut is right."
+ },
+ "spell-wag": {
+  "made": "bf_isabella@0.85|Can you spell wag?",
+  "ok": true,
+  "heard": "Can you spell wag?"
+ },
+ "word-wag": {
+  "made": "bf_isabella@0.85|Wag is right!",
+  "ok": true,
+  "heard": "WAG is right."
+ },
+ "spell-mad": {
+  "made": "bf_isabella@0.85|Can you spell mad?",
+  "ok": true,
+  "heard": "Can you spell mad?"
+ },
+ "word-mad": {
+  "made": "bf_isabella@0.85|Mad is right!",
+  "ok": true,
+  "heard": "Mad is right."
+ },
+ "spell-top": {
+  "made": "bf_isabella@0.85|Can you spell top?",
+  "ok": true,
+  "heard": "Can you spell top?"
+ },
+ "word-top": {
+  "made": "bf_isabella@0.85|Top is right!",
+  "ok": true,
+  "heard": "Top is right."
+ },
+ "spell-hop": {
+  "made": "bf_isabella@0.85|Can you spell hop?",
+  "ok": true,
+  "heard": "Can you spell hop?"
+ },
+ "word-hop": {
+  "made": "bf_isabella@0.85|Hop is right!",
+  "ok": true,
+  "heard": "Hop is right."
+ },
+ "spell-mix": {
+  "made": "bf_isabella@0.85|Can you spell mix for me?",
+  "ok": true,
+  "heard": "Can you spell mix for me?"
+ },
+ "word-mix": {
+  "made": "bf_isabella@0.85|Mix is right!",
+  "ok": true,
+  "heard": "Mix is right."
+ },
+ "spell-fix": {
+  "made": "bf_isabella@0.85|Can you spell fix for me?",
+  "ok": true,
+  "heard": "Can you spell fix for me?"
+ },
+ "word-fix": {
+  "made": "bf_isabella@0.85|Fix is right!",
+  "ok": true,
+  "heard": "Fix is right."
+ },
+ "spell-hug": {
+  "made": "bf_isabella@0.85|Can you spell hug?",
+  "ok": true,
+  "heard": "Can you spell hug?"
+ },
+ "word-hug": {
+  "made": "bf_isabella@0.85|Hug is right!",
+  "ok": true,
+  "heard": "Hug is right."
+ },
+ "spell-win": {
+  "made": "bf_isabella@0.85|Can you spell win?",
+  "ok": true,
+  "heard": "Can you spell win?"
+ },
+ "word-win": {
+  "made": "bf_isabella@0.85|Win is right!",
+  "ok": true,
+  "heard": "Win is right."
+ },
+ "spell-pump": {
+  "made": "bf_isabella@0.85|Can you spell pump?",
+  "ok": true,
+  "heard": "Can you spell pump?"
+ },
+ "word-pump": {
+  "made": "bf_isabella@0.85|Pump is right!",
+  "ok": true,
+  "heard": "Pump is right."
+ },
+ "spell-jump": {
+  "made": "bf_isabella@0.85|Can you spell jump?",
+  "ok": true,
+  "heard": "Can you spell jump?"
+ },
+ "word-jump": {
+  "made": "bf_isabella@0.85|Jump is right!",
+  "ok": true,
+  "heard": "Jump is right."
+ },
+ "make-run": {
+  "made": "bf_isabella@0.85|Can you make the word run?",
+  "ok": true,
+  "heard": "Can you make the word run?"
+ },
+ "make-six": {
+  "made": "bf_isabella@0.85|Can you make the word six?",
+  "ok": true,
+  "heard": "Can you make the word six?"
+ },
+ "make-mix": {
+  "made": "bf_isabella@0.85|Can you make the word mix?",
+  "ok": true,
+  "heard": "Can you make the word mix?"
+ },
+ "make-fix": {
+  "made": "bf_isabella@0.85|Can you make the word fix?",
+  "ok": true,
+  "heard": "Can you make the word fix?"
+ },
+ "make-win": {
+  "made": "bf_isabella@0.85|Can you make the word win?",
+  "ok": true,
+  "heard": "Can you make the word win?"
+ },
+ "make-keg": {
+  "made": "bf_isabella@0.85|Can you make the word keg?",
+  "ok": true,
+  "heard": "Can you make the word keg?"
+ },
+ "make-cut": {
+  "made": "bf_isabella@0.85|Can you make the word cut?",
+  "ok": true,
+  "heard": "Can you make the word cut?"
+ },
+ "make-wet": {
+  "made": "bf_isabella@0.85|Can you make the word wet?",
+  "ok": true,
+  "heard": "Can you make the word wet?"
+ },
+ "make-hug": {
+  "made": "bf_isabella@0.85|Can you make the word hug?",
+  "ok": true,
+  "heard": "Can you make the word hug?"
+ },
+ "make-mop": {
+  "made": "bf_isabella@0.85|Can you make the word mop?",
+  "ok": true,
+  "heard": "Can you make the word mop?"
+ },
+ "make-top": {
+  "made": "bf_isabella@0.85|Can you make the word top?",
+  "ok": true,
+  "heard": "Can you make the word top?"
+ },
+ "make-hop": {
+  "made": "bf_isabella@0.85|Can you make the word hop?",
+  "ok": true,
+  "heard": "Can you make the word hop?"
+ },
+ "make-fog": {
+  "made": "bf_isabella@0.85|Can you make the word fog?",
+  "ok": true,
+  "heard": "Can you make the word fog?"
+ },
+ "make-wag": {
+  "made": "bf_isabella@0.85|Can you make the word wag?",
+  "ok": true,
+  "heard": "Can you make the word wag?"
+ },
+ "make-sip": {
+  "made": "bf_isabella@0.85|Can you make the word sip?",
+  "ok": true,
+  "heard": "Can you make the word sip?"
+ },
+ "make-mad": {
+  "made": "bf_isabella@0.85|Can you make the word mad?",
+  "ok": true,
+  "heard": "Can you make the word mad?"
+ },
+ "make-sock": {
+  "made": "bf_isabella@0.85|Can you make the word sock?",
+  "ok": true,
+  "heard": "Can you make the word sock?"
+ },
+ "word-sock": {
+  "made": "bf_isabella@0.85|Sock is right!",
+  "ok": true,
+  "heard": "Sock is right."
+ },
+ "make-rock": {
+  "made": "bf_isabella@0.85|Can you make the word rock?",
+  "ok": true,
+  "heard": "Can you make the word rock?"
+ },
+ "word-rock": {
+  "made": "bf_isabella@0.85|Rock is right!",
+  "ok": true,
+  "heard": "Rock is right."
+ },
+ "make-lock": {
+  "made": "bf_isabella@0.85|Can you make the word lock?",
+  "ok": true,
+  "heard": "Can you make the word lock?"
+ },
+ "word-lock": {
+  "made": "bf_isabella@0.85|Lock is right!",
+  "ok": true,
+  "heard": "Lock is right."
+ },
+ "make-king": {
+  "made": "bf_isabella@0.85|Can you make the word king?",
+  "ok": true,
+  "heard": "Can you make the word king?"
+ },
+ "word-king": {
+  "made": "bf_isabella@0.85|King is right!",
+  "ok": true,
+  "heard": "King is right."
+ },
+ "make-ring": {
+  "made": "bf_isabella@0.85|Can you make the word ring?",
+  "ok": true,
+  "heard": "Can you make the word ring?"
+ },
+ "word-ring": {
+  "made": "bf_isabella@0.85|Ring is right!",
+  "ok": true,
+  "heard": "Ring is right."
+ },
+ "make-wing": {
+  "made": "bf_isabella@0.85|Can you make the word wing?",
+  "ok": true,
+  "heard": "Can you make the word wing?"
+ },
+ "word-wing": {
+  "made": "bf_isabella@0.85|Wing is right!",
+  "ok": true,
+  "heard": "Wing is right."
+ },
+ "make-fish": {
+  "made": "bf_isabella@0.85|Can you make the word fish?",
+  "ok": true,
+  "heard": "Can you make the word fish?"
+ },
+ "word-fish": {
+  "made": "bf_isabella@0.85|Fish is right!",
+  "ok": true,
+  "heard": "Fish is right."
+ },
+ "make-dish": {
+  "made": "bf_isabella@0.85|Can you make the word dish?",
+  "ok": true,
+  "heard": "Can you make the word dish?"
+ },
+ "word-dish": {
+  "made": "bf_isabella@0.85|Dish is right!",
+  "ok": true,
+  "heard": "Dish is right."
+ },
+ "make-cake": {
+  "made": "bf_isabella@0.85|Can you make the word cake?",
+  "ok": true,
+  "heard": "Can you make the word cake?"
+ },
+ "word-cake": {
+  "made": "bf_isabella@0.85|Cake is right!",
+  "ok": true,
+  "heard": "Cake is right."
+ },
+ "make-rake": {
+  "made": "bf_isabella@0.85|Can you make the word rake?",
+  "ok": true,
+  "heard": "Can you make the word rake?"
+ },
+ "word-rake": {
+  "made": "bf_isabella@0.85|Rake is right!",
+  "ok": true,
+  "heard": "Rake is right."
+ },
+ "make-lake": {
+  "made": "bf_isabella@0.85|Can you make the word lake?",
+  "ok": true,
+  "heard": "Can you make the word lake?"
+ },
+ "word-lake": {
+  "made": "bf_isabella@0.85|Lake is right!",
+  "ok": true,
+  "heard": "Lake is right."
+ },
+ "make-nail": {
+  "made": "bf_isabella@0.85|Can you make the word nail?",
+  "ok": true,
+  "heard": "Can you make the word Nail?"
+ },
+ "word-nail": {
+  "made": "bf_isabella@0.85|Nail is right!",
+  "ok": true,
+  "heard": "Nail is right."
+ },
+ "make-tail": {
+  "made": "bf_isabella@0.85|Can you make the word tail?",
+  "ok": true,
+  "heard": "Can you make the word tail?"
+ },
+ "word-tail": {
+  "made": "bf_isabella@0.85|Tail is right!",
+  "ok": true,
+  "heard": "Tale is right."
+ },
+ "make-sail": {
+  "made": "bf_isabella@0.85|Can you make the word sail?",
+  "ok": true,
+  "heard": "Can you make the word sale?"
+ },
+ "word-sail": {
+  "made": "bf_isabella@0.85|Sail is right!",
+  "ok": true,
+  "heard": "Sail is right."
+ },
+ "make-mail": {
+  "made": "bf_isabella@0.85|Can you make the word mail?",
+  "ok": true,
+  "heard": "Can you make the word male?"
+ },
+ "word-mail": {
+  "made": "bf_isabella@0.85|Mail is right!",
+  "ok": true,
+  "heard": "Mail is right."
+ },
+ "make-goat": {
+  "made": "bf_isabella@0.85|Can you make the word goat?",
+  "ok": true,
+  "heard": "Can you make the word goat?"
+ },
+ "word-goat": {
+  "made": "bf_isabella@0.85|Goat is right!",
+  "ok": true,
+  "heard": "GOAT is right."
+ },
+ "make-boat": {
+  "made": "bf_isabella@0.85|Can you make the word boat?",
+  "ok": true,
+  "heard": "Can you make the word boat?"
+ },
+ "word-boat": {
+  "made": "bf_isabella@0.85|Boat is right!",
+  "ok": true,
+  "heard": "Boat is right."
+ },
+ "make-coat": {
+  "made": "bf_isabella@0.85|Can you make the word coat?",
+  "ok": true,
+  "heard": "Can you make the word coat?"
+ },
+ "word-coat": {
+  "made": "bf_isabella@0.85|Coat is right!",
+  "ok": true,
+  "heard": "Coat is right."
+ },
+ "make-hill": {
+  "made": "bf_isabella@0.85|Can you make the word hill?",
+  "ok": true,
+  "heard": "Can you make the word hill?"
+ },
+ "word-hill": {
+  "made": "bf_isabella@0.85|Hill is right!",
+  "ok": true,
+  "heard": "Hill is right."
+ },
+ "make-pill": {
+  "made": "bf_isabella@0.85|Can you make the word pill?",
+  "ok": true,
+  "heard": "Can you make the word pill?"
+ },
+ "word-pill": {
+  "made": "bf_isabella@0.85|Pill is right!",
+  "ok": true,
+  "heard": "Pill is right."
+ },
+ "make-mill": {
+  "made": "bf_isabella@0.85|Can you make the word mill?",
+  "ok": true,
+  "heard": "Can you make the word mill?"
+ },
+ "word-mill": {
+  "made": "bf_isabella@0.85|Mill is right!",
+  "ok": true,
+  "heard": "Mill is right."
+ },
+ "make-bell": {
+  "made": "bf_isabella@0.85|Can you make the word bell?",
+  "ok": true,
+  "heard": "Can you make the word bell?"
+ },
+ "word-bell": {
+  "made": "bf_isabella@0.85|Bell is right!",
+  "ok": true,
+  "heard": "Bell is right."
+ },
+ "make-well": {
+  "made": "bf_isabella@0.85|Can you make the word well?",
+  "ok": true,
+  "heard": "Can you make the word well?"
+ },
+ "word-well": {
+  "made": "bf_isabella@0.85|Well is right!",
+  "ok": true,
+  "heard": "Well is right."
+ },
+ "make-ball": {
+  "made": "bf_isabella@0.85|Can you make the word ball?",
+  "ok": true,
+  "heard": "Can you make the word ball?"
+ },
+ "word-ball": {
+  "made": "bf_isabella@0.85|Ball is right!",
+  "ok": true,
+  "heard": "Ball is right."
+ },
+ "make-wall": {
+  "made": "bf_isabella@0.85|Can you make the word wall?",
+  "ok": true,
+  "heard": "Can you make the word wall?"
+ },
+ "word-wall": {
+  "made": "bf_isabella@0.85|Wall is right!",
+  "ok": true,
+  "heard": "Wall is right."
+ },
+ "make-hand": {
+  "made": "bf_isabella@0.85|Can you make the word hand?",
+  "ok": true,
+  "heard": "Can you make the word hand?"
+ },
+ "make-sand": {
+  "made": "bf_isabella@0.85|Can you make the word sand?",
+  "ok": true,
+  "heard": "Can you make the word sand?"
+ },
+ "make-pump": {
+  "made": "bf_isabella@0.85|Can you make the word pump?",
+  "ok": true,
+  "heard": "Can you make the word pump?"
+ },
+ "make-jump": {
+  "made": "bf_isabella@0.85|Can you make the word jump?",
+  "ok": true,
+  "heard": "Can you make the word jump?"
+ },
+ "make-nest": {
+  "made": "bf_isabella@0.85|Can you make the word nest?",
+  "ok": true,
+  "heard": "Can you make the word nest?"
+ },
+ "make-vest": {
+  "made": "bf_isabella@0.85|Can you make the word vest?",
+  "ok": true,
+  "heard": "Can you make the word vest?"
+ },
+ "make-sink": {
+  "made": "bf_isabella@0.85|Can you make the word sink?",
+  "ok": true,
+  "heard": "Can you make the word sink?"
+ },
+ "word-sink": {
+  "made": "bf_isabella@0.85|Sink is right!",
+  "ok": true,
+  "heard": "Sink is right."
+ },
+ "make-pink": {
+  "made": "bf_isabella@0.85|Can you make the word pink?",
+  "ok": true,
+  "heard": "Can you make the word pink?"
+ },
+ "word-pink": {
+  "made": "bf_isabella@0.85|Pink is right!",
+  "ok": true,
+  "heard": "Pink is right."
+ },
+ "make-wink": {
+  "made": "bf_isabella@0.85|Can you make the word wink?",
+  "ok": true,
+  "heard": "Can you make the word wink?"
+ },
+ "word-wink": {
+  "made": "bf_isabella@0.85|Wink is right!",
+  "ok": true,
+  "heard": "Wink is right."
+ },
+ "make-book": {
+  "made": "bf_isabella@0.85|Can you make the word book?",
+  "ok": true,
+  "heard": "Can you make the word book?"
+ },
+ "word-book": {
+  "made": "bf_isabella@0.85|Book is right!",
+  "ok": true,
+  "heard": "Book is right."
+ },
+ "make-hook": {
+  "made": "bf_isabella@0.85|Can you make the word hook?",
+  "ok": true,
+  "heard": "Can you make the word hook?"
+ },
+ "word-hook": {
+  "made": "bf_isabella@0.85|Hook is right!",
+  "ok": true,
+  "heard": "Hook is right."
+ },
+ "make-cook": {
+  "made": "bf_isabella@0.85|Can you make the word cook?",
+  "ok": true,
+  "heard": "Can you make the word cook?"
+ },
+ "word-cook": {
+  "made": "bf_isabella@0.85|Cook is right!",
+  "ok": true,
+  "heard": "Cook is right."
+ },
+ "make-pool": {
+  "made": "bf_isabella@0.85|Can you make the word pool?",
+  "ok": true,
+  "heard": "Can you make the word pool?"
+ },
+ "word-pool": {
+  "made": "bf_isabella@0.85|Pool is right!",
+  "ok": true,
+  "heard": "Pool is right."
+ },
+ "make-tool": {
+  "made": "bf_isabella@0.85|Can you make the word tool?",
+  "ok": true,
+  "heard": "Can you make the word tool?"
+ },
+ "word-tool": {
+  "made": "bf_isabella@0.85|Tool is right!",
+  "ok": true,
+  "heard": "Tool is right."
+ },
+ "make-nose": {
+  "made": "bf_isabella@0.85|Can you make the word nose?",
+  "ok": true,
+  "heard": "Can you make the word nose?"
+ },
+ "word-nose": {
+  "made": "bf_isabella@0.85|Nose is right!",
+  "ok": true,
+  "heard": "Nose is right."
+ },
+ "make-rose": {
+  "made": "bf_isabella@0.85|Can you make the word rose?",
+  "ok": true,
+  "heard": "Can you make the word rose?"
+ },
+ "word-rose": {
+  "made": "bf_isabella@0.85|Rose is right!",
+  "ok": true,
+  "heard": "Rose is right."
+ },
+ "make-hose": {
+  "made": "bf_isabella@0.85|Can you make the word hose?",
+  "ok": true,
+  "heard": "Can you make the word hose?"
+ },
+ "word-hose": {
+  "made": "bf_isabella@0.85|Hose is right!",
+  "ok": true,
+  "heard": "Hose is right."
+ },
+ "make-bone": {
+  "made": "bf_isabella@0.85|Can you make the word bone?",
+  "ok": true,
+  "heard": "Can you make the word bone?"
+ },
+ "word-bone": {
+  "made": "bf_isabella@0.85|Bone is right!",
+  "ok": true,
+  "heard": "Bone is right."
+ },
+ "make-cone": {
+  "made": "bf_isabella@0.85|Can you make the word cone?",
+  "ok": true,
+  "heard": "Can you make the word cone?"
+ },
+ "word-cone": {
+  "made": "bf_isabella@0.85|Cone is right!",
+  "ok": true,
+  "heard": "Cone is right."
+ },
+ "make-bear": {
+  "made": "bf_isabella@0.85|Can you make the word bear?",
+  "ok": true,
+  "heard": "Can you make the word bear?"
+ },
+ "word-bear": {
+  "made": "bf_isabella@0.85|Bear is right!",
+  "ok": true,
+  "heard": "Bear is right."
+ },
+ "make-pear": {
+  "made": "bf_isabella@0.85|Can you make the word pear?",
+  "ok": true,
+  "heard": "Can you make the word pair?"
+ },
+ "word-pear": {
+  "made": "bf_isabella@0.85|Pear is right!",
+  "ok": true,
+  "heard": "Pair is right."
+ },
+ "start-robot": {
+  "made": "bf_isabella@0.85|Listen to the robot. Which picture is it?",
+  "ok": true,
+  "heard": "Listen to the robot, which picture is it?"
+ },
+ "game-blend-robot": {
+  "made": "bf_isabella@0.85|Blend Robot!",
+  "ok": true,
+  "heard": "Blend Robot"
+ },
+ "stretch-sun": {
+  "made": "bf_isabella@0.85|sun",
+  "ok": true,
+  "heard": "Sun"
+ },
+ "stretch-six": {
+  "made": "bf_isabella@0.85|six",
+  "ok": true,
+  "heard": "Six."
+ },
+ "stretch-tap": {
+  "made": "bf_isabella@0.85|tap",
+  "ok": true,
+  "heard": "tap"
+ },
+ "stretch-ten": {
+  "made": "bf_isabella@0.85|ten",
+  "ok": true,
+  "heard": "10"
+ },
+ "stretch-tub": {
+  "made": "bf_isabella@0.85|tub",
+  "ok": true,
+  "heard": "tub"
+ },
+ "stretch-pig": {
+  "made": "bf_isabella@0.85|pig",
+  "ok": true,
+  "heard": "Oh, pig."
+ },
+ "stretch-pan": {
+  "made": "bf_isabella@0.85|pan",
+  "ok": true,
+  "heard": "Pan"
+ },
+ "stretch-pen": {
+  "made": "bf_isabella@0.85|pen",
+  "ok": true,
+  "heard": "Pen"
+ },
+ "stretch-pin": {
+  "made": "bf_isabella@0.85|pin",
+  "ok": true,
+  "heard": "Pin"
+ },
+ "stretch-pot": {
+  "made": "bf_isabella@0.85|pot",
+  "ok": true,
+  "heard": "the pot."
+ },
+ "stretch-peg": {
+  "made": "bf_isabella@0.85|peg",
+  "ok": true,
+  "heard": "PEG"
+ },
+ "stretch-pup": {
+  "made": "bf_isabella@0.85|pup",
+  "ok": true,
+  "heard": "The Pup-"
+ },
+ "stretch-nut": {
+  "made": "bf_isabella@0.85|nut",
+  "ok": true,
+  "heard": "a nut."
+ },
+ "stretch-net": {
+  "made": "bf_isabella@0.85|net",
+  "ok": true,
+  "heard": "net"
+ },
+ "stretch-mug": {
+  "made": "bf_isabella@0.85|mug",
+  "ok": true,
+  "heard": "mug"
+ },
+ "stretch-map": {
+  "made": "bf_isabella@0.85|map",
+  "ok": true,
+  "heard": "map."
+ },
+ "stretch-mop": {
+  "made": "bf_isabella@0.85|mop",
+  "ok": true,
+  "heard": "A mop."
+ },
+ "stretch-dog": {
+  "made": "bf_isabella@0.85|dog",
+  "ok": true,
+  "heard": "Dog."
+ },
+ "stretch-cat": {
+  "made": "bf_isabella@0.85|cat",
+  "ok": true,
+  "heard": "Cat"
+ },
+ "stretch-cup": {
+  "made": "bf_isabella@0.85|cup",
+  "ok": true,
+  "heard": "Cup"
+ },
+ "stretch-cap": {
+  "made": "bf_isabella@0.85|cap",
+  "ok": true,
+  "heard": "Cap"
+ },
+ "stretch-can": {
+  "made": "bf_isabella@0.85|can",
+  "ok": true,
+  "heard": "You can."
+ },
+ "stretch-cot": {
+  "made": "bf_isabella@0.85|cot",
+  "ok": true,
+  "heard": "Caught."
+ },
+ "stretch-rat": {
+  "made": "bf_isabella@0.85|rat",
+  "ok": true,
+  "heard": "rat"
+ },
+ "stretch-rug": {
+  "made": "bf_isabella@0.85|rug",
+  "ok": true,
+  "heard": "A rug."
+ },
+ "stretch-hat": {
+  "made": "bf_isabella@0.85|hat",
+  "ok": true,
+  "heard": "Hat"
+ },
+ "stretch-hen": {
+  "made": "bf_isabella@0.85|hen",
+  "ok": true,
+  "heard": "Hen"
+ },
+ "stretch-hut": {
+  "made": "bf_isabella@0.85|hut",
+  "ok": true,
+  "heard": "The Hut."
+ },
+ "stretch-bus": {
+  "made": "bf_isabella@0.85|bus",
+  "ok": true,
+  "heard": "bus"
+ },
+ "stretch-bed": {
+  "made": "bf_isabella@0.85|bed",
+  "ok": true,
+  "heard": "A bed."
+ },
+ "stretch-bag": {
+  "made": "bf_isabella@0.85|bag",
+  "ok": true,
+  "heard": "bag"
+ },
+ "stretch-box": {
+  "made": "bf_isabella@0.85|box",
+  "ok": true,
+  "heard": "box"
+ },
+ "stretch-bat": {
+  "made": "bf_isabella@0.85|bat",
+  "ok": true,
+  "heard": "Well, bat."
+ },
+ "stretch-bun": {
+  "made": "bf_isabella@0.85|bun",
+  "ok": true,
+  "heard": "A BUN."
+ },
+ "stretch-bug": {
+  "made": "bf_isabella@0.85|bug",
+  "ok": true,
+  "heard": "bug"
+ },
+ "stretch-bin": {
+  "made": "bf_isabella@0.85|bin",
+  "ok": true,
+  "heard": "bin"
+ },
+ "stretch-fan": {
+  "made": "bf_isabella@0.85|fan",
+  "ok": true,
+  "heard": "fan"
+ },
+ "stretch-fox": {
+  "made": "bf_isabella@0.85|fox",
+  "ok": true,
+  "heard": "Fox."
+ },
+ "stretch-fig": {
+  "made": "bf_isabella@0.85|fig",
+  "ok": true,
+  "heard": "Fig."
+ },
+ "stretch-leg": {
+  "made": "bf_isabella@0.85|leg",
+  "ok": true,
+  "heard": "Leg."
+ },
+ "stretch-lid": {
+  "made": "bf_isabella@0.85|lid",
+  "ok": true,
+  "heard": "Lid"
+ },
+ "stretch-log": {
+  "made": "bf_isabella@0.85|log",
+  "ok": true,
+  "heard": "Log."
+ },
+ "stretch-jam": {
+  "made": "bf_isabella@0.85|jam",
+  "ok": true,
+  "heard": "Jam"
+ },
+ "stretch-jet": {
+  "made": "bf_isabella@0.85|jet",
+  "ok": true,
+  "heard": "Jet"
+ },
+ "stretch-jug": {
+  "made": "bf_isabella@0.85|jug",
+  "ok": true,
+  "heard": "JUG"
+ },
+ "stretch-van": {
+  "made": "bf_isabella@0.85|van",
+  "ok": true,
+  "heard": "Well, Van..."
+ },
+ "stretch-web": {
+  "made": "bf_isabella@0.85|web",
+  "ok": true,
+  "heard": "Web"
+ },
+ "stretch-wig": {
+  "made": "bf_isabella@0.85|wig",
+  "ok": true,
+  "heard": "WIG"
+ },
+ "stretch-yak": {
+  "made": "bf_isabella@0.85|yak",
+  "ok": true,
+  "heard": "Oh, yak."
+ },
+ "stretch-zip": {
+  "made": "bf_isabella@0.85|zip",
+  "ok": true,
+  "heard": "Zip"
+ },
+ "stretch-ham": {
+  "made": "bf_isabella@0.85|ham",
+  "ok": true,
+  "heard": "Well ham"
+ },
+ "stretch-cub": {
+  "made": "bf_isabella@0.85|cub",
+  "ok": true,
+  "heard": "Cub"
+ },
+ "stretch-sad": {
+  "made": "bf_isabella@0.85|sad",
+  "ok": true,
+  "heard": "Sad"
+ },
+ "stretch-mud": {
+  "made": "bf_isabella@0.85|mud",
+  "ok": true,
+  "heard": "mud"
+ },
+ "stretch-gum": {
+  "made": "bf_isabella@0.85|gum",
+  "ok": true,
+  "heard": "Gum"
+ },
+ "stretch-ram": {
+  "made": "bf_isabella@0.85|ram",
+  "ok": true,
+  "heard": "Ram"
+ },
+ "stretch-red": {
+  "made": "bf_isabella@0.85|red",
+  "ok": true,
+  "heard": "red"
+ },
+ "stretch-dot": {
+  "made": "bf_isabella@0.85|dot",
+  "ok": true,
+  "heard": "Dot"
+ },
+ "stretch-pod": {
+  "made": "bf_isabella@0.85|pod",
+  "ok": true,
+  "heard": "Pod."
+ },
+ "stretch-cod": {
+  "made": "bf_isabella@0.85|cod",
+  "ok": true,
+  "heard": "Cod."
+ },
+ "stretch-tag": {
+  "made": "bf_isabella@0.85|tag",
+  "ok": true,
+  "heard": "tag"
+ },
+ "stretch-sub": {
+  "made": "bf_isabella@0.85|sub",
+  "ok": true,
+  "heard": "sub"
+ },
+ "stretch-tug": {
+  "made": "bf_isabella@0.85|tug",
+  "ok": true,
+  "heard": "TO TUG"
+ },
+ "stretch-mat": {
+  "made": "bf_isabella@0.85|mat",
+  "ok": true,
+  "heard": "Matt"
+ },
+ "stretch-lip": {
+  "made": "bf_isabella@0.85|lip",
+  "ok": true,
+  "heard": "Lip"
+ },
+ "stretch-mum": {
+  "made": "bf_isabella@0.85|mum",
+  "ok": true,
+  "heard": "Oh, Mum."
+ },
+ "stretch-dad": {
+  "made": "bf_isabella@0.85|dad",
+  "ok": true,
+  "heard": "Dad"
+ },
+ "stretch-rod": {
+  "made": "bf_isabella@0.85|rod",
+  "ok": true,
+  "heard": "Rod"
+ },
+ "stretch-bud": {
+  "made": "bf_isabella@0.85|bud",
+  "ok": true,
+  "heard": "Oh, bud."
+ },
+ "stretch-cab": {
+  "made": "bf_isabella@0.85|cab",
+  "ok": true,
+  "heard": "Cab"
+ },
+ "stretch-pad": {
+  "made": "bf_isabella@0.85|pad",
+  "ok": true,
+  "heard": "Pad"
+ },
+ "stretch-fin": {
+  "made": "bf_isabella@0.85|fin",
+  "ok": true,
+  "heard": "Finn"
+ },
+ "stretch-bib": {
+  "made": "bf_isabella@0.85|bib",
+  "ok": true,
+  "heard": "bib t-"
+ },
+ "stretch-cob": {
+  "made": "bf_isabella@0.85|cob",
+  "ok": true,
+  "heard": "Oh, cob."
+ },
+ "stretch-yam": {
+  "made": "bf_isabella@0.85|yam",
+  "ok": true,
+  "heard": "YAM!"
+ },
+ "stretch-wok": {
+  "made": "bf_isabella@0.85|wok",
+  "ok": true,
+  "heard": "a wok"
+ },
+ "stretch-kid": {
+  "made": "bf_isabella@0.85|kid",
+  "ok": true,
+  "heard": "kid"
+ },
+ "stretch-nap": {
+  "made": "bf_isabella@0.85|nap",
+  "ok": true,
+  "heard": "nap"
+ },
+ "stretch-dig": {
+  "made": "bf_isabella@0.85|dig",
+  "ok": true,
+  "heard": "Dig."
+ },
+ "stretch-run": {
+  "made": "bf_isabella@0.85|run",
+  "ok": true,
+  "heard": "Oh, run."
+ },
+ "stretch-sip": {
+  "made": "bf_isabella@0.85|sip",
+  "ok": true,
+  "heard": "sip"
+ },
+ "stretch-wet": {
+  "made": "bf_isabella@0.85|wet",
+  "ok": true,
+  "heard": "WET"
+ },
+ "stretch-fog": {
+  "made": "bf_isabella@0.85|fog",
+  "ok": true,
+  "heard": "fog"
+ },
+ "stretch-keg": {
+  "made": "bf_isabella@0.85|keg",
+  "ok": true,
+  "heard": "Keg."
+ },
+ "stretch-cut": {
+  "made": "bf_isabella@0.85|cut",
+  "ok": true,
+  "heard": "cut"
+ },
+ "stretch-wag": {
+  "made": "bf_isabella@0.85|wag",
+  "ok": true,
+  "heard": "The wag."
+ },
+ "stretch-mad": {
+  "made": "bf_isabella@0.85|mad",
+  "ok": true,
+  "heard": "So mad."
+ },
+ "stretch-top": {
+  "made": "bf_isabella@0.85|top",
+  "ok": true,
+  "heard": "top"
+ },
+ "stretch-hop": {
+  "made": "bf_isabella@0.85|hop",
+  "ok": true,
+  "heard": "The HOP"
+ },
+ "stretch-mix": {
+  "made": "bf_isabella@0.85|mix",
+  "ok": true,
+  "heard": "I'll mix."
+ },
+ "stretch-fix": {
+  "made": "bf_isabella@0.85|fix",
+  "ok": true,
+  "heard": "fix"
+ },
+ "stretch-hug": {
+  "made": "bf_isabella@0.85|hug",
+  "ok": true,
+  "heard": "Well, hug, eh?"
+ },
+ "stretch-win": {
+  "made": "bf_isabella@0.85|win",
+  "ok": true,
+  "heard": "A win."
+ },
+ "stretch-tent": {
+  "made": "bf_isabella@0.85|tent",
+  "ok": true,
+  "heard": "tent"
+ },
+ "stretch-nest": {
+  "made": "bf_isabella@0.85|nest",
+  "ok": true,
+  "heard": "nest"
+ },
+ "stretch-drum": {
+  "made": "bf_isabella@0.85|drum",
+  "ok": true,
+  "heard": "Drum"
+ },
+ "stretch-gift": {
+  "made": "bf_isabella@0.85|gift",
+  "ok": true,
+  "heard": "gift"
+ },
+ "stretch-hand": {
+  "made": "bf_isabella@0.85|hand",
+  "ok": true,
+  "heard": "Hand"
+ },
+ "stretch-lamp": {
+  "made": "bf_isabella@0.85|lamp",
+  "ok": true,
+  "heard": "lamp"
+ },
+ "stretch-frog": {
+  "made": "bf_isabella@0.85|frog",
+  "ok": true,
+  "heard": "frog"
+ },
+ "stretch-flag": {
+  "made": "bf_isabella@0.85|flag",
+  "ok": true,
+  "heard": "flag"
+ },
+ "stretch-crab": {
+  "made": "bf_isabella@0.85|crab",
+  "ok": true,
+  "heard": "Oh, crab."
+ },
+ "stretch-milk": {
+  "made": "bf_isabella@0.85|milk",
+  "ok": true,
+  "heard": "milk"
+ },
+ "stretch-belt": {
+  "made": "bf_isabella@0.85|belt",
+  "ok": true,
+  "heard": "Belt"
+ },
+ "stretch-desk": {
+  "made": "bf_isabella@0.85|desk",
+  "ok": true,
+  "heard": "desk"
+ },
+ "stretch-plum": {
+  "made": "bf_isabella@0.85|plum",
+  "ok": true,
+  "heard": "Oh, plum."
+ },
+ "stretch-twig": {
+  "made": "bf_isabella@0.85|twig",
+  "ok": true,
+  "heard": "Twig."
+ },
+ "stretch-slug": {
+  "made": "bf_isabella@0.85|slug",
+  "ok": true,
+  "heard": "slug"
+ },
+ "stretch-pond": {
+  "made": "bf_isabella@0.85|pond",
+  "ok": true,
+  "heard": "Pond."
+ },
+ "stretch-sand": {
+  "made": "bf_isabella@0.85|sand",
+  "ok": true,
+  "heard": "Sand"
+ },
+ "stretch-vest": {
+  "made": "bf_isabella@0.85|vest",
+  "ok": true,
+  "heard": "Or vest."
+ },
+ "stretch-mint": {
+  "made": "bf_isabella@0.85|mint",
+  "ok": true,
+  "heard": "or mint."
+ },
+ "stretch-pump": {
+  "made": "bf_isabella@0.85|pump",
+  "ok": true,
+  "heard": "PUMP!"
+ },
+ "stretch-jump": {
+  "made": "bf_isabella@0.85|jump",
+  "ok": true,
+  "heard": "jump"
+ },
+ "start-fishing": {
+  "made": "bf_isabella@0.85|Let's catch some fish today!",
+  "ok": true,
+  "heard": "Let's catch some fish today!"
+ },
+ "game-word-fishing": {
+  "made": "bf_isabella@0.85|Word Fishing!",
+  "ok": true,
+  "heard": "word fishing."
+ },
+ "catch-sun": {
+  "made": "bf_isabella@0.85|Can you catch the word sun?",
+  "ok": true,
+  "heard": "Can you catch the word sun?"
+ },
+ "catch-six": {
+  "made": "bf_isabella@0.85|Can you catch the word six for me?",
+  "ok": true,
+  "heard": "Can you catch the word six for me?"
+ },
+ "catch-tap": {
+  "made": "bf_isabella@0.85|Can you catch the word tap?",
+  "ok": true,
+  "heard": "Can you catch the word tap?"
+ },
+ "catch-ten": {
+  "made": "bf_isabella@0.85|Can you catch the word ten?",
+  "ok": true,
+  "heard": "Can you catch the word 10?"
+ },
+ "catch-tub": {
+  "made": "bf_isabella@0.85|Can you catch the word tub?",
+  "ok": true,
+  "heard": "Can you catch the word tub?"
+ },
+ "catch-pig": {
+  "made": "bf_isabella@0.85|Can you catch the word pig?",
+  "ok": true,
+  "heard": "Can you catch the word pig?"
+ },
+ "catch-pan": {
+  "made": "bf_isabella@0.85|Can you catch the word pan?",
+  "ok": true,
+  "heard": "Can you catch the word pan?"
+ },
+ "catch-pen": {
+  "made": "bf_isabella@0.85|Can you catch the word pen?",
+  "ok": true,
+  "heard": "Can you catch the word pen?"
+ },
+ "catch-pin": {
+  "made": "bf_isabella@0.85|Can you catch the word pin?",
+  "ok": true,
+  "heard": "Can you catch the word pin?"
+ },
+ "catch-pot": {
+  "made": "bf_isabella@0.85|Can you catch the word pot?",
+  "ok": true,
+  "heard": "Can you catch the word pot?"
+ },
+ "catch-peg": {
+  "made": "bf_isabella@0.85|Can you catch the word peg?",
+  "ok": true,
+  "heard": "Can you catch the word peg?"
+ },
+ "catch-pup": {
+  "made": "bf_isabella@0.85|Can you catch the word pup?",
+  "ok": true,
+  "heard": "Can you catch the word pup?"
+ },
+ "catch-nut": {
+  "made": "bf_isabella@0.85|Can you catch the word nut?",
+  "ok": true,
+  "heard": "Can you catch the word nut?"
+ },
+ "catch-net": {
+  "made": "bf_isabella@0.85|Can you catch the word net?",
+  "ok": true,
+  "heard": "Can you catch the word net?"
+ },
+ "catch-mug": {
+  "made": "bf_isabella@0.85|Can you catch the word mug?",
+  "ok": true,
+  "heard": "Can you catch the word mug?"
+ },
+ "catch-map": {
+  "made": "bf_isabella@0.85|Can you catch the word map?",
+  "ok": true,
+  "heard": "Can you catch the word map?"
+ },
+ "catch-mop": {
+  "made": "bf_isabella@0.85|Can you catch the word mop?",
+  "ok": true,
+  "heard": "Can you catch the word mop?"
+ },
+ "catch-dog": {
+  "made": "bf_isabella@0.85|Can you catch the word dog?",
+  "ok": true,
+  "heard": "Can you catch the word dog?"
+ },
+ "catch-cat": {
+  "made": "bf_isabella@0.85|Can you catch the word cat?",
+  "ok": true,
+  "heard": "Can you catch the word cat?"
+ },
+ "catch-cup": {
+  "made": "bf_isabella@0.85|Can you catch the word cup?",
+  "ok": true,
+  "heard": "Can you catch the word cup?"
+ },
+ "catch-cap": {
+  "made": "bf_isabella@0.85|Can you catch the word cap?",
+  "ok": true,
+  "heard": "Can you catch the word cap?"
+ },
+ "catch-can": {
+  "made": "bf_isabella@0.85|Can you catch the word can?",
+  "ok": true,
+  "heard": "Can you catch the word can?"
+ },
+ "catch-cot": {
+  "made": "bf_isabella@0.85|Can you catch the word cot?",
+  "ok": true,
+  "heard": "Can you catch the word cot?"
+ },
+ "catch-rat": {
+  "made": "bf_isabella@0.85|Can you catch the word rat?",
+  "ok": true,
+  "heard": "Can you catch the word rat?"
+ },
+ "catch-rug": {
+  "made": "bf_isabella@0.85|Can you catch the word rug?",
+  "ok": true,
+  "heard": "Can you catch the word rug?"
+ },
+ "catch-hat": {
+  "made": "bf_isabella@0.85|Can you catch the word hat?",
+  "ok": true,
+  "heard": "Can you catch the word hat?"
+ },
+ "catch-hen": {
+  "made": "bf_isabella@0.85|Can you catch the word hen?",
+  "ok": true,
+  "heard": "Can you catch the word hen?"
+ },
+ "catch-hut": {
+  "made": "bf_isabella@0.85|Can you catch the word hut?",
+  "ok": true,
+  "heard": "Can you catch the word HUT?"
+ },
+ "catch-bus": {
+  "made": "bf_isabella@0.85|Can you catch the word bus?",
+  "ok": true,
+  "heard": "Can you catch the word bus?"
+ },
+ "catch-bed": {
+  "made": "bf_isabella@0.85|Can you catch the word bed?",
+  "ok": true,
+  "heard": "Can you catch the word bed?"
+ },
+ "catch-bag": {
+  "made": "bf_isabella@0.85|Can you catch the word bag?",
+  "ok": true,
+  "heard": "Can you catch the word bag?"
+ },
+ "catch-box": {
+  "made": "bf_isabella@0.85|Can you catch the word box for me?",
+  "ok": true,
+  "heard": "Can you catch the word box for me?"
+ },
+ "catch-bat": {
+  "made": "bf_isabella@0.85|Can you catch the word bat?",
+  "ok": true,
+  "heard": "Can you catch the word bat?"
+ },
+ "catch-bun": {
+  "made": "bf_isabella@0.85|Can you catch the word bun?",
+  "ok": true,
+  "heard": "Can you catch the word bun?"
+ },
+ "catch-bug": {
+  "made": "bf_isabella@0.85|Can you catch the word bug?",
+  "ok": true,
+  "heard": "Can you catch the word bug?"
+ },
+ "catch-bin": {
+  "made": "bf_isabella@0.85|Can you catch the word bin?",
+  "ok": true,
+  "heard": "Can you catch the word bin?"
+ },
+ "catch-fan": {
+  "made": "bf_isabella@0.85|Can you catch the word fan?",
+  "ok": true,
+  "heard": "Can you catch the word fan?"
+ },
+ "catch-fox": {
+  "made": "bf_isabella@0.85|Can you catch the word fox for me?",
+  "ok": true,
+  "heard": "Can you catch the word fox for me?"
+ },
+ "catch-fig": {
+  "made": "bf_isabella@0.85|Can you catch the word fig?",
+  "ok": true,
+  "heard": "Can you catch the word fig?"
+ },
+ "catch-leg": {
+  "made": "bf_isabella@0.85|Can you catch the word leg?",
+  "ok": true,
+  "heard": "Can you catch the word leg?"
+ },
+ "catch-lid": {
+  "made": "bf_isabella@0.85|Can you catch the word lid?",
+  "ok": true,
+  "heard": "Can you catch the word LID?"
+ },
+ "catch-log": {
+  "made": "bf_isabella@0.85|Can you catch the word log?",
+  "ok": true,
+  "heard": "Can you catch the word log?"
+ },
+ "catch-jam": {
+  "made": "bf_isabella@0.85|Can you catch the word jam?",
+  "ok": true,
+  "heard": "Can you catch the word jam?"
+ },
+ "catch-jet": {
+  "made": "bf_isabella@0.85|Can you catch the word jet?",
+  "ok": true,
+  "heard": "Can you catch the word JET?"
+ },
+ "catch-jug": {
+  "made": "bf_isabella@0.85|Can you catch the word jug?",
+  "ok": true,
+  "heard": "Can you catch the word JUG?"
+ },
+ "catch-van": {
+  "made": "bf_isabella@0.85|Can you catch the word van?",
+  "ok": true,
+  "heard": "Can you catch the word van?"
+ },
+ "catch-web": {
+  "made": "bf_isabella@0.85|Can you catch the word web?",
+  "ok": true,
+  "heard": "Can you catch the word web?"
+ },
+ "catch-wig": {
+  "made": "bf_isabella@0.85|Can you catch the word wig?",
+  "ok": true,
+  "heard": "Can you catch the word wig?"
+ },
+ "catch-yak": {
+  "made": "bf_isabella@0.85|Can you catch the word yak?",
+  "ok": true,
+  "heard": "Can you catch the word yak?"
+ },
+ "catch-zip": {
+  "made": "bf_isabella@0.85|Can you catch the word zip?",
+  "ok": true,
+  "heard": "Can you catch the word zip?"
+ },
+ "catch-ham": {
+  "made": "bf_isabella@0.85|Can you catch the word ham?",
+  "ok": true,
+  "heard": "Can you catch the word ham?"
+ },
+ "catch-cub": {
+  "made": "bf_isabella@0.85|Can you catch the word cub?",
+  "ok": true,
+  "heard": "Can you catch the word cub?"
+ },
+ "catch-sad": {
+  "made": "bf_isabella@0.85|Can you catch the word sad?",
+  "ok": true,
+  "heard": "Can you catch the word sad?"
+ },
+ "catch-mud": {
+  "made": "bf_isabella@0.85|Can you catch the word mud?",
+  "ok": true,
+  "heard": "Can you catch the word mud?"
+ },
+ "catch-gum": {
+  "made": "bf_isabella@0.85|Can you catch the word gum?",
+  "ok": true,
+  "heard": "Can you catch the word gum?"
+ },
+ "catch-ram": {
+  "made": "bf_isabella@0.85|Can you catch the word ram?",
+  "ok": true,
+  "heard": "Can you catch the word RAM?"
+ },
+ "catch-red": {
+  "made": "bf_isabella@0.85|Can you catch the word red?",
+  "ok": true,
+  "heard": "Can you catch the word red?"
+ },
+ "catch-dot": {
+  "made": "bf_isabella@0.85|Can you catch the word dot?",
+  "ok": true,
+  "heard": "Can you catch the word dot?"
+ },
+ "catch-pod": {
+  "made": "bf_isabella@0.85|Can you catch the word pod?",
+  "ok": true,
+  "heard": "Can you catch the word pod?"
+ },
+ "catch-cod": {
+  "made": "bf_isabella@0.85|Can you catch the word cod?",
+  "ok": true,
+  "heard": "Can you catch the word COD?"
+ },
+ "catch-tag": {
+  "made": "bf_isabella@0.85|Can you catch the word tag?",
+  "ok": true,
+  "heard": "Can you catch the word tag?"
+ },
+ "catch-sub": {
+  "made": "bf_isabella@0.85|Can you catch the word sub?",
+  "ok": true,
+  "heard": "Can you catch the word sub?"
+ },
+ "catch-tug": {
+  "made": "bf_isabella@0.85|Can you catch the word tug?",
+  "ok": true,
+  "heard": "Can you catch the word tug?"
+ },
+ "catch-mat": {
+  "made": "bf_isabella@0.85|Can you catch the word mat?",
+  "ok": true,
+  "heard": "Can you catch the word Matt?"
+ },
+ "catch-lip": {
+  "made": "bf_isabella@0.85|Can you catch the word lip?",
+  "ok": true,
+  "heard": "Can you catch the word lip?"
+ },
+ "catch-mum": {
+  "made": "bf_isabella@0.85|Can you catch the word mum?",
+  "ok": true,
+  "heard": "Can you catch the word mum?"
+ },
+ "catch-dad": {
+  "made": "bf_isabella@0.85|Can you catch the word dad?",
+  "ok": true,
+  "heard": "Can you catch the word dad?"
+ },
+ "catch-rod": {
+  "made": "bf_isabella@0.85|Can you catch the word rod?",
+  "ok": true,
+  "heard": "Can you catch the word rod?"
+ },
+ "catch-bud": {
+  "made": "bf_isabella@0.85|Can you catch the word bud?",
+  "ok": true,
+  "heard": "Can you catch the word bud?"
+ },
+ "catch-cab": {
+  "made": "bf_isabella@0.85|Can you catch the word cab?",
+  "ok": true,
+  "heard": "Can you catch the word cab?"
+ },
+ "catch-pad": {
+  "made": "bf_isabella@0.85|Can you catch the word pad?",
+  "ok": true,
+  "heard": "Can you catch the word pad?"
+ },
+ "catch-fin": {
+  "made": "bf_isabella@0.85|Can you catch the word fin?",
+  "ok": true,
+  "heard": "Can you catch the word Finn?"
+ },
+ "catch-bib": {
+  "made": "bf_isabella@0.85|Can you catch the word bib?",
+  "ok": true,
+  "heard": "Can you catch the word bib?"
+ },
+ "catch-cob": {
+  "made": "bf_isabella@0.85|Can you catch the word cob?",
+  "ok": true,
+  "heard": "Can you catch the word cob?"
+ },
+ "catch-yam": {
+  "made": "bf_isabella@0.85|Can you catch the word yam?",
+  "ok": true,
+  "heard": "Can you catch the word yam?"
+ },
+ "catch-wok": {
+  "made": "bf_isabella@0.85|Can you catch the word wok?",
+  "ok": false,
+  "heard": "Can you catch the word walk?"
+ },
+ "catch-kid": {
+  "made": "bf_isabella@0.85|Can you catch the word kid?",
+  "ok": true,
+  "heard": "Can you catch the word kid?"
+ },
+ "catch-nap": {
+  "made": "bf_isabella@0.85|Can you catch the word nap?",
+  "ok": true,
+  "heard": "Can you catch the word nap?"
+ },
+ "catch-dig": {
+  "made": "bf_isabella@0.85|Can you catch the word dig?",
+  "ok": true,
+  "heard": "Can you catch the word dig?"
+ },
+ "catch-run": {
+  "made": "bf_isabella@0.85|Can you catch the word run?",
+  "ok": true,
+  "heard": "Can you catch the word run?"
+ },
+ "catch-sip": {
+  "made": "bf_isabella@0.85|Can you catch the word sip?",
+  "ok": true,
+  "heard": "Can you catch the word sip?"
+ },
+ "catch-wet": {
+  "made": "bf_isabella@0.85|Can you catch the word wet?",
+  "ok": true,
+  "heard": "Can you catch the word wet?"
+ },
+ "catch-fog": {
+  "made": "bf_isabella@0.85|Can you catch the word fog?",
+  "ok": true,
+  "heard": "Can you catch the word fog?"
+ },
+ "catch-keg": {
+  "made": "bf_isabella@0.85|Can you catch the word keg?",
+  "ok": true,
+  "heard": "Can you catch the word keg?"
+ },
+ "catch-cut": {
+  "made": "bf_isabella@0.85|Can you catch the word cut?",
+  "ok": true,
+  "heard": "Can you catch the word cut?"
+ },
+ "catch-wag": {
+  "made": "bf_isabella@0.85|Can you catch the word wag?",
+  "ok": true,
+  "heard": "Can you catch the word wag?"
+ },
+ "catch-mad": {
+  "made": "bf_isabella@0.85|Can you catch the word mad?",
+  "ok": true,
+  "heard": "Can you catch the word mad?"
+ },
+ "catch-top": {
+  "made": "bf_isabella@0.85|Can you catch the word top?",
+  "ok": true,
+  "heard": "Can you catch the word top?"
+ },
+ "catch-hop": {
+  "made": "bf_isabella@0.85|Can you catch the word hop?",
+  "ok": true,
+  "heard": "Can you catch the word hop?"
+ },
+ "catch-mix": {
+  "made": "bf_isabella@0.85|Can you catch the word mix for me?",
+  "ok": true,
+  "heard": "Can you catch the word mix for me?"
+ },
+ "catch-fix": {
+  "made": "bf_isabella@0.85|Can you catch the word fix for me?",
+  "ok": true,
+  "heard": "Can you catch the word fix for me?"
+ },
+ "catch-hug": {
+  "made": "bf_isabella@0.85|Can you catch the word hug?",
+  "ok": true,
+  "heard": "Can you catch the word hug?"
+ },
+ "catch-win": {
+  "made": "bf_isabella@0.85|Can you catch the word win?",
+  "ok": true,
+  "heard": "Can you catch the word win?"
+ },
+ "catch-tent": {
+  "made": "bf_isabella@0.85|Can you catch the word tent?",
+  "ok": true,
+  "heard": "Can you catch the word tent?"
+ },
+ "catch-nest": {
+  "made": "bf_isabella@0.85|Can you catch the word nest?",
+  "ok": true,
+  "heard": "Can you catch the word nest?"
+ },
+ "catch-drum": {
+  "made": "bf_isabella@0.85|Can you catch the word drum?",
+  "ok": true,
+  "heard": "Can you catch the word drum?"
+ },
+ "catch-gift": {
+  "made": "bf_isabella@0.85|Can you catch the word gift?",
+  "ok": true,
+  "heard": "Can you catch the word gift?"
+ },
+ "catch-hand": {
+  "made": "bf_isabella@0.85|Can you catch the word hand?",
+  "ok": true,
+  "heard": "Can you catch the word hand?"
+ },
+ "catch-lamp": {
+  "made": "bf_isabella@0.85|Can you catch the word lamp?",
+  "ok": true,
+  "heard": "Can you catch the word lamp?"
+ },
+ "catch-frog": {
+  "made": "bf_isabella@0.85|Can you catch the word frog?",
+  "ok": true,
+  "heard": "Can you catch the word frog?"
+ },
+ "catch-flag": {
+  "made": "bf_isabella@0.85|Can you catch the word flag?",
+  "ok": true,
+  "heard": "Can you catch the word flag?"
+ },
+ "catch-crab": {
+  "made": "bf_isabella@0.85|Can you catch the word crab?",
+  "ok": true,
+  "heard": "Can you catch the word crab?"
+ },
+ "catch-milk": {
+  "made": "bf_isabella@0.85|Can you catch the word milk?",
+  "ok": true,
+  "heard": "Can you catch the word milk?"
+ },
+ "catch-belt": {
+  "made": "bf_isabella@0.85|Can you catch the word belt?",
+  "ok": true,
+  "heard": "Can you catch the word belt?"
+ },
+ "catch-desk": {
+  "made": "bf_isabella@0.85|Can you catch the word desk?",
+  "ok": true,
+  "heard": "Can you catch the word desk?"
+ },
+ "catch-plum": {
+  "made": "bf_isabella@0.85|Can you catch the word plum?",
+  "ok": true,
+  "heard": "Can you catch the word plumb?"
+ },
+ "catch-twig": {
+  "made": "bf_isabella@0.85|Can you catch the word twig?",
+  "ok": true,
+  "heard": "Can you catch the word twig?"
+ },
+ "catch-slug": {
+  "made": "bf_isabella@0.85|Can you catch the word slug?",
+  "ok": true,
+  "heard": "Can you catch the word slug?"
+ },
+ "catch-pond": {
+  "made": "bf_isabella@0.85|Can you catch the word pond?",
+  "ok": true,
+  "heard": "Can you catch the word pond?"
+ },
+ "catch-sand": {
+  "made": "bf_isabella@0.85|Can you catch the word sand?",
+  "ok": true,
+  "heard": "Can you catch the word sand?"
+ },
+ "catch-vest": {
+  "made": "bf_isabella@0.85|Can you catch the word vest?",
+  "ok": true,
+  "heard": "Can you catch the word vest?"
+ },
+ "catch-mint": {
+  "made": "bf_isabella@0.85|Can you catch the word mint?",
+  "ok": true,
+  "heard": "Can you catch the word mint?"
+ },
+ "catch-pump": {
+  "made": "bf_isabella@0.85|Can you catch the word pump?",
+  "ok": true,
+  "heard": "Can you catch the word pump?"
+ },
+ "catch-jump": {
+  "made": "bf_isabella@0.85|Can you catch the word jump?",
+  "ok": true,
+  "heard": "Can you catch the word jump?"
+ },
+ "start-count": {
+  "made": "bf_isabella@0.85|Let's do some counting!",
+  "ok": true,
+  "heard": "Let's do some counting."
+ },
+ "count-together": {
+  "made": "bf_isabella@0.85|Let's count them together.",
+  "ok": true,
+  "heard": "Let's count them together."
+ },
+ "game-count-it": {
+  "made": "bf_isabella@0.85|Count It!",
+  "ok": true,
+  "heard": "Count it."
+ },
+ "how-many-apples": {
+  "made": "bf_isabella@0.85|How many apples can you see?",
+  "ok": true,
+  "heard": "How many apples can you see?"
+ },
+ "how-many-stars": {
+  "made": "bf_isabella@0.85|How many stars can you see?",
+  "ok": true,
+  "heard": "How many stars can you see?"
+ },
+ "how-many-fish": {
+  "made": "bf_isabella@0.85|How many fish can you see?",
+  "ok": true,
+  "heard": "How many fish can you see?"
+ },
+ "how-many-cats": {
+  "made": "bf_isabella@0.85|How many cats can you see?",
+  "ok": true,
+  "heard": "How many cats can you see?"
+ },
+ "how-many-dogs": {
+  "made": "bf_isabella@0.85|How many dogs can you see?",
+  "ok": true,
+  "heard": "How many dogs can you see?"
+ },
+ "how-many-ducks": {
+  "made": "bf_isabella@0.85|How many ducks can you see?",
+  "ok": true,
+  "heard": "How many ducks can you see?"
+ },
+ "how-many-pigs": {
+  "made": "bf_isabella@0.85|How many pigs can you see?",
+  "ok": true,
+  "heard": "How many pigs can you see?"
+ },
+ "how-many-hens": {
+  "made": "bf_isabella@0.85|How many hens can you see?",
+  "ok": true,
+  "heard": "How many hens can you see?"
+ },
+ "how-many-frogs": {
+  "made": "bf_isabella@0.85|How many frogs can you see?",
+  "ok": true,
+  "heard": "How many frogs can you see?"
+ },
+ "how-many-eggs": {
+  "made": "bf_isabella@0.85|How many eggs can you see?",
+  "ok": true,
+  "heard": "How many eggs can you see?"
+ },
+ "how-many-balls": {
+  "made": "bf_isabella@0.85|How many balls can you see?",
+  "ok": true,
+  "heard": "How many balls can you see?"
+ },
+ "how-many-cakes": {
+  "made": "bf_isabella@0.85|How many cakes can you see?",
+  "ok": true,
+  "heard": "How many cakes can you see?"
+ },
+ "how-many-cars": {
+  "made": "bf_isabella@0.85|How many cars can you see?",
+  "ok": true,
+  "heard": "How many cars can you see?"
+ },
+ "how-many-buses": {
+  "made": "bf_isabella@0.85|How many buses can you see?",
+  "ok": true,
+  "heard": "How many buses can you see?"
+ },
+ "how-many-kites": {
+  "made": "bf_isabella@0.85|How many kites can you see?",
+  "ok": true,
+  "heard": "How many kites can you see?"
+ },
+ "how-many-socks": {
+  "made": "bf_isabella@0.85|How many socks can you see?",
+  "ok": true,
+  "heard": "How many socks can you see?"
+ },
+ "how-many-cups": {
+  "made": "bf_isabella@0.85|How many cups can you see?",
+  "ok": true,
+  "heard": "How many cups can you see?"
+ },
+ "how-many-hats": {
+  "made": "bf_isabella@0.85|How many hats can you see?",
+  "ok": true,
+  "heard": "How many hats can you see?"
+ },
+ "how-many-bugs": {
+  "made": "bf_isabella@0.85|How many bugs can you see?",
+  "ok": true,
+  "heard": "How many bugs can you see?"
+ },
+ "how-many-pears": {
+  "made": "bf_isabella@0.85|How many pears can you see?",
+  "ok": true,
+  "heard": "How many pairs can you see?"
+ },
+ "how-many-lemons": {
+  "made": "bf_isabella@0.85|How many lemons can you see?",
+  "ok": true,
+  "heard": "How many lemons can you see?"
+ },
+ "how-many-bananas": {
+  "made": "bf_isabella@0.85|How many bananas can you see?",
+  "ok": true,
+  "heard": "How many bananas can you see?"
+ },
+ "how-many-carrots": {
+  "made": "bf_isabella@0.85|How many carrots can you see?",
+  "ok": true,
+  "heard": "How many carrots can you see?"
+ },
+ "how-many-boats": {
+  "made": "bf_isabella@0.85|How many boats can you see?",
+  "ok": true,
+  "heard": "How many boats can you see?"
+ },
+ "how-many-bells": {
+  "made": "bf_isabella@0.85|How many bells can you see?",
+  "ok": true,
+  "heard": "How many bells can you see?"
+ },
+ "how-many-drums": {
+  "made": "bf_isabella@0.85|How many drums can you see?",
+  "ok": true,
+  "heard": "How many drums can you see?"
+ },
+ "how-many-keys": {
+  "made": "bf_isabella@0.85|How many keys can you see?",
+  "ok": true,
+  "heard": "How many keys can you see?"
+ },
+ "how-many-rockets": {
+  "made": "bf_isabella@0.85|How many rockets can you see?",
+  "ok": true,
+  "heard": "How many rockets can you see?"
+ },
+ "how-many-rabbits": {
+  "made": "bf_isabella@0.85|How many rabbits can you see?",
+  "ok": true,
+  "heard": "How many rabbits can you see?"
+ },
+ "how-many-penguins": {
+  "made": "bf_isabella@0.85|How many penguins can you see?",
+  "ok": true,
+  "heard": "How many penguins can you see?"
+ },
+ "how-many-snails": {
+  "made": "bf_isabella@0.85|How many snails can you see?",
+  "ok": true,
+  "heard": "How many snails can you see?"
+ },
+ "how-many-trees": {
+  "made": "bf_isabella@0.85|How many trees can you see?",
+  "ok": true,
+  "heard": "How many trees can you see?"
+ },
+ "how-many-nuts": {
+  "made": "bf_isabella@0.85|How many nuts can you see?",
+  "ok": true,
+  "heard": "How many nuts can you see?"
+ },
+ "how-many-plums": {
+  "made": "bf_isabella@0.85|How many plums can you see?",
+  "ok": true,
+  "heard": "How many plums can you see?"
+ },
+ "how-many-mittens": {
+  "made": "bf_isabella@0.85|How many mittens can you see?",
+  "ok": true,
+  "heard": "How many mittens can you see?"
+ },
+ "how-many-roses": {
+  "made": "bf_isabella@0.85|How many roses can you see?",
+  "ok": true,
+  "heard": "How many roses can you see?"
+ },
+ "how-many-books": {
+  "made": "bf_isabella@0.85|How many books can you see?",
+  "ok": true,
+  "heard": "How many books can you see?"
+ },
+ "how-many-bones": {
+  "made": "bf_isabella@0.85|How many bones can you see?",
+  "ok": true,
+  "heard": "How many bones can you see?"
+ },
+ "how-many-bears": {
+  "made": "bf_isabella@0.85|How many bears can you see?",
+  "ok": true,
+  "heard": "How many bears can you see?"
+ },
+ "how-many-robots": {
+  "made": "bf_isabella@0.85|How many robots can you see?",
+  "ok": true,
+  "heard": "How many robots can you see?"
+ },
+ "how-many-ladybirds": {
+  "made": "bf_isabella@0.85|How many ladybirds can you see?",
+  "ok": true,
+  "heard": "How many ladybirds can you see?"
+ },
+ "how-many-tomatoes": {
+  "made": "bf_isabella@0.85|How many tomatoes can you see?",
+  "ok": true,
+  "heard": "How many tomatoes can you see?"
+ },
+ "how-many-pencils": {
+  "made": "bf_isabella@0.85|How many pencils can you see?",
+  "ok": true,
+  "heard": "How many pencils can you see?"
+ },
+ "how-many-umbrellas": {
+  "made": "bf_isabella@0.85|How many umbrellas can you see?",
+  "ok": true,
+  "heard": "How many umbrellas can you see?"
+ },
+ "how-many-ships": {
+  "made": "bf_isabella@0.85|How many ships can you see?",
+  "ok": true,
+  "heard": "How many ships can you see?"
+ },
+ "how-many-crabs": {
+  "made": "bf_isabella@0.85|How many crabs can you see?",
+  "ok": true,
+  "heard": "How many crabs can you see?"
+ },
+ "how-many-flags": {
+  "made": "bf_isabella@0.85|How many flags can you see?",
+  "ok": true,
+  "heard": "How many flags can you see?"
+ },
+ "how-many-presents": {
+  "made": "bf_isabella@0.85|How many presents can you see?",
+  "ok": true,
+  "heard": "How many presents can you see?"
+ },
+ "how-many-ants": {
+  "made": "bf_isabella@0.85|How many ants can you see?",
+  "ok": true,
+  "heard": "How many ants can you see?"
+ },
+ "how-many-moons": {
+  "made": "bf_isabella@0.85|How many moons can you see?",
+  "ok": true,
+  "heard": "How many moons can you see?"
+ },
+ "start-peek": {
+  "made": "bf_isabella@0.85|Watch closely, then tell me how many.",
+  "ok": true,
+  "heard": "Watch closely then tell me how many."
+ },
+ "how-many-dots": {
+  "made": "bf_isabella@0.85|How many dots did you see?",
+  "ok": true,
+  "heard": "How many dots did you see?"
+ },
+ "game-quick-peek": {
+  "made": "bf_isabella@0.85|Quick Peek!",
+  "ok": true,
+  "heard": "Quick peek."
+ },
+ "start-train": {
+  "made": "bf_isabella@0.85|All aboard the number train!",
+  "ok": true,
+  "heard": "all aboard the number train."
+ },
+ "which-missing": {
+  "made": "bf_isabella@0.85|Which number is missing?",
+  "ok": true,
+  "heard": "Which number is missing?"
+ },
+ "what-next": {
+  "made": "bf_isabella@0.85|What number comes next?",
+  "ok": true,
+  "heard": "What number comes next?"
+ },
+ "game-number-train": {
+  "made": "bf_isabella@0.85|Number Train!",
+  "ok": true,
+  "heard": "Number train"
+ },
+ "num-1": {
+  "made": "bf_isabella@0.85|one",
+  "ok": true,
+  "heard": "One"
+ },
+ "num-2": {
+  "made": "bf_isabella@0.85|two",
+  "ok": true,
+  "heard": "2"
+ },
+ "num-3": {
+  "made": "bf_isabella@0.85|three",
+  "ok": true,
+  "heard": "3"
+ },
+ "num-4": {
+  "made": "bf_isabella@0.85|four",
+  "ok": true,
+  "heard": "4"
+ },
+ "num-5": {
+  "made": "bf_isabella@0.85|five",
+  "ok": true,
+  "heard": "5"
+ },
+ "num-6": {
+  "made": "bf_isabella@0.85|six",
+  "ok": true,
+  "heard": "6"
+ },
+ "num-7": {
+  "made": "bf_isabella@0.85|seven",
+  "ok": true,
+  "heard": "7"
+ },
+ "num-8": {
+  "made": "bf_isabella@0.85|eight",
+  "ok": true,
+  "heard": "8."
+ },
+ "num-9": {
+  "made": "bf_isabella@0.85|nine",
+  "ok": true,
+  "heard": "9"
+ },
+ "num-10": {
+  "made": "bf_isabella@0.85|ten",
+  "ok": true,
+  "heard": "10."
+ },
+ "num-11": {
+  "made": "bf_isabella@0.85|eleven",
+  "ok": true,
+  "heard": "11."
+ },
+ "num-12": {
+  "made": "bf_isabella@0.85|twelve",
+  "ok": true,
+  "heard": "12"
+ },
+ "num-13": {
+  "made": "bf_isabella@0.85|thirteen",
+  "ok": true,
+  "heard": "13."
+ },
+ "num-14": {
+  "made": "bf_isabella@0.85|fourteen",
+  "ok": true,
+  "heard": "14."
+ },
+ "num-15": {
+  "made": "bf_isabella@0.85|fifteen",
+  "ok": true,
+  "heard": "15"
+ },
+ "num-16": {
+  "made": "bf_isabella@0.85|sixteen",
+  "ok": true,
+  "heard": "16."
+ },
+ "num-17": {
+  "made": "bf_isabella@0.85|seventeen",
+  "ok": true,
+  "heard": "17."
+ },
+ "num-18": {
+  "made": "bf_isabella@0.85|eighteen",
+  "ok": true,
+  "heard": "18."
+ },
+ "num-19": {
+  "made": "bf_isabella@0.85|nineteen",
+  "ok": true,
+  "heard": "19"
+ },
+ "num-20": {
+  "made": "bf_isabella@0.85|twenty",
+  "ok": true,
+  "heard": "20."
+ },
+ "num-21": {
+  "made": "bf_isabella@0.85|twenty-one",
+  "ok": true,
+  "heard": "21"
+ },
+ "num-22": {
+  "made": "bf_isabella@0.85|twenty-two",
+  "ok": true,
+  "heard": "22."
+ },
+ "num-23": {
+  "made": "bf_isabella@0.85|twenty-three",
+  "ok": true,
+  "heard": "23"
+ },
+ "num-24": {
+  "made": "bf_isabella@0.85|twenty-four",
+  "ok": true,
+  "heard": "24"
+ },
+ "num-25": {
+  "made": "bf_isabella@0.85|twenty-five",
+  "ok": true,
+  "heard": "25"
+ },
+ "num-26": {
+  "made": "bf_isabella@0.85|twenty-six",
+  "ok": true,
+  "heard": "26."
+ },
+ "num-27": {
+  "made": "bf_isabella@0.85|twenty-seven",
+  "ok": true,
+  "heard": "27"
+ },
+ "num-28": {
+  "made": "bf_isabella@0.85|twenty-eight",
+  "ok": true,
+  "heard": "28."
+ },
+ "num-29": {
+  "made": "bf_isabella@0.85|twenty-nine",
+  "ok": true,
+  "heard": "29"
+ },
+ "num-30": {
+  "made": "bf_isabella@0.85|thirty",
+  "ok": true,
+  "heard": "30"
+ },
+ "num-35": {
+  "made": "bf_isabella@0.85|thirty-five",
+  "ok": true,
+  "heard": "35"
+ },
+ "num-40": {
+  "made": "bf_isabella@0.85|forty",
+  "ok": true,
+  "heard": "40"
+ },
+ "num-45": {
+  "made": "bf_isabella@0.85|forty-five",
+  "ok": true,
+  "heard": "45"
+ },
+ "num-50": {
+  "made": "bf_isabella@0.85|fifty",
+  "ok": true,
+  "heard": "50"
+ },
+ "num-60": {
+  "made": "bf_isabella@0.85|sixty",
+  "ok": true,
+  "heard": "60."
+ },
+ "num-70": {
+  "made": "bf_isabella@0.85|seventy",
+  "ok": true,
+  "heard": "70"
+ },
+ "num-80": {
+  "made": "bf_isabella@0.85|eighty",
+  "ok": true,
+  "heard": "80"
+ },
+ "num-90": {
+  "made": "bf_isabella@0.85|ninety",
+  "ok": true,
+  "heard": "90"
+ },
+ "num-100": {
+  "made": "bf_isabella@0.85|one hundred",
+  "ok": true,
+  "heard": "100"
+ },
+ "ducks-away": {
+  "made": "bf_isabella@0.85|Over the hill and far away!",
+  "ok": true,
+  "heard": "over the hill and far away."
+ },
+ "ducks-mother": {
+  "made": "bf_isabella@0.85|Mother duck said, quack, quack, quack, quack!",
+  "ok": true,
+  "heard": "Mother Duck said quack, quack, quack, quack."
+ },
+ "ducks-how-many": {
+  "made": "bf_isabella@0.85|How many ducks are on the pond now?",
+  "ok": true,
+  "heard": "How many ducks are on the pond now?"
+ },
+ "ducks-none": {
+  "made": "bf_isabella@0.85|There are no ducks on the pond!",
+  "ok": true,
+  "heard": "There are no ducks on the pond."
+ },
+ "ducks-all-back": {
+  "made": "bf_isabella@0.85|Hooray! All the little ducks came back!",
+  "ok": true,
+  "heard": "Hooray, all the little ducks came back."
+ },
+ "game-five-little-ducks": {
+  "made": "bf_isabella@0.85|Five Little Ducks!",
+  "ok": true,
+  "heard": "five little ducks"
+ },
+ "ducks-swim-1": {
+  "made": "bf_isabella@0.85|One little duck went swimming one day.",
+  "ok": true,
+  "heard": "One little duck went swimming one day."
+ },
+ "ducks-swim-2": {
+  "made": "bf_isabella@0.85|Two little ducks went swimming one day.",
+  "ok": true,
+  "heard": "Two little ducks went swimming one day."
+ },
+ "ducks-swim-3": {
+  "made": "bf_isabella@0.85|Three little ducks went swimming one day.",
+  "ok": true,
+  "heard": "Three little ducks went swimming one day."
+ },
+ "ducks-swim-4": {
+  "made": "bf_isabella@0.85|Four little ducks went swimming one day.",
+  "ok": true,
+  "heard": "Four little ducks went swimming one day."
+ },
+ "ducks-swim-5": {
+  "made": "bf_isabella@0.85|Five little ducks went swimming one day.",
+  "ok": true,
+  "heard": "Five little ducks went swimming one day."
+ },
+ "ducks-swim-6": {
+  "made": "bf_isabella@0.85|Six little ducks went swimming one day.",
+  "ok": true,
+  "heard": "Six little ducks went swimming one day."
+ },
+ "ducks-swim-7": {
+  "made": "bf_isabella@0.85|Seven little ducks went swimming one day.",
+  "ok": true,
+  "heard": "Seven little ducks went swimming one day."
+ },
+ "ducks-swim-8": {
+  "made": "bf_isabella@0.85|Eight little ducks went swimming one day.",
+  "ok": true,
+  "heard": "Eight little ducks went swimming one day."
+ },
+ "ducks-swim-9": {
+  "made": "bf_isabella@0.85|Nine little ducks went swimming one day.",
+  "ok": true,
+  "heard": "Nine little ducks went swimming one day."
+ },
+ "ducks-swim-10": {
+  "made": "bf_isabella@0.85|Ten little ducks went swimming one day.",
+  "ok": true,
+  "heard": "Ten little ducks went swimming one day."
+ },
+ "start-eggs": {
+  "made": "bf_isabella@0.85|Let's fill the egg boxes!",
+  "ok": true,
+  "heard": "Let's fill the egg boxes."
+ },
+ "eggs-how-many-more": {
+  "made": "bf_isabella@0.85|How many more eggs to fill the box?",
+  "ok": true,
+  "heard": "How many more eggs to fill the box?"
+ },
+ "count-empty": {
+  "made": "bf_isabella@0.85|Let's count the empty spaces.",
+  "ok": true,
+  "heard": "Let's count the empty spaces."
+ },
+ "start-rocket": {
+  "made": "bf_isabella@0.85|Let's fuel up the rocket!",
+  "ok": true,
+  "heard": "Let's fuel up the rocket!"
+ },
+ "rocket-ones": {
+  "made": "bf_isabella@0.85|Let's count in ones.",
+  "ok": true,
+  "heard": "Let's count in ones."
+ },
+ "rocket-twos": {
+  "made": "bf_isabella@0.85|Let's count in twos.",
+  "ok": true,
+  "heard": "Let's count in twos."
+ },
+ "rocket-fives": {
+  "made": "bf_isabella@0.85|Let's count in fives.",
+  "ok": true,
+  "heard": "Let's count in fives"
+ },
+ "rocket-tens": {
+  "made": "bf_isabella@0.85|Let's count in tens.",
+  "ok": true,
+  "heard": "Let's count in tens."
+ },
+ "rocket-find": {
+  "made": "bf_isabella@0.85|Can you find the next number?",
+  "ok": true,
+  "heard": "Can you find the next number?"
+ },
+ "blast-off": {
+  "made": "bf_isabella@0.85|Blast off!",
+  "ok": true,
+  "heard": "Blast off."
+ },
+ "start-croc": {
+  "made": "bf_isabella@0.85|Help feed the hungry crocodile!",
+  "ok": true,
+  "heard": "Help feed the hungry crocodile."
+ },
+ "croc-more": {
+  "made": "bf_isabella@0.85|Which side has more?",
+  "ok": true,
+  "heard": "Which side has more?"
+ },
+ "croc-fewer": {
+  "made": "bf_isabella@0.85|Which side has fewer?",
+  "ok": true,
+  "heard": "Which side has fewer?"
+ },
+ "more-than": {
+  "made": "bf_isabella@0.85|is more than",
+  "ok": true,
+  "heard": "is more than."
+ },
+ "fewer-than": {
+  "made": "bf_isabella@0.85|is fewer than",
+  "ok": true,
+  "heard": "is fewer than"
+ },
+ "game-egg-box": {
+  "made": "bf_isabella@0.85|The egg box game!",
+  "ok": true,
+  "heard": "The Egg Box Game"
+ },
+ "game-rocket-launch": {
+  "made": "bf_isabella@0.85|Rocket Launch!",
+  "ok": true,
+  "heard": "Rocket launch."
+ },
+ "game-hungry-crocodile": {
+  "made": "bf_isabella@0.85|The hungry crocodile game!",
+  "ok": true,
+  "heard": "The Hungry Crocodile Game."
+ },
+ "bond-0-5": {
+  "made": "bf_isabella@0.85|Zero and five make five altogether!",
+  "ok": true,
+  "heard": "0 and 5 make 5 altogether."
+ },
+ "bond-1-4": {
+  "made": "bf_isabella@0.85|One and four make five altogether!",
+  "ok": true,
+  "heard": "One and four make five altogether."
+ },
+ "bond-2-3": {
+  "made": "bf_isabella@0.85|Two and three make five altogether!",
+  "ok": true,
+  "heard": "2 and 3 make 5 altogether."
+ },
+ "bond-3-2": {
+  "made": "bf_isabella@0.85|Three and two make five altogether!",
+  "ok": true,
+  "heard": "3 and 2 make 5 altogether."
+ },
+ "bond-4-1": {
+  "made": "bf_isabella@0.85|Four and one make five altogether!",
+  "ok": true,
+  "heard": "4 and 1 make 5 altogether."
+ },
+ "bond-0-10": {
+  "made": "bf_isabella@0.85|Zero and ten make ten altogether!",
+  "ok": true,
+  "heard": "0 and 10 make 10 altogether."
+ },
+ "bond-1-9": {
+  "made": "bf_isabella@0.85|One and nine make ten altogether!",
+  "ok": true,
+  "heard": "1 and 9 make 10 altogether."
+ },
+ "bond-2-8": {
+  "made": "bf_isabella@0.85|Two and eight make ten altogether!",
+  "ok": true,
+  "heard": "2 and 8 make 10 altogether."
+ },
+ "bond-3-7": {
+  "made": "bf_isabella@0.85|Three and seven make ten altogether!",
+  "ok": true,
+  "heard": "3 and 7 make 10 altogether."
+ },
+ "bond-4-6": {
+  "made": "bf_isabella@0.85|Four and six make ten altogether!",
+  "ok": true,
+  "heard": "4 and 6 make 10 altogether."
+ },
+ "bond-5-5": {
+  "made": "bf_isabella@0.85|Five and five make ten altogether!",
+  "ok": true,
+  "heard": "Five and five make ten altogether."
+ },
+ "bond-6-4": {
+  "made": "bf_isabella@0.85|Six and four make ten altogether!",
+  "ok": true,
+  "heard": "6 and 4 make 10 altogether."
+ },
+ "bond-7-3": {
+  "made": "bf_isabella@0.85|Seven and three make ten altogether!",
+  "ok": true,
+  "heard": "7 and 3 make 10 altogether."
+ },
+ "bond-8-2": {
+  "made": "bf_isabella@0.85|Eight and two make ten altogether!",
+  "ok": true,
+  "heard": "8 and 2 make 10 altogether."
+ },
+ "bond-9-1": {
+  "made": "bf_isabella@0.85|Nine and one make ten altogether!",
+  "ok": true,
+  "heard": "9 and 1 make 10 altogether."
+ },
+ "start-race-10": {
+  "made": "bf_isabella@0.85|Let's race to ten!",
+  "ok": true,
+  "heard": "Let's race to 10."
+ },
+ "start-race-20": {
+  "made": "bf_isabella@0.85|Let's race to twenty!",
+  "ok": true,
+  "heard": "Let's race to 20."
+ },
+ "race-spin": {
+  "made": "bf_isabella@0.85|Give the spinner a spin!",
+  "ok": true,
+  "heard": "Give the spinner a spin."
+ },
+ "race-hop-1": {
+  "made": "bf_isabella@0.85|Hop one space.",
+  "ok": true,
+  "heard": "Hop One Space"
+ },
+ "race-hop-2": {
+  "made": "bf_isabella@0.85|Hop two spaces.",
+  "ok": true,
+  "heard": "Hop two spaces."
+ },
+ "race-rabbit-turn": {
+  "made": "bf_isabella@0.85|It's Rabbit's turn to play.",
+  "ok": true,
+  "heard": "It's Rabbit's turn to play."
+ },
+ "race-tortoise-turn": {
+  "made": "bf_isabella@0.85|It's Tortoise's turn to play.",
+  "ok": true,
+  "heard": "It's Tortoise's turn to play."
+ },
+ "race-rabbit-wins": {
+  "made": "bf_isabella@0.85|Hooray! Rabbit won the race!",
+  "ok": true,
+  "heard": "Hooray, Rabbit won the race."
+ },
+ "race-tortoise-wins": {
+  "made": "bf_isabella@0.85|Hooray! Tortoise won the race!",
+  "ok": true,
+  "heard": "Hooray Tortoise won the race."
+ },
+ "race-again": {
+  "made": "bf_isabella@0.85|Let's race again!",
+  "ok": true,
+  "heard": "Let's race again."
+ },
+ "start-race-50": {
+  "made": "bf_isabella@0.85|Let's race to fifty!",
+  "ok": true,
+  "heard": "Let's race to 50!"
+ },
+ "start-race-100": {
+  "made": "bf_isabella@0.85|Let's race to one hundred!",
+  "ok": true,
+  "heard": "Let's race to 100."
+ },
+ "race-roll": {
+  "made": "bf_isabella@0.85|Roll the dice!",
+  "ok": true,
+  "heard": "Roll the dice."
+ },
+ "race-hop-3": {
+  "made": "bf_isabella@0.85|Hop three spaces.",
+  "ok": true,
+  "heard": "Hop three spaces."
+ },
+ "race-hop-4": {
+  "made": "bf_isabella@0.85|Hop four spaces.",
+  "ok": true,
+  "heard": "Hop for spaces."
+ },
+ "race-hop-5": {
+  "made": "bf_isabella@0.85|Hop five spaces.",
+  "ok": true,
+  "heard": "Hop 5 Spaces"
+ },
+ "race-hop-6": {
+  "made": "bf_isabella@0.85|Hop six spaces.",
+  "ok": true,
+  "heard": "HOP 6 spaces"
+ },
+ "game-number-race": {
+  "made": "bf_isabella@0.85|Number race!",
+  "ok": true,
+  "heard": "Number race."
+ },
+ "num-31": {
+  "made": "bf_isabella@0.85|thirty-one",
+  "ok": true,
+  "heard": "31."
+ },
+ "num-32": {
+  "made": "bf_isabella@0.85|thirty-two",
+  "ok": true,
+  "heard": "32"
+ },
+ "num-33": {
+  "made": "bf_isabella@0.85|thirty-three",
+  "ok": true,
+  "heard": "33"
+ },
+ "num-34": {
+  "made": "bf_isabella@0.85|thirty-four",
+  "ok": true,
+  "heard": "34"
+ },
+ "num-36": {
+  "made": "bf_isabella@0.85|thirty-six",
+  "ok": true,
+  "heard": "36."
+ },
+ "num-37": {
+  "made": "bf_isabella@0.85|thirty-seven",
+  "ok": true,
+  "heard": "37"
+ },
+ "num-38": {
+  "made": "bf_isabella@0.85|thirty-eight",
+  "ok": true,
+  "heard": "38"
+ },
+ "num-39": {
+  "made": "bf_isabella@0.85|thirty-nine",
+  "ok": true,
+  "heard": "39"
+ },
+ "num-41": {
+  "made": "bf_isabella@0.85|forty-one",
+  "ok": true,
+  "heard": "41."
+ },
+ "num-42": {
+  "made": "bf_isabella@0.85|forty-two",
+  "ok": true,
+  "heard": "42."
+ },
+ "num-43": {
+  "made": "bf_isabella@0.85|forty-three",
+  "ok": true,
+  "heard": "43"
+ },
+ "num-44": {
+  "made": "bf_isabella@0.85|forty-four",
+  "ok": true,
+  "heard": "44"
+ },
+ "num-46": {
+  "made": "bf_isabella@0.85|forty-six",
+  "ok": true,
+  "heard": "46."
+ },
+ "num-47": {
+  "made": "bf_isabella@0.85|forty-seven",
+  "ok": true,
+  "heard": "47"
+ },
+ "num-48": {
+  "made": "bf_isabella@0.85|forty-eight",
+  "ok": true,
+  "heard": "48."
+ },
+ "num-49": {
+  "made": "bf_isabella@0.85|forty-nine",
+  "ok": true,
+  "heard": "49."
+ },
+ "num-51": {
+  "made": "bf_isabella@0.85|fifty-one",
+  "ok": true,
+  "heard": "51."
+ },
+ "num-52": {
+  "made": "bf_isabella@0.85|fifty-two",
+  "ok": true,
+  "heard": "52"
+ },
+ "num-53": {
+  "made": "bf_isabella@0.85|fifty-three",
+  "ok": true,
+  "heard": "53"
+ },
+ "num-54": {
+  "made": "bf_isabella@0.85|fifty-four",
+  "ok": true,
+  "heard": "54"
+ },
+ "num-55": {
+  "made": "bf_isabella@0.85|fifty-five",
+  "ok": true,
+  "heard": "55."
+ },
+ "num-56": {
+  "made": "bf_isabella@0.85|fifty-six",
+  "ok": true,
+  "heard": "56."
+ },
+ "num-57": {
+  "made": "bf_isabella@0.85|fifty-seven",
+  "ok": true,
+  "heard": "57"
+ },
+ "num-58": {
+  "made": "bf_isabella@0.85|fifty-eight",
+  "ok": true,
+  "heard": "58"
+ },
+ "num-59": {
+  "made": "bf_isabella@0.85|fifty-nine",
+  "ok": true,
+  "heard": "59."
+ },
+ "num-61": {
+  "made": "bf_isabella@0.85|sixty-one",
+  "ok": true,
+  "heard": "61."
+ },
+ "num-62": {
+  "made": "bf_isabella@0.85|sixty-two",
+  "ok": true,
+  "heard": "62."
+ },
+ "num-63": {
+  "made": "bf_isabella@0.85|sixty-three",
+  "ok": true,
+  "heard": "63"
+ },
+ "num-64": {
+  "made": "bf_isabella@0.85|sixty-four",
+  "ok": true,
+  "heard": "64."
+ },
+ "num-65": {
+  "made": "bf_isabella@0.85|sixty-five",
+  "ok": true,
+  "heard": "65"
+ },
+ "num-66": {
+  "made": "bf_isabella@0.85|sixty-six",
+  "ok": true,
+  "heard": "66"
+ },
+ "num-67": {
+  "made": "bf_isabella@0.85|sixty-seven",
+  "ok": true,
+  "heard": "67"
+ },
+ "num-68": {
+  "made": "bf_isabella@0.85|sixty-eight",
+  "ok": true,
+  "heard": "68."
+ },
+ "num-69": {
+  "made": "bf_isabella@0.85|sixty-nine",
+  "ok": true,
+  "heard": "69."
+ },
+ "num-71": {
+  "made": "bf_isabella@0.85|seventy-one",
+  "ok": true,
+  "heard": "71."
+ },
+ "num-72": {
+  "made": "bf_isabella@0.85|seventy-two",
+  "ok": true,
+  "heard": "72."
+ },
+ "num-73": {
+  "made": "bf_isabella@0.85|seventy-three",
+  "ok": true,
+  "heard": "73"
+ },
+ "num-74": {
+  "made": "bf_isabella@0.85|seventy-four",
+  "ok": true,
+  "heard": "74."
+ },
+ "num-75": {
+  "made": "bf_isabella@0.85|seventy-five",
+  "ok": true,
+  "heard": "75."
+ },
+ "num-76": {
+  "made": "bf_isabella@0.85|seventy-six",
+  "ok": true,
+  "heard": "76."
+ },
+ "num-77": {
+  "made": "bf_isabella@0.85|seventy-seven",
+  "ok": true,
+  "heard": "77."
+ },
+ "num-78": {
+  "made": "bf_isabella@0.85|seventy-eight",
+  "ok": true,
+  "heard": "78"
+ },
+ "num-79": {
+  "made": "bf_isabella@0.85|seventy-nine",
+  "ok": true,
+  "heard": "79."
+ },
+ "num-81": {
+  "made": "bf_isabella@0.85|eighty-one",
+  "ok": true,
+  "heard": "81."
+ },
+ "num-82": {
+  "made": "bf_isabella@0.85|eighty-two",
+  "ok": true,
+  "heard": "82"
+ },
+ "num-83": {
+  "made": "bf_isabella@0.85|eighty-three",
+  "ok": true,
+  "heard": "83"
+ },
+ "num-84": {
+  "made": "bf_isabella@0.85|eighty-four",
+  "ok": true,
+  "heard": "84"
+ },
+ "num-85": {
+  "made": "bf_isabella@0.85|eighty-five",
+  "ok": true,
+  "heard": "85"
+ },
+ "num-86": {
+  "made": "bf_isabella@0.85|eighty-six",
+  "ok": true,
+  "heard": "86."
+ },
+ "num-87": {
+  "made": "bf_isabella@0.85|eighty-seven",
+  "ok": true,
+  "heard": "87"
+ },
+ "num-88": {
+  "made": "bf_isabella@0.85|eighty-eight",
+  "ok": true,
+  "heard": "88"
+ },
+ "num-89": {
+  "made": "bf_isabella@0.85|eighty-nine",
+  "ok": true,
+  "heard": "89."
+ },
+ "num-91": {
+  "made": "bf_isabella@0.85|ninety-one",
+  "ok": true,
+  "heard": "91"
+ },
+ "num-92": {
+  "made": "bf_isabella@0.85|ninety-two",
+  "ok": true,
+  "heard": "Ninety-two"
+ },
+ "num-93": {
+  "made": "bf_isabella@0.85|ninety-three",
+  "ok": true,
+  "heard": "93"
+ },
+ "num-94": {
+  "made": "bf_isabella@0.85|ninety-four",
+  "ok": true,
+  "heard": "94."
+ },
+ "num-95": {
+  "made": "bf_isabella@0.85|ninety-five",
+  "ok": true,
+  "heard": "95."
+ },
+ "num-96": {
+  "made": "bf_isabella@0.85|ninety-six",
+  "ok": true,
+  "heard": "Ninety-six"
+ },
+ "num-97": {
+  "made": "bf_isabella@0.85|ninety-seven",
+  "ok": true,
+  "heard": "97."
+ },
+ "num-98": {
+  "made": "bf_isabella@0.85|ninety-eight",
+  "ok": true,
+  "heard": "98."
+ },
+ "num-99": {
+  "made": "bf_isabella@0.85|ninety-nine",
+  "ok": true,
+  "heard": "99."
+ },
+ "race-last-turn": {
+  "made": "bf_isabella@0.85|One last turn to catch up!",
+  "ok": true,
+  "heard": "One last turn to catch up."
+ },
+ "race-draw": {
+  "made": "bf_isabella@0.85|It's a draw! What a close race!",
+  "ok": true,
+  "heard": "It's a draw, what a close race."
+ },
+ "race-match-rabbit": {
+  "made": "bf_isabella@0.85|Rabbit wins the game! Well played, everyone!",
+  "ok": true,
+  "heard": "Rabbit wins the game. Well played, everyone."
+ },
+ "race-match-tortoise": {
+  "made": "bf_isabella@0.85|Tortoise wins the game! Well played, everyone!",
+  "ok": true,
+  "heard": "Tortoise wins the game. Well played, everyone."
+ },
+ "race-match-tie": {
+  "made": "bf_isabella@0.85|It's a tie! You are both winners!",
+  "ok": true,
+  "heard": "It's a tie. You are both winners."
+ }
+}
