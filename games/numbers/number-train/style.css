@@ -1,0 +1,92 @@
+/* Number Train: an engine and five numbered carriages on a track, and numbers to choose from. */
+
+.board {
+  position: fixed;
+  top: 20vh;
+  bottom: 3vh;
+  left: 0;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.rail { position: relative; width: 100%; padding: 0 16px; }
+
+.train {
+  --car: min(124px, calc((100vw - 56px) / 6.6), 15vh);
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: calc(var(--car) * 0.04);
+  z-index: 1;
+}
+
+.engine { width: calc(var(--car) * 1.4); aspect-ratio: 140 / 90; flex: none; }
+.car { position: relative; width: var(--car); aspect-ratio: 100 / 90; flex: none; }
+.train svg { overflow: visible; }
+/* the number sits in the carriage's window */
+.car .num {
+  position: absolute;
+  left: 16%;
+  top: 24%;
+  width: 68%;
+  height: 42%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: calc(var(--car) * 0.08);
+  font-family: 'Andika', sans-serif;
+  font-weight: 700;
+  font-size: calc(var(--car) * 0.34);
+  line-height: 1;
+  color: var(--ink);
+}
+.car .num.long { font-size: calc(var(--car) * 0.25); }
+.car.gap .num {
+  border: 3px dashed #9aa3b2;
+  background: #f4f6fb;
+  color: #9aa3b2;
+}
+.car.gap.next .num { border-color: var(--accent); color: var(--accent); }
+.car.filled .num { color: #1a6a60; }
+
+.wheel { transform-box: fill-box; transform-origin: center; }
+.train.moving .wheel { animation: wheel-spin 0.5s linear infinite; }
+@keyframes wheel-spin { to { transform: rotate(-360deg); } }
+
+.smoke {
+  position: absolute;
+  width: calc(var(--car) * 0.22);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.9);
+  pointer-events: none;
+}
+
+.track {
+  height: 14px;
+  margin: -2px -16px 0;
+  background:
+    linear-gradient(#7c8aa5, #7c8aa5) top / 100% 5px no-repeat,
+    repeating-linear-gradient(90deg, #8a5a3b 0 12px, transparent 12px 34px) bottom / 100% 9px no-repeat;
+}
+
+.numbers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: clamp(10px, 2.4vw, 22px);
+  padding: 0 16px;
+  --tile: clamp(64px, min(17vw, 13vh), 116px);
+}
+.numbers .tile { width: auto; min-width: var(--tile); padding: 0 0.25em 6%; }
+.numbers .tile.long { font-size: calc(var(--tile) * 0.46); }
+.tile.right { box-shadow: 0 6px 0 var(--shade), 0 0 0 5px #fff, 0 0 30px 10px rgba(42, 157, 143, 0.55); }
+.tile:disabled { opacity: 0.35; }
+.flying { position: fixed; z-index: 4; margin: 0; pointer-events: none; }
+
+.start-art { display: flex; justify-content: center; margin-bottom: 2vh; }
+.start-art .train { --car: 9vh; }
