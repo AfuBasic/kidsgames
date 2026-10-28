@@ -1,0 +1,69 @@
+/* Count It: a mat of pictures to count, and a row of numbers to choose from. */
+
+.board {
+  position: fixed;
+  top: 20vh;
+  bottom: 3vh;
+  left: 0;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3vh;
+  padding: 0 16px;
+}
+
+.mat {
+  position: relative;
+  flex: 1;
+  width: min(100%, 900px);
+  border-radius: 32px;
+}
+
+.thing {
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding: 0;
+  border: none;
+  background: none;
+  filter: drop-shadow(0 6px 8px rgba(34, 49, 77, 0.16));
+}
+.thing svg { overflow: visible; }
+/* the number a picture gets when it's counted */
+.thing .badge {
+  position: absolute;
+  right: -6%;
+  top: -6%;
+  width: 42%;
+  min-width: 26px;
+  aspect-ratio: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: #f2b134;
+  box-shadow: 0 3px 0 #c07a14, 0 0 0 3px #fff;
+  color: #fff;
+  font-family: 'Andika', sans-serif;
+  font-weight: 700;
+  font-size: max(15px, calc(var(--size) * 0.24));
+  line-height: 1;
+  opacity: 0;
+  pointer-events: none;
+}
+.thing.counted .badge { opacity: 1; }
+.thing.last .badge { background: #2a9d8f; box-shadow: 0 3px 0 #1a6a60, 0 0 0 3px #fff, 0 0 18px 6px rgba(42, 157, 143, 0.5); }
+
+.numbers {
+  display: flex;
+  justify-content: center;
+  gap: clamp(10px, 2.4vw, 22px);
+  --tile: clamp(64px, min(17vw, 13vh), 116px);
+}
+.numbers .tile { width: auto; min-width: var(--tile); padding: 0 0.22em 6%; } /* room for 2 digits */
+.tile.right { box-shadow: 0 6px 0 var(--shade), 0 0 0 5px #fff, 0 0 30px 10px rgba(42, 157, 143, 0.55); }
+.tile:disabled { opacity: 0.35; }
+
+.start-art { display: flex; justify-content: center; gap: 2vh; height: 11vh; margin-bottom: 2vh; }
+.start-art .thing { position: relative; height: 100%; aspect-ratio: 1; --size: 11vh; }
