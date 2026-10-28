@@ -1,0 +1,51 @@
+/* Blend Robot: the robot, and a row of pictures to choose from. */
+
+.board {
+  position: fixed;
+  top: 20vh;
+  bottom: 3vh;
+  left: 0;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 0 16px;
+}
+
+.robot { height: min(36vh, 64vw); aspect-ratio: 200 / 220; }
+.robot svg, .start-robot svg { overflow: visible; }
+.start-robot { height: 18vh; aspect-ratio: 200 / 220; margin: 0 auto 1vh; }
+
+.screen-letter {
+  font-family: 'Andika', sans-serif;
+  font-weight: 700;
+  font-size: 34px;
+  fill: #3a4a66;
+  transition: fill 0.15s;
+}
+.screen-letter.lit { fill: #7fe0e8; filter: drop-shadow(0 0 4px #7fe0e8); }
+
+.picks {
+  display: grid;
+  grid-template-columns: repeat(var(--n, 2), 1fr);
+  gap: clamp(10px, 2vh, 18px);
+  width: min(100%, calc(var(--n, 2) * 190px));
+}
+@media (max-width: 520px) {
+  .picks.many { grid-template-columns: repeat(2, 1fr); width: min(100%, 360px); }
+}
+
+.pick {
+  aspect-ratio: 1;
+  padding: 10%;
+  border: none;
+  border-radius: 26px;
+  cursor: pointer;
+  justify-self: center;
+  width: min(100%, 24vh);
+}
+.picks.many .pick { width: min(100%, 17vh); }
+.pick:disabled { opacity: 0.35; }
+.pick.hint { box-shadow: var(--shadow), 0 0 0 5px #fff, 0 0 32px 12px #fff59d; }
+.pick.right { box-shadow: var(--shadow), 0 0 0 5px #2a9d8f, 0 0 30px 8px rgba(42, 157, 143, 0.5); }
