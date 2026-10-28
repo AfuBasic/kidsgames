@@ -1,0 +1,5 @@
+# Wrangler's local cache
+.wrangler/
+
+# macOS
+.DS_Store
