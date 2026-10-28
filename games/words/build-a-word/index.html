@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="manifest" href="../../../manifest.webmanifest">
+  <meta name="theme-color" content="#a9d4ee">
+  <link rel="icon" href="../../../icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="../../../icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Word Games">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <title>Build-a-Word</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Andika:wght@400;700&family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../../shared/theme.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-home="../../../">
+  <header class="hud">
+    <button class="round-button replay glass" aria-label="Hear the word again"></button>
+    <div class="progress glass" aria-label="Progress to the next star">
+      <div class="dots"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>
+      <div class="star-count"><span class="star-icon"></span><span class="star-number">0</span></div>
+    </div>
+  </header>
+
+  <main class="board">
+    <div id="picture" class="picture glass"></div>
+    <div id="slots" class="slots" aria-label="Word"></div>
+    <div id="tray" class="tray" aria-label="Letters"></div>
+  </main>
+
+  <section id="start" class="overlay start">
+    <div class="card glass">
+      <div class="start-tiles" aria-hidden="true">
+        <span class="tile" style="--color: #ef6f6c; --shade: #b03f45">c</span>
+        <span class="tile" style="--color: #5f63d0; --shade: #383b92">a</span>
+        <span class="tile" style="--color: #2a9d8f; --shade: #1a6a60">t</span>
+      </div>
+      <h1>Build-a-Word</h1>
+      <p class="tagline">Look. Listen. Spell it!</p>
+      <button id="play" class="big-button">Play</button>
+      <details class="settings">
+        <summary>Settings for grown-ups</summary>
+        <fieldset>
+          <legend>Words</legend>
+          <label><input type="radio" name="length" value="3" checked> <strong>3 letters</strong><small>cat, bus, hen</small></label>
+          <label><input type="radio" name="length" value="all"> <strong>3 and 4 letters</strong><small>adds frog, lamp</small></label>
+        </fieldset>
+        <fieldset>
+          <legend>Start at</legend>
+          <label><input type="radio" name="start-level" value="0" checked> <strong>Level 1</strong><small>Add the last letter</small></label>
+          <label><input type="radio" name="start-level" value="1"> <strong>Level 2</strong><small>First letter given</small></label>
+          <label><input type="radio" name="start-level" value="2"> <strong>Level 3</strong><small>Spell it all</small></label>
+          <label><input type="radio" name="start-level" value="3"> <strong>Level 4</strong><small>Spell it all, extra letters</small></label>
+        </fieldset>
+        <p class="note">Every 5 words earns a star, and each star moves up a level. Every word is used once before any repeats.</p>
+      </details>
+    </div>
+  </section>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="../../../shared/pictures.js"></script>
+  <script src="../../../shared/pictures-2.js"></script>
+  <script src="../../../shared/pictures-3.js"></script>
+  <script src="../../../shared/pictures-4.js"></script>
+  <script src="../../../shared/words.js"></script>
+  <script src="../../../shared/numbers.js"></script>
+  <script src="../../../shared/phrases.js"></script>
+  <script src="../../../shared/sounds.js"></script>
+  <script src="../../../shared/voice.js"></script>
+  <script src="../../../shared/scene.js"></script>
+  <script src="../../../shared/effects.js"></script>
+  <script src="../../../shared/deck.js"></script>
+  <script src="game.js"></script>
+</body>
+</html>
